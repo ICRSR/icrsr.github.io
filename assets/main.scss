@@ -6,9 +6,19 @@
 
 .site-header,
 .site-footer {
-    background-color: #FDB84D;
+    background: rgb(235,192,123);
+    background: linear-gradient(0deg, rgba(235,192,123,1) 0%, rgba(253,184,77,1) 100%);
 }
 
 .footer-col-wrapper {
     color: #585858
 }
+
+img[alt=banner] {
+    border-radius: 10px;
+    object-fit: cover;
+    object-position: 0 75%;
+    width: 100%;
+    height: 400px;
+}
+

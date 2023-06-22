@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sumissions
+title: Submissions
 permalink: /submisions/
 ---
 
