@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: International Conference on Resilience and Sustainable Regions
-email: icrsr@ips.pt
+#email: icrsr@ips.pt
 #description: >- # this means to ignore newlines until "baseurl:"
 #  1st International Conference on Resilience and Sustainable Regions
 baseurl: "" # the subpath of your site, e.g. /blog

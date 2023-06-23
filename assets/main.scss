@@ -4,21 +4,74 @@
 
 @import "minima";
 
+$theme-color-primary: #fdb84d;
+$theme-color-secondary: #ebc07b;
+$theme-color-seconday-semitransparent: rgba($theme-color-secondary, 0.1);
+$theme-color-text-shadow: #ff7700;
+$theme-color-content-background: rgba(white, 0.5);
+$theme-color-special-text: #247a91;
+
+.site-logo {
+    float: right;
+} 
+
 .site-header,
 .site-footer {
-    background: rgb(235,192,123);
-    background: linear-gradient(0deg, rgba(235,192,123,1) 0%, rgba(253,184,77,1) 100%);
+    border: 0;
+    background: $theme-color-primary;
+}
+
+.site-header {
+    background: linear-gradient($theme-color-primary, $theme-color-secondary);
+}
+
+.site-footer {
+    background: linear-gradient($theme-color-secondary, $theme-color-primary);
+    padding-bottom: 0;
+}
+
+.site-header .site-title {
+    font-weight: bold;
+    color: white !important;
+    text-shadow: $theme-color-text-shadow 0 0 5px,
+                 $theme-color-text-shadow 0 0 10px,
+                 $theme-color-text-shadow 0 0 20px,
+                 $theme-color-text-shadow 0 0 30px;
+}
+
+.site-header .page-link,
+.footer-heading {
+    color: $theme-color-special-text;
+    font-weight: bold;
+}
+
+main.page-content {
+    background: linear-gradient($theme-color-secondary 0%,  $theme-color-seconday-semitransparent 25%),
+                url("{{ site.baseurl }}/assets/images/background-plant-semitransparent.webp") right bottom/auto 25% no-repeat,
+                url("{{ site.baseurl }}/assets/images/background-tile.webp") left top/auto 100% repeat;
+}
+
+main.page-content div.wrapper {
+    background-color: $theme-color-content-background;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .footer-col-wrapper {
-    color: #585858
+    color: $theme-color-special-text
 }
 
-img[alt=banner] {
-    border-radius: 10px;
-    object-fit: cover;
-    object-position: 0 75%;
+.organization-logo {
+    float: left;
+}
+
+@media screen and (max-width: 600px) {
+    .site-logo {
+        float: left;
+    }
+}
+
+.full-width-image {
     width: 100%;
-    height: 400px;
 }
-
