@@ -62,3 +62,11 @@ You may buy the ticket to the bus driver or buy a group of prepaid cards in the 
 ### Option 3
 #### Taxi or Uber/Bolt
 - Around 10€.
+
+## Accommodation
+We recommend that you can stay at the city centre, since it will be easier for transportation and much more pleasant for social activities. These suggestions are located downtown and  close to restaurants, shops and even the beach:
+- [Hotel Bocage](https://www.booking.com/hotel/pt/residencial-bocage.html)
+- [Hotel Laitau](http://www.hotellaitau.pt/)
+- [Hotel Solaris](http://www.solarishotel.pt/)
+- [Hotel Luna Esperança Centro](https://www.lunahoteis.com/en/luna-esperanca/the-hotel.html)
+- [Hotel Meliá Setúbal](https://www.meliasetubal.com/)

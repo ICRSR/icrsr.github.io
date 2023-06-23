@@ -59,11 +59,15 @@ main.page-content div.wrapper {
 }
 
 .footer-col-wrapper {
-    color: $theme-color-special-text
+    color: $theme-color-special-text;
 }
 
 .organization-logo {
     float: left;
+}
+
+.full-width-image {
+    width: 100%;
 }
 
 @media screen and (max-width: 600px) {
@@ -72,6 +76,9 @@ main.page-content div.wrapper {
     }
 }
 
-.full-width-image {
-    width: 100%;
+@media screen and (min-width: 600px) and (max-width: 800px) {
+    .footer-col-wrapper * {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
 }
