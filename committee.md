@@ -5,7 +5,7 @@ permalink: /committee/
 ---
 
 # Conference Chairs
-To be added
+*To be added*
 
 # Organising Committee
 - Ana de Jesus Mendes, Instituto Politécnico de Setúbal, Portugal
@@ -20,7 +20,7 @@ To be added
 - Raquel Barreira, Instituto Politécnico de Setúbal, Portugal
 - Susana Galvão, Instituto Politécnico de Setúbal, Portugal
 - Telma Guerra, Instituto Politécnico de Setúbal, Portugal
-- Victor Barbosa, Instituto Politécnico de Setúbal, Portugal
+- Vítor Barbosa, Instituto Politécnico de Setúbal, Portugal
 
 # Scientific Committee
 - Ana Gabriela Gomes, Instituto Politécnico de Setúbal, Portugal
@@ -37,9 +37,9 @@ To be added
 - Marco Marques, Instituto Politécnico de Setúbal, Portugal
 - Maria Catarina Paz, Instituto Politécnico de Setúbal, Portugal
 - Maria Serralha, Instituto Politécnico de Setúbal, Portugal
-- Maria Teresa Costa, Instituto Politécnico de Setúbal, Portugal (coordenação)
+- Maria Teresa Costa, Instituto Politécnico de Setúbal, Portugal (coordination)
 - Martinha Piteira, Instituto Politécnico de Setúbal, Portugal
-- Nelson Carriço, Instituto Politécnico de Setúbal, Portugal (coordenação)
+- Nelson Carriço, Instituto Politécnico de Setúbal, Portugal (coordination)
 - Nuno Costa, Instituto Politécnico de Setúbal, Portugal
 - Nuno Teixeira, Instituto Politécnico de Setúbal, Portugal  
 - Paulo Silveira, Instituto Politécnico de Setúbal, Portugal

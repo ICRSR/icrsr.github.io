@@ -4,17 +4,16 @@ title: Submissions
 permalink: /submissions/
 ---
 
+| Key moments                           | Deadline        |
+| ------------------------------------- | --------------- |
+| Call for Abstracts                    | 3 July          |
+| Abstract Submission                   | 8 September     |
+| Abstract Acceptance                   | 22 September    |
+| Full Paper Submission                 | 13 October      |
+| Early Registration Deadline           | 1 November      |
+| Full Paper Revision Notification      | 10 November     |
+| Revised Full Paper Submission         | 24 November     |
+| Late Registration Deadline            | 24 November     |
 
-| Key dates                             | Deadline      |
-| ------------------------------------- | ------------- |
-| Call for abstracts                    | 3 July        |
-| Abstract submission                   | 8 September   |
-| Abstract acceptance                   | 22 September  |
-| Full paper submission                 | 13 October    |
-| Early registration                    | 1 November    |
-| Full Paper revision notification      | 10 November   |
-| Revised full paper submission         | 24 November   |
-| Late registration                     | 24 November   |
-
-# Template
-TO DO
+# Submission Template
+*To be added soon.*

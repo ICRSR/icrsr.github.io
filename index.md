@@ -27,4 +27,4 @@ With a multidisciplinary approach it is expected that this conference will be at
 
 ## First Call
 ### Abstract Submission Deadline: 8 September 2023
-[More details](/submissions)
+[More details]({{ 'submissions' | relative_url }})
