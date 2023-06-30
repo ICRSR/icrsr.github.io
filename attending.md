@@ -4,6 +4,7 @@ title: Attending
 permalink: /attending/
 ---
 
+
 # Traveling and accommodation
 
 Setúbal is included in the metropolitan area of Lisbon, capital of Portugal, so there are excellent accessibilities in terms of road, rail and sea-river transport.

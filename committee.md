@@ -7,28 +7,22 @@ permalink: /committee/
 # Conference Chairs
 To be added
 
-# Organising Team / Executive Board
+# Organising Committee
 - Ana de Jesus Mendes, Instituto Politécnico de Setúbal, Portugal
+- Anabela Correia, Instituto Politécnico de Setúbal, Portugal
 - Bruno Ferreira, Instituto Politécnico de Setúbal, Portugal
+- Carlos Mata, Instituto Politécnico de Setúbal, Portugal
 - Maria Catarina Paz, Instituto Politécnico de Setúbal, Portugal
 - Maria Teresa Costa, Instituto Politécnico de Setúbal, Portugal (coordination)
 - Nelson Carriço, Instituto Politécnico de Setúbal, Portugal (coordination)
 - Nuno Teixeira, Instituto Politécnico de Setúbal, Portugal
 - Pedro Albuquerque Santos, Instituto Politécnico de Setúbal, Portugal
-- Pedro Santos, Instituto Politécnico de Setúbal, Portugal
 - Raquel Barreira, Instituto Politécnico de Setúbal, Portugal
 - Susana Galvão, Instituto Politécnico de Setúbal, Portugal
+- Telma Guerra, Instituto Politécnico de Setúbal, Portugal
+- Victor Barbosa, Instituto Politécnico de Setúbal, Portugal
 
-# Organising Team / Track Directors
-- *To be added*
-
-# Keynote Speakers
-- *To be added*
-
-# Advisory Board
-- *To be added*
-
-# Scientific Board
+# Scientific Committee
 - Ana Gabriela Gomes, Instituto Politécnico de Setúbal, Portugal
 - Anabela Correia, Instituto Politécnico de Setúbal, Portugal
 - Duarte Xara Brasil, Instituto Politécnico de Setúbal, Portugal
@@ -59,5 +53,3 @@ To be added
  
 # Sponsors
 - *To be added*
-
-[comment]: # This conference is jointly organised by:
