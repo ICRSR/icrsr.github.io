@@ -10,7 +10,6 @@ permalink: /committee/
 # Organising Committee
 - Ana de Jesus Mendes, Instituto Politécnico de Setúbal, Portugal
 - Anabela Correia, Instituto Politécnico de Setúbal, Portugal
-- Bruno Ferreira, Instituto Politécnico de Setúbal, Portugal
 - Carlos Mata, Instituto Politécnico de Setúbal, Portugal
 - Maria Catarina Paz, Instituto Politécnico de Setúbal, Portugal
 - Maria Teresa Costa, Instituto Politécnico de Setúbal, Portugal (coordination)

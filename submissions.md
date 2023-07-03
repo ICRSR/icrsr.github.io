@@ -4,6 +4,8 @@ title: Submissions
 permalink: /submissions/
 ---
 
+## Deadlines
+
 | Key moments                           | Deadline        |
 | ------------------------------------- | --------------- |
 | Call for Abstracts                    | 3 July          |
@@ -15,5 +17,6 @@ permalink: /submissions/
 | Revised Full Paper Submission         | 24 November     |
 | Late Registration Deadline            | 24 November     |
 
-# Submission Template
-*To be added soon.*
+## Instructions
+### Call for Abstracts
+#### [Template]({{ 'assets/documents/ExtendedAbstract.docx' | relative_url }})
