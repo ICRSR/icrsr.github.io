@@ -76,9 +76,11 @@ main.page-content div.wrapper {
     }
 }
 
-@media screen and (min-width: 600px) and (max-width: 800px) {
-    .footer-col-wrapper * {
-        margin-top: 0;
-        margin-bottom: 0;
-    }
+footer .u-email {
+    font-size: 1.2em;
+    color: $theme-color-special-text;
+}
+
+footer .u-email:hover {
+    color: darken($theme-color-special-text, 10%);
 }

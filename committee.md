@@ -4,10 +4,10 @@ title: Committee
 permalink: /committee/
 ---
 
-# Conference Chairs
-*To be added*
+[comment]: # # Conference Chairs
+[comment]: # *To be added*
 
-# Organising Committee
+# Organising Committee ([icrsr@ips.pt](mailto:icrsr@ips.pt))
 - Ana de Jesus Mendes, Instituto Politécnico de Setúbal, Portugal
 - Anabela Correia, Instituto Politécnico de Setúbal, Portugal
 - Carlos Mata, Instituto Politécnico de Setúbal, Portugal
@@ -50,5 +50,5 @@ permalink: /committee/
 - Tiago Pinho, Instituto Politécnico de Setúbal, Portugal
 - Vítor Caldeirinha, Instituto Politécnico de Setúbal, Portugal
  
-# Sponsors
-- *To be added*
+[comment]: # # Sponsors
+[comment]: # - *To be added*

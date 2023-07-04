@@ -8,7 +8,7 @@ permalink: /submissions/
 
 |                                       | Date            |
 | ------------------------------------- | --------------- |
-| Call for Abstracts                    | 4 July          |
+| Call for Abstracts                    | 5 July          |
 | Abstract Submission Deadline          | 8 September     |
 | Abstract Acceptance Notification      | 22 September    |
 | Full Paper Submission Deadline        | 13 October      |

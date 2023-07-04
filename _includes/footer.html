@@ -1,25 +1,25 @@
-
 <footer class="site-footer h-card">
     <data class="u-url" href="{{ "/" | relative_url }}"></data>
   
     <div class="wrapper">
-  
       <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-      <img class="organization-logo" src="{{ "/assets/images/ips-logo-with-background.svg" | relative_url }}" alt="IPS Logo">
-  
+        
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
           <ul class="contact-list">
-            <li class="p-name">
+            <!-- <li class="p-name">
               {%- if site.author -%}
                 {{ site.author | escape }}
               {%- else -%}
-                <!-- {{ site.title | escape }} -->
+                {{ site.title | escape }}
               {%- endif -%}
-              </li>
+              </li> -->
               {%- if site.email -%}
-              <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+              <li>
+                <a class="u-email" href="mailto:{{ site.email }}">
+                  <i class="fa-solid fa-envelope"></i> {{ site.email }}
+                </a>
+              </li>
               {%- endif -%}
           </ul>
         </div>
@@ -32,8 +32,9 @@
           <p>{{- site.description | escape -}}</p>
         </div>
       </div>
-  
+      <img class="organization-logo" src="{{ "/assets/images/ips-logo-with-background.svg" | relative_url }}" alt="IPS Logo">
+
     </div>
-  
+
   </footer>
   
