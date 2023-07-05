@@ -59,9 +59,8 @@ plugins:
 #
 header_pages:
   - index.md
-  - posts.md
+  - news.md
   - submissions.md
   - attending.md
   - program.md
   - committee.md
-# - about.md
