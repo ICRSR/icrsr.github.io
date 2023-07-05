@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1st Call for Abstracts of ICRSR 2023"
+title:  "Call for Abstracts"
 date:   2023-07-05 00:00:00 +0100
 categories: news
 ---
