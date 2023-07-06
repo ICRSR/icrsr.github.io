@@ -37,17 +37,21 @@ permalink: /committee/
 - Maria Catarina Paz, Instituto Politécnico de Setúbal, Portugal
 - Maria Serralha, Instituto Politécnico de Setúbal, Portugal
 - Maria Teresa Costa, Instituto Politécnico de Setúbal, Portugal (coordination)
+- Martina Chalupová, College of Polytechnics Jihlava, Czechia
 - Martinha Piteira, Instituto Politécnico de Setúbal, Portugal
+- Mesbahi Zahra, St. Pölten University of Applied Sciences, Austria
 - Nelson Carriço, Instituto Politécnico de Setúbal, Portugal (coordination)
 - Nuno Costa, Instituto Politécnico de Setúbal, Portugal
 - Nuno Teixeira, Instituto Politécnico de Setúbal, Portugal  
 - Paulo Silveira, Instituto Politécnico de Setúbal, Portugal
 - Pedro Pardal, Instituto Politécnico de Setúbal, Portugal
+- Philipp Seibert, Fulda University of Applied Sciences, Germany
 - Ricardo Soares, Instituto Politécnico de Setúbal, Portugal
 - Rui Dias, Instituto Politécnico de Setúbal, Portugal
 - Sandra Nunes, Instituto Politécnico de Setúbal, Portugal
 - Sandrina Moreira , Instituto Politécnico de Setúbal, Portugal
 - Tiago Pinho, Instituto Politécnico de Setúbal, Portugal
+- Vlad Mihaescu, Politehnica University of Timișoara, Romania
 - Vítor Caldeirinha, Instituto Politécnico de Setúbal, Portugal
  
 [comment]: # # Sponsors
