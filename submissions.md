@@ -19,7 +19,7 @@ permalink: /submissions/
 
 ## Instructions
 
-### Call for Abstracts
+### [Call for Abstracts]({{ 'news/2023/07/05/call-for-abstracts.html' | relative_url }})
 The abstracts should be submitted using the following template: 
 - [Abstract Template]({{ 'assets/documents/ExtendedAbstract.docx' | relative_url }})
 
