@@ -2,6 +2,8 @@
 layout: page
 title: Submissions
 permalink: /submissions/
+redirect_from:
+  - /submission/
 ---
 
 ## Key moments
