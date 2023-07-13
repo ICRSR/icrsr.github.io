@@ -4,9 +4,6 @@ title: Committee
 permalink: /committee/
 ---
 
-[comment]: # # Conference Chairs
-[comment]: # *To be added*
-
 # Organising Committee ([icrsr@ips.pt](mailto:icrsr@ips.pt))
 - Ana de Jesus Mendes, Instituto Politécnico de Setúbal, Portugal
 - Anabela Correia, Instituto Politécnico de Setúbal, Portugal
@@ -52,8 +49,5 @@ permalink: /committee/
 - Sandra Nunes, Instituto Politécnico de Setúbal, Portugal
 - Sandrina Moreira , Instituto Politécnico de Setúbal, Portugal
 - Tiago Pinho, Instituto Politécnico de Setúbal, Portugal
-- Vlad Mihaescu, Politehnica University of Timișoara, Romania
 - Vítor Caldeirinha, Instituto Politécnico de Setúbal, Portugal
- 
-[comment]: # # Sponsors
-[comment]: # - *To be added*
+- Vlad Mihaescu, Politehnica University of Timișoara, Romania
