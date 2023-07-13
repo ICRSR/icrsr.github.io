@@ -23,7 +23,7 @@ permalink: /committee/
 - Anabela Correia, Instituto Politécnico de Setúbal, Portugal
 - Duarte Xara Brasil, Instituto Politécnico de Setúbal, Portugal
 - Helena Martins, Instituto Politécnico de Setúbal, Portugal
-- Hugo Rebelo, Instituto Politécnico de Setúbal, Portugal~
+- Hugo Rebelo, Instituto Politécnico de Setúbal, Portugal
 - Jarosław Tomaszewski, WSB Merito University in Wroclaw, Poland
 - João Cordeiro, Instituto Politécnico de Setúbal, Portugal
 - Leonilde Rei, Instituto Politécnico de Setúbal, Portugal
