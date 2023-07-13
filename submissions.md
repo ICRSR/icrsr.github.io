@@ -22,8 +22,8 @@ redirect_from:
 ## Instructions
 
 ### [Call for Abstracts]({{ 'news/2023/07/05/call-for-abstracts.html' | relative_url }})
-The abstracts should be submitted using the following template: 
-- [Abstract Template]({{ 'assets/documents/ExtendedAbstract.docx' | relative_url }})
+The abstracts should be submitted using the following template: [**Abstract Template**]({{ 'assets/documents/ExtendedAbstract.docx' | relative_url }})
 
 Please follow the instructions presented in the template document and fill it accordingly with your own content.
-The submission platform for your abstracts will be made available shortly.
+
+You should submit your abstract using the following platform: [**Microsoft CMT - ICRSR 2023**](https://cmt3.research.microsoft.com/ICRSR2023/)
