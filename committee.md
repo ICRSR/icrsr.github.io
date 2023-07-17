@@ -22,6 +22,7 @@ permalink: /committee/
 - Ana Gabriela Gomes, Instituto Politécnico de Setúbal, Portugal
 - Anabela Correia, Instituto Politécnico de Setúbal, Portugal
 - Duarte Xara Brasil, Instituto Politécnico de Setúbal, Portugal
+- Francisco Javier Alcalá García, Consejo Superior de Investigaciones Científicas, Spain
 - Helena Martins, Instituto Politécnico de Setúbal, Portugal
 - Hugo Rebelo, Instituto Politécnico de Setúbal, Portugal
 - Jarosław Tomaszewski, WSB Merito University in Wroclaw, Poland

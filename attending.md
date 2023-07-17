@@ -5,7 +5,20 @@ permalink: /attending/
 ---
 
 ## Registration
-*Details coming soon.*
+
+| Type                                                              | Amount          |
+| ------------------------------------------------------------------| --------------- |
+| Early Registration                                                | 250€            |
+| Early Registration IPS and Partners (E³UDRES², Businet, IBWN)     | 150€            |
+| Early Registration Students                                       | 50€             |
+| Late Registration                                                 | 300€            |
+| Late Registration IPS and Partners  (E³UDRES², Businet, IBWN)     | 200€            |
+| Late Registration Students                                        | 100€            |
+
+- **Early Registration Deadline**: 1 November
+- **Late Registration Deadline**: 24 November
+
+*Registration link will be made available soon.*
 
 ## Travel and accommodation
 
