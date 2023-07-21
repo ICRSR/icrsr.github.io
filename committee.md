@@ -49,6 +49,7 @@ permalink: /committee/
 - Philipp Seibert, Fulda University of Applied Sciences, Germany
 - Ricardo Soares, Instituto Politécnico de Setúbal, Portugal
 - Rui Dias, Instituto Politécnico de Setúbal, Portugal
+- Rui Duarte Neves, Instituto Politécnico de Setúbal, Portugal
 - Sandra Nunes, Instituto Politécnico de Setúbal, Portugal
 - Sandrina Moreira , Instituto Politécnico de Setúbal, Portugal
 - Tiago Pinho, Instituto Politécnico de Setúbal, Portugal
