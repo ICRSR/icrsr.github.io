@@ -25,6 +25,7 @@ permalink: /committee/
 - Francisco Javier Alcalá García, Consejo Superior de Investigaciones Científicas, Spain
 - Helena Martins, Instituto Politécnico de Setúbal, Portugal
 - Hugo Rebelo, Instituto Politécnico de Setúbal, Portugal
+- Jarmila Straková, Institute of Technology and Business in České Budějovice
 - Jarosław Tomaszewski, WSB Merito University in Wroclaw, Poland
 - João Cordeiro, Instituto Politécnico de Setúbal, Portugal
 - Leonilde Rei, Instituto Politécnico de Setúbal, Portugal
@@ -44,6 +45,7 @@ permalink: /committee/
 - Nuno Teixeira, Instituto Politécnico de Setúbal, Portugal  
 - Paulo Silveira, Instituto Politécnico de Setúbal, Portugal
 - Pedro Pardal, Instituto Politécnico de Setúbal, Portugal
+- Petra Pártlová, Institute of Technology and Business in České Budějovice
 - Philipp Seibert, Fulda University of Applied Sciences, Germany
 - Ricardo Soares, Instituto Politécnico de Setúbal, Portugal
 - Rui Dias, Instituto Politécnico de Setúbal, Portugal
@@ -52,3 +54,4 @@ permalink: /committee/
 - Tiago Pinho, Instituto Politécnico de Setúbal, Portugal
 - Vítor Caldeirinha, Instituto Politécnico de Setúbal, Portugal
 - Vlad Mihaescu, Politehnica University of Timișoara, Romania
+- Zdeněk Caha, Institute of Technology and Business in České Budějovice
