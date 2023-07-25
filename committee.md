@@ -52,6 +52,7 @@ permalink: /committee/
 - Rui Duarte Neves, Instituto Politécnico de Setúbal, Portugal
 - Sandra Nunes, Instituto Politécnico de Setúbal, Portugal
 - Sandrina Moreira , Instituto Politécnico de Setúbal, Portugal
+- Susanne Roiser, St. Pölten University of Applied Sciences, Austria
 - Tiago Pinho, Instituto Politécnico de Setúbal, Portugal
 - Vítor Caldeirinha, Instituto Politécnico de Setúbal, Portugal
 - Vlad Mihaescu, Politehnica University of Timișoara, Romania
