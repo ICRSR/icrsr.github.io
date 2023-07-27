@@ -47,6 +47,7 @@ permalink: /committee/
 - Pedro Pardal, Instituto Politécnico de Setúbal, Portugal
 - Petra Pártlová, Institute of Technology and Business in České Budějovice
 - Philipp Seibert, Fulda University of Applied Sciences, Germany
+- Radu Vasiu, Politehnica University of Timișoara, Romania
 - Ricardo Soares, Instituto Politécnico de Setúbal, Portugal
 - Rui Dias, Instituto Politécnico de Setúbal, Portugal
 - Rui Duarte Neves, Instituto Politécnico de Setúbal, Portugal
