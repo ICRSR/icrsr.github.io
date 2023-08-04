@@ -84,3 +84,9 @@ footer .u-email {
 footer .u-email:hover {
     color: darken($theme-color-special-text, 10%);
 }
+
+.program td:first-child,
+.program th:first-child {
+    width: 0;
+    white-space: nowrap;
+}
