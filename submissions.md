@@ -8,16 +8,16 @@ redirect_from:
 
 ## Key moments
 
-|                                       | Date            |
-| ------------------------------------- | --------------- |
-| Call for Abstracts                    | 5 July          |
-| Abstract Submission Deadline          | 8 September     |
-| Abstract Acceptance Notification      | 22 September    |
-| Full Paper Submission Deadline        | 13 October      |
-| Early Registration Deadline           | 1 November      |
-| Full Paper Revision Notification      | 10 November     |
-| Revised Full Paper Submission Deadline| 24 November     |
-| Late Registration Deadline            | 24 November     |
+|                                       | Date                          |
+| ------------------------------------- | ----------------------------- |
+| Call for Abstracts                    | 5 July                        |
+| Abstract Submission Deadline          | ~~8 September~~  22 September |
+| Abstract Acceptance Notification      | ~~22 September~~ 2 October    |
+| Full Paper Submission Deadline        | 13 October                    |
+| Early Registration Deadline           | 1 November                    |
+| Full Paper Revision Notification      | 10 November                   |
+| Revised Full Paper Submission Deadline| 24 November                   |
+| Late Registration Deadline            | 24 November                   |
 
 ## Instructions
 
