@@ -26,5 +26,5 @@ With a multidisciplinary approach it is expected that this conference will be at
 - Sectoral studies on Tourism, Agriculture, among others
 
 ## First Call
-### Abstract Submission Deadline: 8 September 2023
+### Abstract Submission Deadline: ~~8 September 2023~~ 22 September
 [More details]({{ 'submissions' | relative_url }})
