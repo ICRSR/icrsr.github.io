@@ -12,7 +12,7 @@ permalink: /committee/
 - Maria Teresa Costa, Instituto Politécnico de Setúbal, Portugal (coordination)
 - Nelson Carriço, Instituto Politécnico de Setúbal, Portugal (coordination)
 - Nuno Teixeira, Instituto Politécnico de Setúbal, Portugal
-- Pedro Albuquerque Santos, Instituto Politécnico de Setúbal, Portugal
+- Pedro Albuquerque Santos, Instituto Politécnico de Lisboa, Portugal
 - Raquel Barreira, Instituto Politécnico de Setúbal, Portugal
 - Susana Galvão, Instituto Politécnico de Setúbal, Portugal
 - Telma Guerra, Instituto Politécnico de Setúbal, Portugal
