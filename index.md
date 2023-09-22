@@ -24,6 +24,7 @@ With a multidisciplinary approach it is expected that this conference will be at
 - Finance, Investments and Funding
 - Society, Education, People and Behaviour
 - Sectoral studies on Tourism, Agriculture, among others
+- Sustainability in construction and buildings
 
 ## First Call
 ### Abstract Submission Deadline: ~~8 September 2023~~ 2 October
