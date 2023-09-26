@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 ## Key moments
+
 |                                       | Date                          |
 | ------------------------------------- | ----------------------------- |
 | Call for Abstracts                    | 5 July                        |
