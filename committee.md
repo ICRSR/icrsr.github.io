@@ -40,6 +40,7 @@ permalink: /committee/
 - Martina Chalupová, College of Polytechnics Jihlava, Czechia
 - Martinha Piteira, Instituto Politécnico de Setúbal, Portugal
 - Mesbahi Zahra, St. Pölten University of Applied Sciences, Austria
+- Mettina Veenstra, Saxion University of Applied Sciences, Netherlands
 - Nelson Carriço, Instituto Politécnico de Setúbal, Portugal (coordination)
 - Nuno Costa, Instituto Politécnico de Setúbal, Portugal
 - Nuno Teixeira, Instituto Politécnico de Setúbal, Portugal  
