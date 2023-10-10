@@ -1,7 +1,9 @@
 <header class="site-header">
 
   <div class="wrapper">
-    <img class="site-logo" src = "{{ "/assets/images/icrsr-logo-with-background.svg" | relative_url }}" alt="Site Logo"/>
+    <div class="site-logo-container">
+      <img class="site-logo" src = "{{ "/assets/images/icrsr-logo-transparent.svg" | relative_url }}" alt="Site Logo"/>
+    </div>
 
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}

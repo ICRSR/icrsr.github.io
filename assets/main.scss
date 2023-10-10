@@ -11,9 +11,20 @@ $theme-color-text-shadow: #ff7700;
 $theme-color-content-background: rgba(white, 0.5);
 $theme-color-special-text: #247a91;
 
-.site-logo {
+.site-logo-container {
     float: right;
+    width: 140px;
+    height: 120px;
+    background-color: white;
+    border-radius: 0 0 20px 20px;
+    box-shadow: 0px 7px 0px 0px $theme-color-special-text;
 } 
+
+.site-logo {
+    display: block;
+    margin: auto;
+    padding: 12px;
+}
 
 .site-header,
 .site-footer {
@@ -62,8 +73,17 @@ main.page-content div.wrapper {
     color: $theme-color-special-text;
 }
 
-.organization-logo {
+.organization-logo-container {
     float: left;
+    background-color: white;
+    border-radius: 16px 16px 0 0;
+    box-shadow: 0px -6px 0px 0px $theme-color-special-text;
+}
+
+.organization-logo {
+    width: 120px;
+    display: block;
+    margin: auto;
 }
 
 .full-width-image {
@@ -71,7 +91,7 @@ main.page-content div.wrapper {
 }
 
 @media screen and (max-width: 600px) {
-    .site-logo {
+    .site-logo-container {
         float: left;
     }
 }
@@ -90,3 +110,4 @@ footer .u-email:hover {
     width: 0;
     white-space: nowrap;
 }
+
