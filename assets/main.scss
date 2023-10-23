@@ -57,9 +57,9 @@ $theme-color-special-text: #247a91;
 }
 
 main.page-content {
-    background: linear-gradient($theme-color-secondary 0%,  $theme-color-seconday-semitransparent 25%),
-                url("{{ site.baseurl }}/assets/images/background-plant-semitransparent.webp") right bottom/auto 25% no-repeat,
-                url("{{ site.baseurl }}/assets/images/background-tile.webp") left top/auto 100% repeat;
+    background: linear-gradient($theme-color-secondary 0%,  $theme-color-seconday-semitransparent 25vh),
+                url("{{ site.baseurl }}/assets/images/background-plant-semitransparent.webp") right bottom/auto 25vh no-repeat,
+                url("{{ site.baseurl }}/assets/images/background-tile.webp") left top/auto 100vh repeat;
 }
 
 main.page-content div.wrapper {
