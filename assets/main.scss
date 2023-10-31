@@ -20,6 +20,10 @@ $theme-color-special-text: #247a91;
     box-shadow: 0px 7px 0px 0px $theme-color-special-text;
 } 
 
+.site-nav {
+    clear: both;
+}
+
 .site-logo {
     display: block;
     margin: auto;
@@ -84,6 +88,7 @@ main.page-content div.wrapper {
     width: 120px;
     display: block;
     margin: auto;
+    padding: 20px;
 }
 
 .full-width-image {
@@ -111,3 +116,9 @@ footer .u-email:hover {
     white-space: nowrap;
 }
 
+
+@media screen and (min-width: 992px) {
+    .wrapper {
+        max-width: calc(992px - (30px * 2));
+    }
+}

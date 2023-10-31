@@ -21,6 +21,6 @@ The official language of the Congress is English, but there may be some sessions
 
 We look forward to receiving your extended abstract.  
 
-Extended abstracts submitted to **ICRSR 2023** will be reviewed by the scientific committees of the conference and published in the **Abstracts Book**. All accepted and registered papers will be published in **Scopus-indexed Conference Proceedings**. Selected papers will be published in a **Scopus** and **Web of Science** indexed journal to be announced.
+Extended abstracts submitted to **ICRSR 2023** will be reviewed by the scientific committees of the conference and published in the **Abstracts Book*. All accepted and registered papers will be published in **Scopus-indexed Conference Proceedings*. Selected papers will be published in a **Scopus** and **Web of Science** indexed journal to be announced.
 
 (**Last Updated**: 2023-09-12)
