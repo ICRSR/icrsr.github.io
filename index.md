@@ -26,6 +26,9 @@ With a multidisciplinary approach it is expected that this conference will be at
 - Sectoral studies on Tourism, Agriculture, among others
 - Sustainability in construction and buildings
 
+## Registration
+Registration is now open. You can find all the details at: [{{ 'attending' | absolute_url }}]({{ 'attending' | relative_url }})
+
 ## First Call
 ### Abstract Submission Deadline: ~~8 September 2023~~ 2 October
 [More details]({{ 'submissions' | relative_url }})
