@@ -23,6 +23,7 @@ You can now register using this [Registration Form](https://inqueritos.ips.pt/in
 Your registration fee should be paid by wire transfer to the following bank account:
 - **IBAN**: PT50 0781 0112 0112 0012 8073 7
 - **SWIFT/BIC**: IGCPPTPL
+
 You will also need to provide proof of payment when you register.
 
 If you have any problems with your registration, please contact us at the following email address: [icrsr@ips.pt](mailto:icrsr@ips.pt).
