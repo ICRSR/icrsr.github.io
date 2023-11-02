@@ -27,7 +27,7 @@ With a multidisciplinary approach it is expected that this conference will be at
 - Sustainability in construction and buildings
 
 ## Registration
-Registration is now open. You can find all the details at: [{{ 'attending' | absolute_url }}]({{ 'attending' | relative_url }})
+Registration is now open. You can find all the details at the [Attending]({{ 'attending' | relative_url }}) page.
 
 ## First Call
 ### Abstract Submission Deadline: ~~8 September 2023~~ 2 October
