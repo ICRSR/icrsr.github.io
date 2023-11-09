@@ -11,7 +11,7 @@ permalink: /program/
 | ------------- | -------------------------------------------------------- |
 | 09:30             | Reception of participants                                |
 | **10:00 - 10:30** | **Opening session**                                      |
-| **10:30 - 11:00** | **Keynote Speaker**: Hannes Raffasaeder, President of EURASHE and Lead Coordinator of E³UDRES², "Open Innovation and Collaboration for Resilient and Sustainable Regions" |
+| **10:30 - 11:00** | **Keynote Speaker**: Hannes Raffasaeder, Lead Coordinator European University E³UDRES², "Open Innovation and Collaboration for Resilient and Sustainable Regions" |
 | **11:00 - 11:30** | Coffee break                                             |
 | **11:00 - 11:30** | **Keynote Speaker**                                    |
 | **12:00 - 13:00** | **Round table**                                          |

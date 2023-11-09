@@ -95,6 +95,11 @@ main.page-content div.wrapper {
     width: 100%;
 }
 
+.keynote-speaker {
+    display: block;
+    width: 200px;
+}
+
 @media screen and (max-width: 600px) {
     .site-logo-container {
         float: left;

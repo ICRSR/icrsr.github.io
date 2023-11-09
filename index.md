@@ -26,6 +26,26 @@ With a multidisciplinary approach it is expected that this conference will be at
 - Sectoral studies on Tourism, Agriculture, among others
 - Sustainability in construction and buildings
 
+## Keynote Speakers
+### FH-Prof. Dipl.-Ing. Hannes Raffaseder
+- Chief Executive Officer / President of the St. Pölten University of Applied Sciences GmbH
+- Lead Coordinator European University E³UDRES² ([www.eudres.eu](https://www.eudres.eu)) 
+- President EURASHE ([www.eurashe.eu](https://www.eurashe.eu))
+- <i class="fa-solid fa-envelope"></i> [hannes.raffaseder@fhstp.ac.at](mailto:hannes.raffaseder@fhstp.ac.at)
+- <i class="fa-solid fa-building-columns"></i> [www.fhstp.ac.at](https://www.fhstp.ac.at/en)
+- <i class="fa-solid fa-globe"></i> [www.raffaseder.com](http://www.raffaseder.com)
+
+<img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-hannes-raffaseder.jpg" | relative_url }}" alt="Hannes Raffaseder Portrait">
+
+Hannes Raffaseder is CEO/President of the St. Pölten University of Applied Sciences and co-initiator and lead coordinator of E³UDRES², the Engaged and Entrepreneurial European University as Driver for European Smart and Sustainable Regions. In June 2023 he was elected President of EURASHE. He was founding director of the Institute for Creative\Media/Technologies and academic director of a master's program in digital media technology.
+
+As an experienced manager in higher education, Hannes promotes opportunity-driven, challenge-based and mission-oriented approaches and in particular a multi-directional knowledge exchange with society and business as third and fourth mission of universities. Thus, he has successfully co-implemented concepts for engaged and entrepreneurial universities as open platforms for collaborative innovation.
+
+As a professor of media technology, Hannes has many years of teaching experience and managed several research and innovation projects.  In the contexts of audio design, media music and sonic interaction, he has published several scientific publications and presented at international conferences. 
+
+In addition to his academic work, Hannes is an internationally active, award-winning composer and media artist whose music has been performed in renowned concert halls and art festivals.
+
+
 ## Registration
 Registration is now open. You can find all the details at the [Attending]({{ 'attending' | relative_url }}) page.
 
