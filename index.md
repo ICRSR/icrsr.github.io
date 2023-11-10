@@ -26,7 +26,19 @@ With a multidisciplinary approach it is expected that this conference will be at
 - Sectoral studies on Tourism, Agriculture, among others
 - Sustainability in construction and buildings
 
+## Registration
+Registration is now open. You can find all the details at the [Attending]({{ 'attending' | relative_url }}) page.
+
+## Submissions
+### Abstract Submission Deadline: ~~8 September 2023~~ 2 October
+[More details]({{ 'submissions' | relative_url }})
+
+<article id="keynotes" markdown="1">
+
 ## Keynote Speakers
+
+<section id="keynote1" markdown="1">
+
 ### FH-Prof. Dipl.-Ing. Hannes Raffaseder
 - Chief Executive Officer / President of the St. Pölten University of Applied Sciences GmbH
 - Lead Coordinator European University E³UDRES² ([www.eudres.eu](https://www.eudres.eu)) 
@@ -45,10 +57,26 @@ As a professor of media technology, Hannes has many years of teaching experience
 
 In addition to his academic work, Hannes is an internationally active, award-winning composer and media artist whose music has been performed in renowned concert halls and art festivals.
 
+</section>
 
-## Registration
-Registration is now open. You can find all the details at the [Attending]({{ 'attending' | relative_url }}) page.
+</article>
 
-## First Call
-### Abstract Submission Deadline: ~~8 September 2023~~ 2 October
-[More details]({{ 'submissions' | relative_url }})
+<article id="roundtables" markdown="1">
+
+## Round Table
+
+<section id="rountable1" markdown="1">
+
+### Resilience and Sustainability in Events: Innovative Approaches for Tourist Destinations
+ 
+**Round Table Description**: Event tourism is an essential contributor to the economic development and promotion of international tourist destinations. However, events frequently find obstacles resulting from economic, social, and environmental factors. The primary objective of this roundtable discussion is to explore the ways in which events can incorporate sustainability and resilience principles, thereby fostering the development of dynamic and resilient tourism destinations. Speakers will engage in a discourse regarding new methods to mitigate emerging risks, ensure long-term viability, and stimulate tourism in challenging regions.
+ 
+**Discussion Topics**: Resilience strategies employed in events to address environmental and social challenges; the positive effects that environmentally responsible event planning can have on tourist destinations; case studies of tourist destinations where the integration of sustainability and resilience into events has been executed successfully; stakeholders’ partnerships to promote resilience and sustainability in tourism destinations.
+ 
+**Round table participants**: Francisco Silva (Adjunct Professor at the “ESHTE - Escola Superior de Hotelaria e Turismo do Estoril”, specialist in regional and urban planning, and tourism and leisure), Susana Gonçalves (Adjunct Professor at the “ESHTE - Escola Superior de Hotelaria e Turismo do Estoril”, specialist in tourism and events) and Cláudia Caetano (President of the Tourist Entertainment section of “APECATE – Portuguese Association of Congress, Tourist Entertainment and Events Companies”).
+ 
+**Moderator**: Filipe Segurado Severino (Post-Doctoral Fellow of the SHIFT project; Invited Adjunct Professor at “ESHTE - Escola Superior de Hotelaria e Turismo do Estoril”, specialist in tourism and events)
+
+</section>
+
+</article>
