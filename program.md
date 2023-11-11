@@ -57,7 +57,7 @@ permalink: /program/
 |                   | Fernandes, Mauro; Neves, Rui D. Assessment of mechanical performance of corroded steel fiber reinforced concrete |
 |                   | Porcaro, Angelo. Blockchain and Tourism in rural areas: Its Potential and Implementation in the Gargano National Park |
 |                   | Salah Uddin, Muhammad; Kabasakal, Ali;  Lucia, Caterina De; Pasquale, Pazienza. Drivers and barriers to the shadow economy: do natural resource endowment and institutional quality matter |
-|                   | Costa, Nuno RP; Lourenço, João. Evaluation of the tourism carrying capacity for sustainable management at the Tremiti Islands, Italy |
+|                   | Ranieri F., Santoro D., Grilli L., De Lucia C., Pazienza P. Evaluation of the tourism carrying capacity for sustainable management at the Tremiti Islands, Italy |
 | 13:00             | Lunch                                                    |
 | **14:00 - 15:30** | **Special sessions**                                     |
 | **15:30 - 17:00** | **Parallel sessions 7, 8 & 9**                           |
