@@ -62,7 +62,7 @@ permalink: /program/
 | **14:00 - 15:30** | **Special sessions**                                     |
 | **15:30 - 17:00** | **Parallel sessions 7, 8 & 9**                           |
 |                   | **Session 7: Resilient Economy, Entrepreneurship and Innovation** |
-|                   | Ranieri, Francesca; Grilli, Luca; De Lucia, Caterina; Pazienza, Pasquale; Santoro, Domenico. Process and product's resilience |
+|                   | Nuno Costa; João Lourenço. Process and product's resilience |
 |                   | Dias, Rui Teixeira; Reis, Leonilde; Pardal, Pedro; Carvalho, Luísa ; Russo, Nelson. Resilient companies in the region of Setúbal: an insightful reflection in times of uncertainty |
 |                   | *to be confirmed* |
 |                   | *to be confirmed* |
