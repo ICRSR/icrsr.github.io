@@ -30,8 +30,16 @@ With a multidisciplinary approach it is expected that this conference will be at
 Registration is now open. You can find all the details at the [Attending]({{ 'attending' | relative_url }}) page.
 
 ## Submissions
-### Abstract Submission Deadline: ~~8 September 2023~~ 2 October
-[More details]({{ 'submissions' | relative_url }})
+
+### **Abstract Submission Deadline**: ~~8 September 2023~~ 2 October 2023
+Abstracts submitted to the ICRSR 2023 will be reviewed by the scientific committees of the conference. The accepted abstracts will be published in the conference's **Abstracts Book**. 
+
+[More details]({{ 'submissions/#abstracts' | relative_url }})
+
+### **Full Paper Submission Deadline**: 4 December 2023
+Authors of accepted and registed abstracts are also encouraged to submit a full paper to be reviewed by the scientific committees of the conference. The selected full papers will be published in the [Proceedings](https://www.mdpi.com/journal/proceedings) journal by MDPI.
+
+[More details]({{ 'submissions/#fullpapers' | relative_url }})
 
 <article id="keynotes" markdown="1">
 
