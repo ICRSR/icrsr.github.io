@@ -43,9 +43,9 @@ Registration is now open. You can find all the details at the [Attending]({{ 'at
 - Chief Executive Officer / President of the St. Pölten University of Applied Sciences GmbH
 - Lead Coordinator European University E³UDRES² ([www.eudres.eu](https://www.eudres.eu)) 
 - President EURASHE ([www.eurashe.eu](https://www.eurashe.eu))
-- <i class="fa-solid fa-envelope"></i> [hannes.raffaseder@fhstp.ac.at](mailto:hannes.raffaseder@fhstp.ac.at)
 - <i class="fa-solid fa-building-columns"></i> [www.fhstp.ac.at](https://www.fhstp.ac.at/en)
 - <i class="fa-solid fa-globe"></i> [www.raffaseder.com](http://www.raffaseder.com)
+- <i class="fa-solid fa-envelope"></i> [hannes.raffaseder@fhstp.ac.at](mailto:hannes.raffaseder@fhstp.ac.at)
 
 <img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-hannes-raffaseder.jpg" | relative_url }}" alt="Hannes Raffaseder Portrait">
 
@@ -56,6 +56,24 @@ As an experienced manager in higher education, Hannes promotes opportunity-drive
 As a professor of media technology, Hannes has many years of teaching experience and managed several research and innovation projects.  In the contexts of audio design, media music and sonic interaction, he has published several scientific publications and presented at international conferences. 
 
 In addition to his academic work, Hannes is an internationally active, award-winning composer and media artist whose music has been performed in renowned concert halls and art festivals.
+
+</section>
+
+
+<section id="keynote2" markdown="1">
+
+### Antje Disterheft
+- Researcher and Integrated Memeber at CENSE/NOVA School of Science and Technology
+- <i class="fa-solid fa-building-columns"></i> [www.cense.fct.unl.pt/people/antje-disterheft](https://www.cense.fct.unl.pt/people/antje-disterheft)
+- <i class="fa-solid fa-envelope"></i> [a.disterheft@fct.unl.pt](mailto:a.disterheft@fct.unl.pt)
+
+<img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-antje-disterheft.jpg" | relative_url }}" alt="Hannes Raffaseder Portrait">
+
+Antje Disterheft (PhD) is a researcher and integrated member at Center for Environmental and Sustainability Research (CENSE), from NOVA School of Science and Technology, NOVA University Lisbon. She is enthusiastic about exploring transformative processes that can support keeping human-nature systems in balance.
+
+Her research focuses on capacity building and new approaches to collaboration and co-creation for sustainability in Higher Education Institutions. In the past years, she started to engage deeper with the lens of care when thinking about sustainability and founded [The CareLab for People & Planet](https://the-care-lab.org) at her faculty. The CareLab is a new space of collaboration, co-creation and transformative learning where the interlinkages of inner and outer sustainability are explored.
+
+She holds a PhD in Social Sustainability (Universidade Aberta) and is an alumni of the [Postdoc Academy for Transformational Leadership](https://www.bosch-stiftung.de/en/project/postdoc-academy-transformational-leadership). German by nationality, but living in Portugal for more than 17 years, she enjoys being in nature, biking and cooking.
 
 </section>
 

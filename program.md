@@ -13,7 +13,7 @@ permalink: /program/
 | **10:00 - 10:30** | **Opening session**                                      |
 | **10:30 - 11:00** | [**Keynote Speaker**: Hannes Raffasaeder, Lead Coordinator European University E³UDRES², "Open Innovation and Collaboration for Resilient and Sustainable Regions"]({{ "/#keynote1" | relative_url}}) |
 | **11:00 - 11:30** | Coffee break                                             |
-| **11:00 - 11:30** | **Keynote Speaker**                                      |
+| **11:00 - 11:30** | [**Keynote Speaker**: Antje Disterheft, Researcher and Integrated Memeber at CENSE/NOVA School of Science and Technology, "Resilience from within - why our inner worlds matter for transformative change"]({{ "/#keynote2" | relative_url}}) |
 | **12:00 - 13:00** | **Round table**                                          |
 | 13:00             | Lunch                                                    |
 | **14:30 - 16:00** | **Parallel sessions 1 & 2**                              |
