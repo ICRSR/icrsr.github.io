@@ -26,12 +26,12 @@ permalink: /program/
 |                   | Costa, Nuno RP; Santos, Carla A. Measurement system analysis of microalgae cell culture concentration – a contribution for innovative technologies |
 |                   | Baleizão, Ana Raquel; Miguel, Fernanda; Gomes, Ana Gabriela G.N.; Justino, Marta. Optimisation of viral rna extraction with an extraction kit using sample poolings: case study for SARS-COV-2 Virus |
 |                   | Pitacho, Liliana A; Cordeiro, João; Lima, Daniela; Martins, Helena G. Team Resilience Dynamics in High-Performance Teams: a systematic literature review |
-|                   | Costa, Teresa Gomes da ; Mares, Pedro; Lima, Maria João. Antecedents of Entrepreneurial Intention in students of Polytechnic Institute of Setubal (Portugal). |
+|                   | Pedro Mares; Costa, Teresa Gomes da; Lima, Maria João. Antecedents of Entrepreneurial Intention in students of Polytechnic Institute of Setubal (Portugal). |
 | 16:00 - 16:30     | Coffee break                                             |
 | **16:30 - 18:00** | **Parallel sessions 3 & 4**                              |
 |                   | **Session 3: Technological, Engineering and Environmental Solutions**   |
-|                   | Rucha, Madalena; Piçarra, Susana ; Sena da Fonseca, Bruno; Ferreira Pinto, Ana Paula; Mégre, Sofia. Advancing sustaibaility in built heritage conservation |
-|                   | Piçarra, Susana ; F. Silva, Hugo; Coelho, José; Araújo, Lara; Silva, Nelson; Oliveira, Cristina; Matos, Manuel; Barreiros, Ana. Circular use of water in agriculture: solution or threat? |
+|                   | Rucha, Madalena; Piçarra, Susana; Sena da Fonseca, Bruno; Ferreira Pinto, Ana Paula; Mégre, Sofia. Advancing sustaibaility in built heritage conservation |
+|                   | Piçarra, Susana; F. Silva, Hugo; Coelho, José; Araújo, Lara; Silva, Nelson; Oliveira, Cristina; Matos, Manuel; Barreiros, Ana. Circular use of water in agriculture: solution or threat? |
 |                   | Santos, Carla A.; Coelho, Claudia; Gomes, Ana Gabriela G.N.; Tudella, Joana; Serralha, Maria Fátima; Dias, Nilmara; Santos, Sónia; Osório, Natália; Justino, Marta. Closing the loop: microalgae-based solutions for agroindustrial waste in Setúbal |
 |                   | Ferreira, Inês  A.; Mendes, Ana; Carriço, Nelson. Digital transformation in berth planning operations – a bibliometric analisys |
 |                   | Castro, Marcela S; Lisboa, Leonardo; Barcaui, Andre; Navarro, Carlos. Unveiling the landscape of Artificial Intelligence in corporate management: insights from professionals |
@@ -63,9 +63,9 @@ permalink: /program/
 | **15:30 - 17:00** | **Parallel sessions 7, 8 & 9**                           |
 |                   | **Session 7: Resilient Economy, Entrepreneurship and Innovation** |
 |                   | Nuno Costa; João Lourenço. Process and product's resilience |
-|                   | Dias, Rui Teixeira; Reis, Leonilde; Pardal, Pedro; Carvalho, Luísa ; Russo, Nelson. Resilient companies in the region of Setúbal: an insightful reflection in times of uncertainty |
-|                   | *to be confirmed* |
-|                   | *to be confirmed* |
+|                   | Dias, Rui Teixeira; Reis, Leonilde; Pardal, Pedro; Carvalho, Luísa; Russo, Nelson. Resilient companies in the region of Setúbal: an insightful reflection in times of uncertainty |
+|                   | Pedro Mares; Teresa Gomes da Costa; Maria Lima. Entrepreneuship Education in International Context: Skills, Attitudes and Competencies that Promote Student Resilience |
+|                   | Teresa Gomes da Costa; Nuno Teixeira; Rosa Galvão; Pedro Mares. A Strategic Roadmap for Companies in the Wine Industry in the Setubal Peninsula |
 |                   | **Session 8: Technological, Engineering and Environmental Solutions** |
 |                   | Shabir, Maria. Does energy democracy really affect growth and environmental quality? early evidence from upper middle-income countries during 1997-2020 |
 |                   | Gameiro, Maria Lurdes; Gomes, Ana Gabriela G.N.; Justino, Marta; Serralha, Maria Fátima; Tudella, Joana. Recovery of precious metals from electronic wastes – a review |
@@ -74,7 +74,7 @@ permalink: /program/
 |                   | Lopes, Rodrigo; Reis, Leonilde; Dourado, Alcina. Technological solutions for a more resilient world: a contribution to responsible consumerism |
 |                   | **Session 9: Society, Education, People and Behaviour**  |
 |                   | De Coninck, Sarah; Reulens, Ann. "Nothing about us without us": results of a literature review and delphi study on engagement models for research |
-|                   | Martins, Helena G; Rodrigues, Ana Cláudia; Lehmann, Melanie ; Dolmann, Lisa Maria. From panic to panorama: global insights into crisis training |
+|                   | Martins, Helena G; Rodrigues, Ana Cláudia; Lehmann, Melanie; Dolmann, Lisa Maria. From panic to panorama: global insights into crisis training |
 |                   | Lampreia, Paula; Martins, Helena G. Leading the charge: how workers' views on leadership can shape culture shifts, a case study |
 |                   | Martins, Helena G; Cordeiro, João Pedro; Carvalho, Luísa; Pitacho, Liliana A. Simmering success: a bibliometric approach to the literature and research agenda on entrepreneurial chefs |
 |                   | Komino, Aline. The moral dimension in the consumption of organic foods |
