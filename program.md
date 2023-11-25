@@ -51,8 +51,8 @@ permalink: /program/
 | Time              |                                                          |
 | ----------------- | -------------------------------------------------------- |
 | **09:30 - 11:00** | **Special session 1 – Circular Economy (Moderator: Susanne Roiser)** |
-|                   | Costa, Nuno RP; Santos, Carla A. Measurement system analysis of microalgae cell culture concentration – a contribution for innovative technologies 
-|                   | Isabelle Lacourt                                         |
+|                   | Costa, Nuno RP; Santos, Carla A. Measurement system analysis of microalgae cell culture concentration – a contribution for innovative technologies | 
+|                   | Isabelle Lacourt, Accounting food waste composting GHG emissions and carbon in living soils in a fork to farm perspective |
 |                   | *Communication 1*                                        |
 |                   | *Communication 2*                                        |
 | 11:00 - 11:30     | Coffee break                                             |
