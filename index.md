@@ -91,7 +91,7 @@ She holds a PhD in Social Sustainability (Universidade Aberta) and is an alumni 
 
 ## Round Table
 
-<section id="rountable1" markdown="1">
+<section id="roundtable1" markdown="1">
 
 ### Resilience and Sustainability in Events: Innovative Approaches for Tourist Destinations
  
