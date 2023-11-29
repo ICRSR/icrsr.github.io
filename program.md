@@ -39,7 +39,7 @@ permalink: /program/
 |                   | Simões, Luis; Reis, Leonilde; Galvão, Susana; Couto, Maria; Mata, Carlos; Caria, Maria Helena. Sustainability and regional development@IPS: a pilot experience |
 |                   | A. Quintela, Joana; Costa, Carlos; Correia, Anabela. Sustainability in health and wellness tourism – the creation of health regions |
 |                   | Esengulova, Nazgul; Pazienza, Pasquale; Lopolito, Antonio; Morsilli, Michele; Balena, Pasquale. UNESCO Geopark to boost regional development?: A scenario for the marginal area of Gargano Promontory, Italy |
-|                   | **Session 5: Society, Education, People and Behaviour (Moderator: Helena Martins) -- Room C1.16**  |
+|                   | **Session 5: Society, Education, People and Behaviour (Moderator: Helena Martins) -- *Room C1.16***  |
 |                   | De Coninck, Sarah; Reulens, Ann. “Nothing about us without us”: results of a literature review and delphi study on engagement models for research |
 |                   | Martins, Helena G; Rodrigues, Ana Cláudia; Lehmann, Melanie; Dolmann, Lisa Maria. From panic to panorama: globais insights into crisis training |
 |                   | Lampreia, Paula; Martins, Helena G. Leading the charge: how workers’ views on leadership can shape culture shifts, a case study |
