@@ -102,6 +102,6 @@ permalink: /program/
 |                   | Mário Parra da Silva – APEE e UN Global Compact Network Portugal |
 |                   | Paula Guimarães – The Navigator Company                  |
 | **12:00 - 12:30** | **Keynote Speaker**: Pedro Dominguinhos, President of the National Recovery and Resilience Plan (RRP) Monitoring Commission, "Contribution of Portuguese PRR to SDG" -- ***Room C1.13***  |
-| 12:30             | Closing session                                          |
+| **12:30**             | **Closing session** -- ***Room C1.13***                 |
 
 </div>
