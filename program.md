@@ -17,10 +17,10 @@ permalink: /program/
 | 12:30             | Lunch                                                    |
 | **14:30 - 16:00** | **Parallel sessions 1 & 2**                              |
 |                   | **Session 1: Regional Development and Sustainability (Moderator: Catarina Paz) -- *Room C1.12***   |
+|                   | Ludovico-Marques, Marco A; Paz, Maria Catarina. Source of stones on walls of fortress of Santiago in Sesimbra |
 |                   | Medeiros, Eduardo. How impactful was the poseur 2014-20 towards environmentally sustainable regions in Portugal? |
 |                   | Ludovico-Marques, Marco A; Castro, Marcela S. Leveraging portuguese higher education institutions for regional development through decarbonization |
 |                   | Mourato, Fausto; Martins, Helena G; Piteira, Martinha; Moreira, Sandrina B. Playing for the planet: a state of the art on gamification and serious games for raising awareness about responsible use of natural resources |
-|                   | Ludovico-Marques, Marco A; Paz, Maria Catarina. Source of stones on walls of fortress of Santiago in Sesimbra |
 |                   | **Session 2: Resilient Economy, Entrepreneurship and Innovation (Moderator: Fátima Seralha) -- *Room C1.15***   |
 |                   | Baleizão, Ana Raquel; Miguel, Fernanda; Gomes, Ana Gabriela G.N.; Justino, Marta. Optimisation of viral RNA extraction with an extraction kit using sample poolings: case study for SARS-COV-2 Virus |
 |                   | Pitacho, Liliana A; Cordeiro, João; Lima, Daniela; Martins, Helena G. Team Resilience Dynamics in High-Performance Teams: a systematic literature review |
@@ -101,7 +101,7 @@ permalink: /program/
 |                   | Jorge Gaspar – AIP                                       |
 |                   | Mário Parra da Silva – APEE e UN Global Compact Network Portugal |
 |                   | Paula Guimarães – The Navigator Company                  |
-| **12:00 - 12:30** | **Keynote Speaker (in Portuguese)**: Pedro Dominguinhos, President of the National Recovery and Resilience Plan (RRP) Monitoring Commission, "Contribuição do PRR para os Objetivos de Desenvolvimento Sustentável" -- ***Room C1.13***  |
+| **12:00 - 12:30** | [**Keynote Speaker (in Portuguese)**: Pedro Dominguinhos, President of the National Recovery and Resilience Plan (RRP) Monitoring Commission, "Contribuição do PRR para os Objetivos de Desenvolvimento Sustentável"]({{ "/#keynote3" | relative_url}}) -- ***Room C1.13***  |
 | **12:30**             | **Closing session**: Pedro Ferreira, Vice-President of the Polytechnic Institute of Setubal (IPS) -- ***Room C1.13***                 |
 
 </div>

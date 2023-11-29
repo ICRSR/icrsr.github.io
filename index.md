@@ -85,6 +85,15 @@ She holds a PhD in Social Sustainability (Universidade Aberta) and is an alumni 
 
 </section>
 
+<section id="keynote3" markdown="1">
+### Pedro Dominguinhos
+- President of the National Recovery and Resilience Plan (RRP) Monitoring Commission
+- Associate Professor at School of Business Administration (ESCE) of the Polytechnic Institute of Setúbal (IPS)
+
+<img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-pedro-dominguinhos.webp" | relative_url }}" alt="Pedro Dominguinhos Portrait">
+
+</section>
+
 </article>
 
 <article id="roundtables" markdown="1">
