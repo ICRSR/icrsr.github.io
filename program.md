@@ -17,7 +17,7 @@ permalink: /program/
 | 12:30             | Lunch                                                    |
 | **14:30 - 16:00** | **Parallel sessions 1 & 2**                              |
 |                   | **Session 1: Regional Development and Sustainability (Moderator: Catarina Paz) -- *Room C1.12***   |
-|                   | Ludovico-Marques, Marco A; Paz, Maria Catarina. Source of stones on walls of fortress of Santiago in Sesimbra |
+|                   | Ludovico-Marques, Marco A; Paz, Maria Catarina. Source of stones on walls of Santiago fortress in Sesimbra |
 |                   | Medeiros, Eduardo. How impactful was the poseur 2014-20 towards environmentally sustainable regions in Portugal? |
 |                   | Ludovico-Marques, Marco A; Castro, Marcela S. Leveraging portuguese higher education institutions for regional development through decarbonization |
 |                   | Mourato, Fausto; Martins, Helena G; Piteira, Martinha; Moreira, Sandrina B. Playing for the planet: a state of the art on gamification and serious games for raising awareness about responsible use of natural resources |
