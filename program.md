@@ -26,7 +26,8 @@ permalink: /program/
 |                   | Baleizão, Ana Raquel; Miguel, Fernanda; Gomes, Ana Gabriela G.N.; Justino, Marta. Optimisation of viral RNA extraction with an extraction kit using sample poolings: case study for SARS-COV-2 Virus |
 |                   | Pitacho, Liliana A; Cordeiro, João; Lima, Daniela; Martins, Helena G. Team Resilience Dynamics in High-Performance Teams: a systematic literature review |
 |                   | Pedro Mares; Costa, Teresa Gomes da; Lima, Maria João. Antecedents of Entrepreneurial Intention in students of Polytechnic Institute of Setubal (Portugal). |
-| **15:30 - 17:00** | [**Round Table: Resilience and Sustainability in Events: Innovative Approaches for Tourist Destinations**]({{ "/#roundtable1" | relative_url}})                                             |
+| **13:30 - 15:30** | [**Round Table: Empreendedorismo e Inovação - PhD Students (São Paulo University)**]({{ "/#roundtable1" | relative_url}}) -- ***Room [Google Meet](https://meet.google.com/uqx-zyaf-bnc)*** |
+| **15:30 - 17:00** | [**Round Table: Resilience and Sustainability in Events: Innovative Approaches for Tourist Destinations**]({{ "/#roundtable2" | relative_url}})                                             |
 | 16:00 - 16:30     | Coffee break                                             |
 | **16:30 - 18:00** | **Parallel sessions 3, 4, & 5**                              |
 |                   | **Session 3: Technological, Engineering and Environmental Solutions (Moderator: Nelson Carriço) -- *Room C1.15***   |
