@@ -14,7 +14,6 @@ permalink: /program/
 | **10:30 - 11:00** | [**Keynote Speaker**: Hannes Raffasaeder, Lead Coordinator European University E³UDRES², "Open Innovation and Collaboration for Resilient and Sustainable Regions"]({{ "/#keynote1" | relative_url}}) -- ***Room C1.13***  |
 | **11:00 - 11:30** | Coffee break                                             |
 | **11:30 - 12:00** | [**Keynote Speaker**: Antje Disterheft, Researcher and Integrated Memeber at CENSE/NOVA School of Science and Technology, "Resilience from within - why our inner worlds matter for transformative change"]({{ "/#keynote2" | relative_url}}) -- ***Room C1.13*** |
-| **12:00 - 13:00** | **Keynote Speaker**: Pedro Dominguinhos, President of the National Recovery and Resilience Plan (RRP) Monitoring Commission -- ***Room C1.13***  |
 | 13:00             | Lunch                                                    |
 | **14:30 - 16:00** | **Parallel sessions 1 & 2**                              |
 |                   | **Session 1: Regional Development and Sustainability (Moderator: Catarina Paz) -- *Room C1.12***   |
@@ -102,6 +101,7 @@ permalink: /program/
 |                   | Jorge Gaspar – IAPMEI                                    |
 |                   | Mário Parra da Silva – APEE e UN Global Compact Network Portugal |
 |                   | Paula Guimarães – The Navigator Company                  |
-| 12:00             | Closing session                                          |
+| **12:00 - 12:30** | **Keynote Speaker**: Pedro Dominguinhos, President of the National Recovery and Resilience Plan (RRP) Monitoring Commission, "Contribution of Portuguese PRR to SDG" -- ***Room C1.13***  |
+| 12:30             | Closing session                                          |
 
 </div>
