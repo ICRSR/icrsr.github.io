@@ -93,7 +93,7 @@ She holds a PhD in Social Sustainability (Universidade Aberta) and is an alumni 
 
 <section id="roundtable1" markdown="1">
 
-### Empreendedorismo e Inovação - PhD Students (São Paulo University)
+### Entrepreneurship and Innovation - PhD Students (São Paulo University)
 
 ***Room [Google Meet](https://meet.google.com/uqx-zyaf-bnc)***
 
