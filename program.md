@@ -38,6 +38,7 @@ permalink: /program/
 |                   | **Session 4: Regional Development and Sustainability (Moderator: Caterina De Lucia) -- *Room C1.12***   |
 |                   | Simões, Luis; Reis, Leonilde; Galvão, Susana; Couto, Maria; Mata, Carlos; Caria, Maria Helena. Sustainability and regional development@IPS: a pilot experience |
 |                   | A. Quintela, Joana; Costa, Carlos; Correia, Anabela. Sustainability in health and wellness tourism – the creation of health regions |
+|                   | Carla Viana; Duarte Xara Brasil. Digital Transformation in Healthcare: Consumer Experience in Portugal's Health Sector |
 |                   | Esengulova, Nazgul; Pazienza, Pasquale; Lopolito, Antonio; Morsilli, Michele; Balena, Pasquale. UNESCO Geopark to boost regional development?: A scenario for the marginal area of Gargano Promontory, Italy |
 |                   | **Session 5: Society, Education, People and Behaviour (Moderator: Helena Martins) -- *Room C1.16***  |
 |                   | De Coninck, Sarah; Reulens, Ann. “Nothing about us without us”: results of a literature review and delphi study on engagement models for research |
@@ -76,11 +77,11 @@ permalink: /program/
 |                   | P.J.M. Koevoet-Sonneveld, RUAS, IBW coodinator           |
 |                   | Teresa Costa, ESCE/IPS, IBW coordinator                  |
 | **15:30 - 17:00** | **Parallel sessions 8 & 9**                           |
-|                   | **Session 8: Resilient Economy, Entrepreneurship and Innovation (Moderator: Nuno Teixeira) -- *Room C1.13*** |
-|                   | Teresa Gomes da Costa; Nuno Teixeira; Rosa Galvão; Pedro Mares. A Strategic Roadmap for Companies in the Wine Industry in the Setubal Peninsula |
+|                   | **Session 8: Resilient Economy, Entrepreneurship and Innovation (Moderator: Pedro Pardal) -- *Room C1.13*** |
 |                   | Teresa Gomes da Costa; Pedro Mares; Maria Lima. Entrepreneuship Education in International Context: Skills, Attitudes and Competencies that Promote Student Resilience |
 |                   | Nuno Costa; João Lourenço. Process and product’s resilience |
 |                   | Dias, Rui Teixeira; Reis, Leonilde; Pardal, Pedro; Carvalho, Luísa; Russo, Nelson. Resilient companies in the region of Setúbal: an insightful reflection in times of uncertainty |
+|                   | Duarte Xara Brasil; Pedro Pardal; João Pedro Cordeiro; Luísa Cagica Carvalho .Buying Local Products: Municipal Markets vs. Modern Trade. A Portuguese Case Study |
 |                   | **Session 9: Technological, Engineering and Environmental Solutions (Moderator: Catarina Paz) -- *Room C1.12*** |
 |                   | Shabir, Maria. Does energy democracy really affect growth and environmental quality? early evidence from upper middle-income countries during 1997-2020 |
 |                   | Gameiro, Maria Lurdes; Gomes, Ana Gabriela G.N.; Justino, Marta; Serralha, Maria Fátima; Tudella, Joana. Recovery of precious metals from electronic wastes – a review |
