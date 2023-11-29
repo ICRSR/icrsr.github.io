@@ -10,7 +10,7 @@ permalink: /program/
 | Time              |                                                          |
 | ----------------- | -------------------------------------------------------- |
 | 09:30             | Welcome and registration                                 |
-| **10:00 - 10:30** | **Opening session** -- ***Room C1.13***                  |
+| **10:00 - 10:30** | **Opening session**: Luísa Carvalho, Vice-President of the Polytechnic Institute of Setubal (IPS) -- ***Room C1.13***                  |
 | **10:30 - 11:00** | [**Keynote Speaker**: Hannes Raffasaeder, Lead Coordinator European University E³UDRES², "Open Innovation and Collaboration for Resilient and Sustainable Regions"]({{ "/#keynote1" | relative_url}}) -- ***Room C1.13***  |
 | **11:00 - 11:30** | Coffee break                                             |
 | **11:30 - 12:00** | [**Keynote Speaker**: Antje Disterheft, Researcher and Integrated Memeber at CENSE/NOVA School of Science and Technology, "Resilience from within - why our inner worlds matter for transformative change"]({{ "/#keynote2" | relative_url}}) -- ***Room C1.13*** |
@@ -102,6 +102,6 @@ permalink: /program/
 |                   | Mário Parra da Silva – APEE e UN Global Compact Network Portugal |
 |                   | Paula Guimarães – The Navigator Company                  |
 | **12:00 - 12:30** | **Keynote Speaker (in Portuguese)**: Pedro Dominguinhos, President of the National Recovery and Resilience Plan (RRP) Monitoring Commission, "Contribuição do PRR para os Objetivos de Desenvolvimento Sustentável" -- ***Room C1.13***  |
-| **12:30**             | **Closing session** -- ***Room C1.13***                 |
+| **12:30**             | **Closing session**: Pedro Ferreira, Vice-President of the Polytechnic Institute of Setubal (IPS) -- ***Room C1.13***                 |
 
 </div>
