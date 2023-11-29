@@ -99,34 +99,37 @@ She holds a PhD in Social Sustainability (Universidade Aberta) and is an alumni 
 
 **Title**: Reflexos do comportamento empreendedor em Effectuation sobre Capacidades Dinâmicas: uma revisão bibliográfica.  
 **Author**: Frederico Eugênio Fernandes Filho  
-**Contact**: fredfernandes@usp.br  
+**Contact**: [fredfernandes@usp.br](mailto:fredfernandes@usp.br)  
  
 **Title**: Sustentabilidade da tecnologia de produção de carne cultivada – Revisão de Literatura.  
-**Authors**: Camila Keila Magno Leonel e Bruno Cesar Porsani Mangili  
-**Contacts**: camila.leonel@usp.br e bruno.mangili@usp.br  
+**Authors**: Camila Keila Magno Leonel and Bruno Cesar Porsani Mangili  
+**Contacts**: [camila.leonel@usp.br](mailto:camila.leonel@usp.br) and [bruno.mangili@usp.br](mailto:bruno.mangili@usp.br)  
  
 **Title**: Innovations on the Altitude simulators technologies: A patent review.  
 **Author**: Yan Figueiredo Foresti  
-**Contact**: yan.foresti@alumni.usp.br  
+**Contact**: [yan.foresti@alumni.usp.br](mailto:yan.foresti@alumni.usp.br)  
  
 **Title**: A relação do Capital Intelectual com Desempenho Operacional: uma análise de empresas listadas na China durante a pandemia de COVID-19  
 **Author**: Victor Haruo Nitatori Rodrigues Lourenço  
-**Contact**: victor.haruo@usp.br  
+**Contact**: [victor.haruo@usp.br](mailto:victor.haruo@usp.br)  
  
 **Title**: How cyber security measures help SMEs in their internationalization.  
 **Author**: Steve Egnonvi Senade  
-**Contact**: steve.senade@usp.br  
+**Contact**: [steve.senade@usp.br](mailto:steve.senade@usp.br)  
  
 **Title**: Relação entre empreendedorismo e Indicações Geográficas: uma revisão da literatura  
-**Authors**: Laís Marques da Silva e Estefânia Portomeo Cancado Lemos  
-**Contacts**: laissilva@usp.br e estefania@acads.com.br  
+**Authors**: Laís Marques da Silva and Estefânia Portomeo Cancado Lemos  
+**Contacts**: [laissilva@usp.br](mailto:laissilva@usp.br) and [estefania@acads.com.br](mailto:estefania@acads.com.br)
+
 
 </section>
 
 <section id="roundtable2" markdown="1">
 
 ### Resilience and Sustainability in Events: Innovative Approaches for Tourist Destinations
- 
+
+***Room C1.13***
+
 **Round Table Description**: Event tourism is an essential contributor to the economic development and promotion of international tourist destinations. However, events frequently find obstacles resulting from economic, social, and environmental factors. The primary objective of this roundtable discussion is to explore the ways in which events can incorporate sustainability and resilience principles, thereby fostering the development of dynamic and resilient tourism destinations. Speakers will engage in a discourse regarding new methods to mitigate emerging risks, ensure long-term viability, and stimulate tourism in challenging regions.
  
 **Discussion Topics**: Resilience strategies employed in events to address environmental and social challenges; the positive effects that environmentally responsible event planning can have on tourist destinations; case studies of tourist destinations where the integration of sustainability and resilience into events has been executed successfully; stakeholders’ partnerships to promote resilience and sustainability in tourism destinations.
