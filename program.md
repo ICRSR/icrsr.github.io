@@ -38,7 +38,6 @@ permalink: /program/
 |                   | **Session 4: Regional Development and Sustainability (Moderator: Caterina De Lucia) -- *Room C1.12***   |
 |                   | Simões, Luis; Reis, Leonilde; Galvão, Susana; Couto, Maria; Mata, Carlos; Caria, Maria Helena. Sustainability and regional development@IPS: a pilot experience |
 |                   | A. Quintela, Joana; Costa, Carlos; Correia, Anabela. Sustainability in health and wellness tourism – the creation of health regions |
-|                   | Basile, Giuseppe; De Lucia, Caterina; Pazienza, Pasquale. The role of Artificial Intelligence (AI) and Joint Embedding Predictive Architecture (JEPA) in the socio-economic valorization of cultural and environmental assets (CEAs): A review of the literature and potential applications |
 |                   | Esengulova, Nazgul; Pazienza, Pasquale; Lopolito, Antonio; Morsilli, Michele; Balena, Pasquale. UNESCO Geopark to boost regional development?: A scenario for the marginal area of Gargano Promontory, Italy |
 |                   | **Session 5: Society, Education, People and Behaviour (Moderator: Helena Martins)**  |
 |                   | De Coninck, Sarah; Reulens, Ann. “Nothing about us without us”: results of a literature review and delphi study on engagement models for research |
@@ -98,7 +97,7 @@ permalink: /program/
 | Time              |                                                          |
 | ----------------- | -------------------------------------------------------- |
 | **09:30 - 12:00** | **Special session 3 (in Portuguese) - Sustentabilidade e Resiliência (Moderator: Carlos Mata) -- *Room C1.13*** |
-|                   | Jorge Gaspar – IAPMEI                                    |
+|                   | Jorge Gaspar – AIP                                       |
 |                   | Mário Parra da Silva – APEE e UN Global Compact Network Portugal |
 |                   | Paula Guimarães – The Navigator Company                  |
 | **12:00 - 12:30** | **Keynote Speaker**: Pedro Dominguinhos, President of the National Recovery and Resilience Plan (RRP) Monitoring Commission, "Contribution of Portuguese PRR to SDG" -- ***Room C1.13***  |
