@@ -8,12 +8,15 @@ permalink: /committee/
 - Ana de Jesus Mendes, Instituto Politécnico de Setúbal, Portugal
 - Anabela Correia, Instituto Politécnico de Setúbal, Portugal
 - Carlos Mata, Instituto Politécnico de Setúbal, Portugal
+- João Nabais, Instituto Politécnico de Setúbal, Portugal
 - Maria Catarina Paz, Instituto Politécnico de Setúbal, Portugal
 - Maria Teresa Costa, Instituto Politécnico de Setúbal, Portugal (coordination)
 - Nelson Carriço, Instituto Politécnico de Setúbal, Portugal (coordination)
 - Nuno Teixeira, Instituto Politécnico de Setúbal, Portugal
 - Pedro Albuquerque Santos, Instituto Politécnico de Lisboa, Portugal
+- Pedro Pardal, Instituto Politécnico de Setúbal, Portugal
 - Raquel Barreira, Instituto Politécnico de Setúbal, Portugal
+- Raquel Pereira,  Instituto Politécnico de Setúbal, Portugal
 - Susana Galvão, Instituto Politécnico de Setúbal, Portugal
 - Telma Guerra, Instituto Politécnico de Setúbal, Portugal
 - Vítor Barbosa, Instituto Politécnico de Setúbal, Portugal
