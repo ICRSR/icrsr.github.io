@@ -71,11 +71,12 @@ permalink: /program/
 |                   | Ranieri F., Santoro D., Grilli L., De Lucia C., Pazienza P. Evaluation of the tourism carrying capacity for sustainable management at the Tremiti Islands, Italy |
 | 13:00             | Lunch                                                    |
 | **14:00 - 15:30** | **Special session 2 - Network and Cooperation in Higher Education – IBW (Moderators: Teresa Costa & Pedro Pardal) -- *Room C1.13*** |
-|                   | Tim Colberg                                              |
-|                   | Martina Chalupová                                        |
-|                   | Stef Mannaerts                                           |
+|                   | Tim Colberg Hochschule Kaiserslautern, in representation of IBW coordinator |
+|                   | Martina Chalupová, College of Polytechnics Jihlava, IBW coordinator |
+|                   | Stef Mannaerts, UCLL, IBW coordinator                    |
 |                   | Danielle Bouwman, RUAS, IBW coodinator                   |
-|                   | P.J.M. Koevoet-Sonneveld                                 |
+|                   | P.J.M. Koevoet-Sonneveld, RUAS, IBW coodinator           |
+|                   | Teresa Costa, ESCE/IPS, IBW coordinator                  |
 | **15:30 - 17:00** | **Parallel sessions 8 & 9**                           |
 |                   | **Session 8: Resilient Economy, Entrepreneurship and Innovation (Moderator: Nuno Teixeira) -- *Room C1.13*** |
 |                   | Teresa Gomes da Costa; Nuno Teixeira; Rosa Galvão; Pedro Mares. A Strategic Roadmap for Companies in the Wine Industry in the Setubal Peninsula |
