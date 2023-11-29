@@ -57,7 +57,7 @@ permalink: /program/
 |                   | *Communication 2*                                        |
 | 11:00 - 11:30     | Coffee break                                             |
 | **11:30 - 13:00** | **Parallel sessions 6 & 7**                              |
-|                   | **Session 6: Finance, Investments and Funding (Moderator: Rui Dias) -- *Room C1.12***          |
+|                   | **Session 6: Finance, Investments and Funding (Moderator: Rui Pardal) -- *Room C1.12***          |
 |                   | Dias, Rui Teixeira; Chambino Ramos, Mariana. Analyzing The Nexus: Stock Indexes and Cryptocurrencies During the Russia-Ukraine War |
 |                   | Bicho, Susana PR; Heliodoro, Paula A. Comparative Analysis of the Financial Performance of Companies in PSI20 and IBEX35, before and during Covid-19 Crisis |
 |                   | Chambino Ramos, Mariana; Dias, Rui Teixeira. Interconnected markets: examining spillovers between stock indexes in the travel, hotels, restaurants, and leisure sector |
@@ -81,7 +81,7 @@ permalink: /program/
 |                   | Teresa Gomes da Costa; Pedro Mares; Maria Lima. Entrepreneuship Education in International Context: Skills, Attitudes and Competencies that Promote Student Resilience |
 |                   | Nuno Costa; João Lourenço. Process and product’s resilience |
 |                   | Dias, Rui Teixeira; Reis, Leonilde; Pardal, Pedro; Carvalho, Luísa; Russo, Nelson. Resilient companies in the region of Setúbal: an insightful reflection in times of uncertainty |
-|                   | **Session 9: Technological, Engineering and Environmental Solutions (Moderator: Gabriela Gomes) -- *Room C1.12*** |
+|                   | **Session 9: Technological, Engineering and Environmental Solutions (Moderator: Catarina Paz) -- *Room C1.12*** |
 |                   | Shabir, Maria. Does energy democracy really affect growth and environmental quality? early evidence from upper middle-income countries during 1997-2020 |
 |                   | Gameiro, Maria Lurdes; Gomes, Ana Gabriela G.N.; Justino, Marta; Serralha, Maria Fátima; Tudella, Joana. Recovery of precious metals from electronic wastes – a review |
 |                   | Garcia, João Miranda; Soares, Aldina; Ruivo, Celestino. Smart solar vegetable dehidratation, a way to support a sustainable activity |
