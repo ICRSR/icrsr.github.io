@@ -16,7 +16,7 @@ permalink: /program/
 | **11:30 - 12:00** | [**Keynote Speaker**: Antje Disterheft, Researcher and Integrated Memeber at CENSE/NOVA School of Science and Technology, "Resilience from within - why our inner worlds matter for transformative change"]({{ "/#keynote2" | relative_url}}) -- ***Room C1.13*** |
 | 12:30             | Lunch                                                    |
 | **14:30 - 16:00** | **Parallel sessions 1 & 2**                              |
-|                   | **Session 1: Regional Development and Sustainability (Moderator: Catarina Paz) -- *Room C1.12***   |
+|                   | **Session 1: Regional Development and Sustainability (Moderator: Raquel Barreira) -- *Room C1.12***   |
 |                   | Ludovico-Marques, Marco A; Paz, Maria Catarina. Source of stones on walls of Santiago fortress in Sesimbra |
 |                   | Medeiros, Eduardo. How impactful was the poseur 2014-20 towards environmentally sustainable regions in Portugal? |
 |                   | Ludovico-Marques, Marco A; Castro, Marcela S. Leveraging portuguese higher education institutions for regional development through decarbonization |
