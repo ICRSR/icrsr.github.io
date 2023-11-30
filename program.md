@@ -34,7 +34,7 @@ All of the rooms mentioned in the program are located in the at [School of Busin
 | 16:00 - 16:30     | Coffee break                                             |
 | **16:30 - 18:00** | **Parallel sessions 3, 4, & 5**                              |
 |                   | **Session 3: Technological, Engineering and Environmental Solutions (Moderator: Nelson Carriço) -- *Room C1.15***   |
-|                   | Rucha, Madalena; Piçarra, Susana; Sena da Fonseca, Bruno; Ferreira Pinto, Ana Paula; Mégre, Sofia. Advancing sustaibaility in built heritage conservation |
+|                   | Rucha, Madalena; Piçarra, Susana; Sena da Fonseca, Bruno; Ferreira Pinto, Ana Paula; Mégre, Sofia. Advancing sustainability in built heritage conservation |
 |                   | Piçarra, Susana; F. Silva, Hugo; Coelho, José; Araújo, Lara; Silva, Nelson; Oliveira, Cristina; Matos, Manuel; Barreiros, Ana. Circular use of water in agriculture: solution or threat? |
 |                   | Santos, Carla A.; Coelho, Claudia; Gomes, Ana Gabriela G.N.; Tudella, Joana; Serralha, Maria Fátima; Dias, Nilmara; Santos, Sónia; Osório, Natália; Justino, Marta. Closing the loop: microalgae-based solutions for agroindustrial waste in Setúbal |
 |                   | Ferreira, Inês A.; Mendes, Ana; Carriço, Nelson. Digital transformation in berth planning operations – a bibliometric analysis |
