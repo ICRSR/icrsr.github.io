@@ -5,6 +5,10 @@ permalink: /program/
 ---
 <div class="program" markdown="1">
 
+All of the rooms mentioned in the program are located in the at [School of Business Administration (ESCE) of the Polytechnic Institute of Setúbal (IPS)](https://maps.app.goo.gl/83e4ZHhkvdyp1div7). You can find the map of the campus [here]({{ "/attending/#campus-map" | relative_url}}).
+
+<div id="program-day1" markdown="1">
+
 # 4 December
 
 | Time              |                                                          |
@@ -46,6 +50,11 @@ permalink: /program/
 |                   | Lampreia, Paula; Martins, Helena G. Leading the charge: how workers’ views on leadership can shape culture shifts, a case study |
 |                   | Martins, Helena G; Cordeiro, João Pedro; Carvalho, Luísa; Pitacho, Liliana A. Simmering success: a bibliometric approach to the literature and research agenda on entrepreneurial chefs |
 |                   | Komino, Aline. The moral dimension in the consumption of organic foods |
+
+</div>
+
+
+<div id="program-day2" markdown="1">
 
 # 5 December
 
@@ -90,8 +99,9 @@ permalink: /program/
 | 19:30 - 20:00     | Moscatel de honra                                        |
 | 20:00 - 22:00     | Gala Dinner and Best Communication Award                 |
 
+</div>
 
-
+<div id="program-day3" markdown="1">
 
 # 6 December
 
@@ -103,5 +113,7 @@ permalink: /program/
 |                   | Paula Guimarães – The Navigator Company                  |
 | **12:00 - 12:30** | [**Keynote Speaker (in Portuguese)**: Pedro Dominguinhos, President of the National Recovery and Resilience Plan (RRP) Monitoring Commission, "Contribuição do PRR para os Objetivos de Desenvolvimento Sustentável"]({{ "/#keynote3" | relative_url}}) -- ***Room C1.13***  |
 | **12:30**             | **Closing session**: Pedro Ferreira, Vice-President of the Polytechnic Institute of Setubal (IPS) -- ***Room C1.13***                 |
+
+</div>
 
 </div>

@@ -68,9 +68,8 @@ These stations may also be accessible be other means, such as buses from [Carris
 - Around 70€/80€ from the airport to the Setúbal city centre.
 
 ### Travelling from Setúbal city center to the Setúbal Campus of the Polytechnic Institute of Setúbal (IPS)
-<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3699.009577415582!2d-8.839709268002855!3d38.52163775658417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1937b2c60f8f47%3A0xa0df10aa0caa2efa!2sPolytechnic%20Institute%20of%20Set%C3%BAbal!5e1!3m2!1sen!2spt!4v1687544206242!5m2!1sen!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
 
-<img class="full-width-image" src="{{ "/assets/images/ips-campus-setubal-map.svg" | relative_url }}" alt="IPS Setúbal Campus map">
+<img id="campus-map" class="full-width-image" src="{{ "/assets/images/ips-campus-setubal-map.svg" | relative_url }}" alt="IPS Setúbal Campus map">
 
 
 #### Option 1
