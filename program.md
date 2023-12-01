@@ -25,10 +25,10 @@ All of the rooms mentioned in the program are located in the at [School of Busin
 |                   | Medeiros, Eduardo. How impactful was the poseur 2014-20 towards environmentally sustainable regions in Portugal? |
 |                   | Ludovico-Marques, Marco A; Castro, Marcela S. Leveraging portuguese higher education institutions for regional development through decarbonization |
 |                   | Mourato, Fausto; Martins, Helena G; Piteira, Martinha; Moreira, Sandrina B. Playing for the planet: a state of the art on gamification and serious games for raising awareness about responsible use of natural resources |
-|                   | **Session 2: Resilient Economy, Entrepreneurship and Innovation (Moderator: Fátima Seralha) -- *Room C1.15***   |
-|                   | Baleizão, Ana Raquel; Miguel, Fernanda; Gomes, Ana Gabriela G.N.; Justino, Marta. Optimisation of viral RNA extraction with an extraction kit using sample poolings: case study for SARS-COV-2 Virus |
+|                   | **Session 2: Resilient Economy, Entrepreneurship and Innovation (Moderator: Cláudia Coelho) -- *Room C1.15***   |
 |                   | Pitacho, Liliana A; Cordeiro, João; Lima, Daniela; Martins, Helena G. Team Resilience Dynamics in High-Performance Teams: a systematic literature review |
 |                   | Pedro Mares; Costa, Teresa Gomes da; Lima, Maria João. Antecedents of Entrepreneurial Intention in students of Polytechnic Institute of Setubal (Portugal). |
+|                   | Ferreira, Inês A.; Mendes, Ana; Carriço, Nelson. Digital transformation in berth planning operations – a bibliometric analysis |
 | **13:30 - 15:30** | [**Round Table: Entrepreneurship and Innovation - PhD Students (São Paulo University)**]({{ "/#roundtable1" | relative_url}}) -- ***Room [Google Meet](https://meet.google.com/uqx-zyaf-bnc)*** |
 | **15:30 - 17:00** | [**Round Table: Resilience and Sustainability in Events: Innovative Approaches for Tourist Destinations**]({{ "/#roundtable2" | relative_url}}) -- ***Room C1.13***                                             |
 | 16:00 - 16:30     | Coffee break                                             |
@@ -37,7 +37,6 @@ All of the rooms mentioned in the program are located in the at [School of Busin
 |                   | Rucha, Madalena; Piçarra, Susana; Sena da Fonseca, Bruno; Ferreira Pinto, Ana Paula; Mégre, Sofia. Advancing sustainability in built heritage conservation |
 |                   | Piçarra, Susana; F. Silva, Hugo; Coelho, José; Araújo, Lara; Silva, Nelson; Oliveira, Cristina; Matos, Manuel; Barreiros, Ana. Circular use of water in agriculture: solution or threat? |
 |                   | Santos, Carla A.; Coelho, Claudia; Gomes, Ana Gabriela G.N.; Tudella, Joana; Serralha, Maria Fátima; Dias, Nilmara; Santos, Sónia; Osório, Natália; Justino, Marta. Closing the loop: microalgae-based solutions for agroindustrial waste in Setúbal |
-|                   | Ferreira, Inês A.; Mendes, Ana; Carriço, Nelson. Digital transformation in berth planning operations – a bibliometric analysis |
 |                   | Castro, Marcela S; Lisboa, Leonardo; Barcaui, Andre; Navarro, Carlos. Unveiling the landscape of Artificial Intelligence in corporate management: insights from professionals |
 |                   | **Session 4: Regional Development and Sustainability (Moderator: Caterina De Lucia) -- *Room C1.12***   |
 |                   | Simões, Luis; Reis, Leonilde; Galvão, Susana; Couto, Maria; Mata, Carlos; Caria, Maria Helena. Sustainability and regional development@IPS: a pilot experience |
@@ -91,6 +90,7 @@ All of the rooms mentioned in the program are located in the at [School of Busin
 |                   | Nuno Costa; João Lourenço. Process and product’s resilience |
 |                   | Dias, Rui Teixeira; Reis, Leonilde; Pardal, Pedro; Carvalho, Luísa; Russo, Nelson. Resilient companies in the region of Setúbal: an insightful reflection in times of uncertainty |
 |                   | Duarte Xara Brasil; Pedro Pardal; João Pedro Cordeiro; Luísa Cagica Carvalho .Buying Local Products: Municipal Markets vs. Modern Trade. A Portuguese Case Study |
+|                   | Baleizão, Ana Raquel; Miguel, Fernanda; Gomes, Ana Gabriela G.N.; Justino, Marta. Optimisation of viral RNA extraction with an extraction kit using sample poolings: case study for SARS-COV-2 Virus |
 |                   | **Session 9: Technological, Engineering and Environmental Solutions (Moderator: Catarina Paz) -- *Room C1.12*** |
 |                   | Shabir, Maria. Does energy democracy really affect growth and environmental quality? early evidence from upper middle-income countries during 1997-2020 |
 |                   | Gameiro, Maria Lurdes; Gomes, Ana Gabriela G.N.; Justino, Marta; Serralha, Maria Fátima; Tudella, Joana. Recovery of precious metals from electronic wastes – a review |
