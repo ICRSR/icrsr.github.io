@@ -96,6 +96,7 @@ All of the rooms mentioned in the program are located in the at [School of Busin
 |                   | Gameiro, Maria Lurdes; Gomes, Ana Gabriela G.N.; Justino, Marta; Serralha, Maria Fátima; Tudella, Joana. Recovery of precious metals from electronic wastes – a review |
 |                   | Garcia, João Miranda; Soares, Aldina; Ruivo, Celestino. Smart solar vegetable dehidratation, a way to support a sustainable activity |
 |                   | Lopes, Rodrigo; Reis, Leonilde; Dourado, Alcina. Technological solutions for a more resilient world: a contribution to responsible consumerism |
+| 18:00             | Visit to the Convent of Jesus / Museum of Setúbal        |
 | 19:30 - 20:00     | Moscatel de honra                                        |
 | 20:00 - 22:00     | Gala Dinner and Best Communication Award                 |
 
