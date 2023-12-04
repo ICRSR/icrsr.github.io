@@ -43,7 +43,7 @@ All of the rooms mentioned in the program are located in the at [School of Busin
 |                   | A. Quintela, Joana; Costa, Carlos; Correia, Anabela. Sustainability in health and wellness tourism – the creation of health regions |
 |                   | Carla Viana; Duarte Xara Brasil. Digital Transformation in Healthcare: Consumer Experience in Portugal's Health Sector |
 |                   | Esengulova, Nazgul; Pazienza, Pasquale; Lopolito, Antonio; Morsilli, Michele; Balena, Pasquale. UNESCO Geopark to boost regional development?: A scenario for the marginal area of Gargano Promontory, Italy |
-|                   | **Session 5: Society, Education, People and Behaviour (Moderator: Helena Martins) -- *Room C1.16***  |
+|                   | **Session 5: Society, Education, People and Behaviour (Moderator: Helena Martins) -- [*Room C.1.16*](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGI5NjZjNDUtMmNhMy00NDlhLWJlOTAtYTRkODdlY2U2ZDAz%40thread.v2/0?context=%7b%22Tid%22%3a%22ad28c625-f2ca-4e91-b6d6-18922bc9391c%22%2c%22Oid%22%3a%22e74bc441-e2ba-4ef7-a22d-0e8dd58b61d3%22%7d)**  |
 |                   | De Coninck, Sarah; Reulens, Ann. “Nothing about us without us”: results of a literature review and delphi study on engagement models for research |
 |                   | Martins, Helena G; Rodrigues, Ana Cláudia; Lehmann, Melanie; Dolmann, Lisa Maria. From panic to panorama: globais insights into crisis training |
 |                   | Lampreia, Paula; Martins, Helena G. Leading the charge: how workers’ views on leadership can shape culture shifts, a case study |
