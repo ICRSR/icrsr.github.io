@@ -1,0 +1,70 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  
+    <div class="wrapper">
+      <h2 class="footer-heading">{{ site.title | escape }}</h2>
+        
+      <div class="footer-col-wrapper">
+        <div class="footer-col footer-col-1">
+          <ul class="contact-list">
+            <!-- <li class="p-name">
+              {%- if site.author -%}
+                {{ site.author | escape }}
+              {%- else -%}
+                {{ site.title | escape }}
+              {%- endif -%}
+              </li> -->
+              {%- if site.email -%}
+              <li>
+                <a class="u-email" href="mailto:{{ site.email }}">
+                  <i class="fa-solid fa-envelope"></i> {{ site.email }}
+                </a>
+              </li>
+              {%- endif -%}
+          </ul>
+        </div>
+  
+        <div class="footer-col footer-col-2">
+          {%- include social.html -%}
+        </div>
+  
+        <div class="footer-col footer-col-3">
+          <p>{{- site.description | escape -}}</p>
+        </div>
+      </div>
+      
+
+      <div class="footer-logos">
+        <div class="organization-logo-container">
+          <a href="https://www.ips.pt/">
+            <img class="organization-logo" src="{{ "/assets/images/ips-logo-new-english.webp" | relative_url }}" alt="IPS Logo">
+          </a>
+        </div>
+
+        <div class="sponsors">
+          Sponsors:
+          <div class="sponsors-logos">
+            <div class="sponsor-logo-container">
+              <a href="https://www.deltacafes.pt">
+                <img class="sponsor-logo" src="{{ "/assets/images/delta-logo.svg" | relative_url }}" alt="Delta Logo">
+              </a>
+            </div>
+            <div class="sponsor-logo-container">
+              <a href="https://www.mun-setubal.pt/">
+                <img class="sponsor-logo" src="{{ "/assets/images/municipio-setubal.webp" | relative_url }}" alt="Munícipio Setúbal Logo">
+              </a>
+            </div>
+            <div class="sponsor-logo-container">
+              <a href="https://www.ermelindafreitas.pt/">
+                <img class="sponsor-logo" src="{{ "/assets/images/ermelinda-freitas.svg" | relative_url }}" alt="Casa Ermelinda Freitas Logo">
+              </a>
+            </div>
+          </div>          
+        </div>
+
+      </div>
+
+    </div>
+
+  </footer>
+  
