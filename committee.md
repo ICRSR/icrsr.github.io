@@ -4,8 +4,9 @@ title: Committee
 permalink: /committee/
 ---
 
-# Organising Committee ([icrsr@ips.pt](mailto:icrsr@ips.pt))
-- Ana de Jesus Mendes, Instituto Politécnico de Setúbal, Portugal
+# Organising Committee ([icrsr@ips.pt](mailto:icrsr@ips.pt))^
+*To be announced*
+<!-- - Ana de Jesus Mendes, Instituto Politécnico de Setúbal, Portugal
 - Anabela Correia, Instituto Politécnico de Setúbal, Portugal
 - Carlos Mata, Instituto Politécnico de Setúbal, Portugal
 - João Nabais, Instituto Politécnico de Setúbal, Portugal
@@ -19,10 +20,11 @@ permalink: /committee/
 - Raquel Pereira,  Instituto Politécnico de Setúbal, Portugal
 - Susana Galvão, Instituto Politécnico de Setúbal, Portugal
 - Telma Guerra, Instituto Politécnico de Setúbal, Portugal
-- Vítor Barbosa, Instituto Politécnico de Setúbal, Portugal
+- Vítor Barbosa, Instituto Politécnico de Setúbal, Portugal -->
 
 # Scientific Committee
-- Ana Gabriela Gomes, Instituto Politécnico de Setúbal, Portugal
+*To be announced*
+<!-- - Ana Gabriela Gomes, Instituto Politécnico de Setúbal, Portugal
 - Anabela Correia, Instituto Politécnico de Setúbal, Portugal
 - Duarte Xara Brasil, Instituto Politécnico de Setúbal, Portugal
 - Francisco Javier Alcalá García, Consejo Superior de Investigaciones Científicas, Spain
@@ -61,4 +63,4 @@ permalink: /committee/
 - Tiago Pinho, Instituto Politécnico de Setúbal, Portugal
 - Vítor Caldeirinha, Instituto Politécnico de Setúbal, Portugal
 - Vlad Mihaescu, Politehnica University of Timișoara, Romania
-- Zdeněk Caha, Institute of Technology and Business in České Budějovice
+- Zdeněk Caha, Institute of Technology and Business in České Budějovice -->

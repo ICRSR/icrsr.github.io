@@ -6,7 +6,9 @@ redirect_from:
   - /submission/
 ---
 
-## Key moments
+*To be announced*
+
+<!-- ## Key moments
 
 |                                       | Date                                                     |
 | ------------------------------------- | -------------------------------------------------------- |
@@ -45,4 +47,4 @@ The submitted papers should have between **5** and **9** pages (including refere
 
 You should submit your full paper using the following platform: [**Microsoft CMT - ICRSR 2023**](https://cmt3.research.microsoft.com/ICRSR2023/){:target="_blank"}
 
-</section>
+</section> -->

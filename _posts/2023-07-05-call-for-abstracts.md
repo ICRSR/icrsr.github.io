@@ -3,6 +3,7 @@ layout: post
 title:  "Call for Abstracts"
 date:   2023-07-05 18:00:00 +0100
 categories: news
+published: false
 ---
 
 We are thrilled to invite you to the 1st International Conference on Resilience and Sustainable Regions (**ICRSR 2023**), a hybrid conference hosted by the Polytechnic Institute of Setúbal (IPS), Portugal, taking place on 4-6 December. 

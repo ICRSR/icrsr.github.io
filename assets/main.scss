@@ -4,12 +4,12 @@
 
 @import "minima";
 
-$theme-color-primary: #fdb84d;
-$theme-color-secondary: #ebc07b;
+$theme-color-primary: #7FC7D9;
+$theme-color-secondary: #DCF2F1;
 $theme-color-seconday-semitransparent: rgba($theme-color-secondary, 0.1);
-$theme-color-text-shadow: #ff7700;
+$theme-color-text-shadow: #0F1035;
 $theme-color-content-background: rgba(white, 0.5);
-$theme-color-special-text: #247a91;
+$theme-color-special-text: #365486;
 
 .site-logo-container {
     float: right;
@@ -95,6 +95,18 @@ main.page-content div.wrapper {
     display: block;
     margin: auto;
     padding: 20px;
+}
+
+.rd-logo-container {
+    background-color: white;
+    border-radius: 16px;
+}
+
+.rd-logo {
+    width: 200px;
+    display: block;
+    margin: auto;
+    padding: 15px;
 }
 
 .sponsors {

@@ -6,9 +6,9 @@ title: Home
 layout: default
 ---
 
-# 1st International Conference on Resilience and Sustainable Regions
+# 2nd International Conference on Resilience and Sustainable Regions
 
-## 4-6 December 2023
+## 4-6 June 2025
 ### Setúbal, Portugal
 
 The **International Conference on Resilience and Sustainable Regions** is an international conference organized by Instituto Politécnico de Setúbal with the participation of several international and national institutions. Institutions from Portugal, as well from [E³UDRES²](https://eudres.eu/) Alliance, [Businet](https://www.businet.org.uk/) and International Business Week Network, joined efforts to reflect, discuss, and share advances and trends on different scientific areas that contribute to the resilience and sustainability of the regions.
@@ -25,27 +25,30 @@ With a multidisciplinary approach it is expected that this conference will be at
 - Society, Education, People and Behaviour
 - Sectoral studies on Tourism, Agriculture, among others
 - Sustainability in construction and buildings
+- Artificial Intelligence in Environmental Sustainability studies
+- ESG Reporting and Organizational Sustainability Accountability
 
-## Registration
-Registration is now open. You can find all the details at the [Attending]({{ 'attending' | relative_url }}) page.
+<!-- ## Registration
+Registration is now open. You can find all the details at the [Attending]({{ 'attending' | relative_url }}) page. -->
 
-## Submissions
+<!-- ## Submissions
 
 ### **Abstract Submission Deadline**: ~~8 September 2023~~ 2 October 2023
 Abstracts submitted to the ICRSR 2023 will be reviewed by the scientific committees of the conference. The accepted abstracts will be published in the conference's **Abstracts Book**. 
 
-[More details]({{ 'submissions/#abstracts' | relative_url }})
+[More details]({{ 'submissions/#abstracts' | relative_url }}) -->
 
-### **Full Paper Submission Deadline**: 4 December 2023
+<!-- ### **Full Paper Submission Deadline**: 4 December 2023
 Authors of accepted and registed abstracts are also encouraged to submit a full paper to be reviewed by the scientific committees of the conference. The selected full papers will be published in the [Proceedings](https://www.mdpi.com/journal/proceedings) journal by MDPI.
 
-[More details]({{ 'submissions/#fullpapers' | relative_url }})
+[More details]({{ 'submissions/#fullpapers' | relative_url }}) -->
 
 <article id="keynotes" markdown="1">
 
 ## Keynote Speakers
+*To be announced*
 
-<section id="keynote1" markdown="1">
+<!-- <section id="keynote1" markdown="1">
 
 ### FH-Prof. Dipl.-Ing. Hannes Raffaseder
 - Chief Executive Officer / President of the St. Pölten University of Applied Sciences GmbH
@@ -92,11 +95,11 @@ She holds a PhD in Social Sustainability (Universidade Aberta) and is an alumni 
 
 <img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-pedro-dominguinhos.webp" | relative_url }}" alt="Pedro Dominguinhos Portrait">
 
-</section>
+</section> -->
 
 </article>
 
-<article id="roundtables" markdown="1">
+<!-- <article id="roundtables" markdown="1">
 
 ## Round Table
 
@@ -149,6 +152,4 @@ She holds a PhD in Social Sustainability (Universidade Aberta) and is an alumni 
 
 </section>
 
-
-
-</article>
+</article> -->

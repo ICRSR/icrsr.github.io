@@ -5,8 +5,9 @@ permalink: /attending/
 ---
 
 ## Registration
+*To be announced*
 
-| Type                                                              | Amount          |
+<!-- | Type                                                              | Amount          |
 | ------------------------------------------------------------------| --------------- |
 | Early Registration                                                | 250€            |
 | Early Registration IPS and Partners (E³UDRES², Businet, IBWN)     | 150€            |
@@ -26,7 +27,7 @@ Your registration fee should be paid by wire transfer to the following bank acco
 
 You will also need to provide proof of payment when you register.
 
-If you have any problems with your registration, please contact us at the following email address: [icrsr@ips.pt](mailto:icrsr@ips.pt).
+If you have any problems with your registration, please contact us at the following email address: [icrsr@ips.pt](mailto:icrsr@ips.pt). -->
 
 ## Travel and accommodation
 
