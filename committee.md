@@ -6,6 +6,7 @@ permalink: /committee/
 
 # Organising Committee ([icrsr@ips.pt](mailto:icrsr@ips.pt))^
 *To be announced*
+
 <!-- - Ana de Jesus Mendes, Instituto Politécnico de Setúbal, Portugal
 - Anabela Correia, Instituto Politécnico de Setúbal, Portugal
 - Carlos Mata, Instituto Politécnico de Setúbal, Portugal
@@ -24,6 +25,7 @@ permalink: /committee/
 
 # Scientific Committee
 *To be announced*
+
 <!-- - Ana Gabriela Gomes, Instituto Politécnico de Setúbal, Portugal
 - Anabela Correia, Instituto Politécnico de Setúbal, Portugal
 - Duarte Xara Brasil, Instituto Politécnico de Setúbal, Portugal
