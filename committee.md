@@ -4,7 +4,7 @@ title: Committee
 permalink: /committee/
 ---
 
-# Organising Committee ([icrsr@ips.pt](mailto:icrsr@ips.pt))^
+# Organising Committee ([icrsr@ips.pt](mailto:icrsr@ips.pt))
 *To be announced*
 
 <!-- - Ana de Jesus Mendes, Instituto Politécnico de Setúbal, Portugal
