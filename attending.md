@@ -7,6 +7,7 @@ permalink: /attending/
 ## Registration
 *To be announced*
 
+{% comment %}
 <!-- 
 | Type                                                              | Amount          |
 | ------------------------------------------------------------------| --------------- |
@@ -29,6 +30,7 @@ Your registration fee should be paid by wire transfer to the following bank acco
 You will also need to provide proof of payment when you register.
 
 If you have any problems with your registration, please contact us at the following email address: [icrsr@ips.pt](mailto:icrsr@ips.pt). -->
+{% endcomment %}
 
 ## Travel and accommodation
 

@@ -6,6 +6,7 @@ permalink: /program/
 
 *To be announced*
 
+{% comment %}
 <!-- <div class="program" markdown="1">
 
 All of the rooms mentioned in the program are located in the at [School of Business Administration (ESCE) of the Polytechnic Institute of Setúbal (IPS)](https://maps.app.goo.gl/83e4ZHhkvdyp1div7). You can find the map of the campus [here]({{ "/attending/#campus-map" | relative_url}}).
@@ -121,3 +122,4 @@ All of the rooms mentioned in the program are located in the at [School of Busin
 </div>
 
 </div> -->
+{% endcomment %}

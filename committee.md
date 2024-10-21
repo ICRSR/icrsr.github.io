@@ -21,6 +21,7 @@ permalink: /committee/
 # Scientific Committee
 *To be announced*
 
+{% comment %}
 <!--
 - Ana Gabriela Gomes, Instituto Politécnico de Setúbal, Portugal
 - Anabela Correia, Instituto Politécnico de Setúbal, Portugal
@@ -63,3 +64,4 @@ permalink: /committee/
 - Vlad Mihaescu, Politehnica University of Timișoara, Romania
 - Zdeněk Caha, Institute of Technology and Business in České Budějovice 
 -->
+{% endcomment %}

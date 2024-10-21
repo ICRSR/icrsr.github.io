@@ -28,9 +28,12 @@ With a multidisciplinary approach it is expected that this conference will be at
 - Artificial Intelligence in Environmental Sustainability studies
 - ESG Reporting and Organizational Sustainability Accountability
 
+{% comment %}
 <!-- ## Registration
 Registration is now open. You can find all the details at the [Attending]({{ 'attending' | relative_url }}) page. -->
+{% endcomment %}
 
+{% comment %}
 <!-- ## Submissions
 
 ### **Abstract Submission Deadline**: ~~8 September 2023~~ 2 October 2023
@@ -42,12 +45,14 @@ Abstracts submitted to the ICRSR 2023 will be reviewed by the scientific committ
 Authors of accepted and registed abstracts are also encouraged to submit a full paper to be reviewed by the scientific committees of the conference. The selected full papers will be published in the [Proceedings](https://www.mdpi.com/journal/proceedings) journal by MDPI.
 
 [More details]({{ 'submissions/#fullpapers' | relative_url }}) -->
+{% endcomment %}
 
 <article id="keynotes" markdown="1">
 
 ## Keynote Speakers
 *To be announced*
 
+{% comment %}
 <!-- <section id="keynote1" markdown="1">
 
 ### FH-Prof. Dipl.-Ing. Hannes Raffaseder
@@ -96,9 +101,11 @@ She holds a PhD in Social Sustainability (Universidade Aberta) and is an alumni 
 <img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-pedro-dominguinhos.webp" | relative_url }}" alt="Pedro Dominguinhos Portrait">
 
 </section> -->
+{% endcomment %}
 
 </article>
 
+{% comment %}
 <!-- <article id="roundtables" markdown="1">
 
 ## Round Table
@@ -153,3 +160,4 @@ She holds a PhD in Social Sustainability (Universidade Aberta) and is an alumni 
 </section>
 
 </article> -->
+{% endcomment %}

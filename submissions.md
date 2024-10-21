@@ -24,14 +24,17 @@ redirect_from:
 
 *To be announced*
 
+{% comment %}
 <!-- The abstracts should be submitted using the following template: [**Abstract Template**]({{ 'assets/documents/ExtendedAbstract.docx' | relative_url }}){:target="_blank"}
 
 Please follow the instructions presented in the template document and fill it accordingly with your own content. -->
 
 <!-- You should submit your abstract using the following platform: [**Microsoft CMT - ICRSR 2023**](https://cmt3.research.microsoft.com/ICRSR2023/){:target="_blank"} -->
+{% endcomment %}
 
 </section>
 
+{% comment %}
 <!-- <section id="presentaions" markdown="1">
 
 ### Presentations
@@ -50,3 +53,4 @@ The submitted papers should have between **5** and **9** pages (including refere
 You should submit your full paper using the following platform: [**Microsoft CMT - ICRSR 2023**](https://cmt3.research.microsoft.com/ICRSR2023/){:target="_blank"}
 
 </section> -->
+{% endcomment %}
