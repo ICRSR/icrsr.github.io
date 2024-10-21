@@ -19,9 +19,10 @@ redirect_from:
 ## Instructions
 
 <section id="abstracts" markdown="1">
-*To be announced*
 
-<!-- ### [Call for Abstracts]({{ 'news/2024/10/28/call-for-abstracts.html' | relative_url }}) -->
+#### [Call for Abstracts]({{ 'news/2024/10/28/call-for-abstracts.html' | relative_url }})
+
+*To be announced*
 
 <!-- The abstracts should be submitted using the following template: [**Abstract Template**]({{ 'assets/documents/ExtendedAbstract.docx' | relative_url }}){:target="_blank"}
 

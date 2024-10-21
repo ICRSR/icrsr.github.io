@@ -7,7 +7,8 @@ permalink: /attending/
 ## Registration
 *To be announced*
 
-<!-- | Type                                                              | Amount          |
+<!-- 
+| Type                                                              | Amount          |
 | ------------------------------------------------------------------| --------------- |
 | Early Registration                                                | 250€            |
 | Early Registration IPS and Partners (E³UDRES², Businet, IBWN)     | 150€            |

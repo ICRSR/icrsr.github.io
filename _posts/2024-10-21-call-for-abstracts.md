@@ -6,7 +6,7 @@ categories: news
 ---
 
 We are thrilled to invite you to the **2nd International Conference on Resilience and Sustainable Regions (ICRSR 2025)**, a hybrid conference hosted by the **Polytechnic Institute of Setúbal (IPS)**, Portugal, taking place on **2-4 of July 2025**. 
- 
+
 Submit an abstract at: [https://icrsr.ips.pt/submission/](https://icrsr.ips.pt/submission/)
  
 The main conference objectives are:  
