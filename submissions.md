@@ -20,7 +20,7 @@ redirect_from:
 
 <section id="abstracts" markdown="1">
 
-#### [Call for Abstracts]({{ 'news/2024/10/28/call-for-abstracts.html' | relative_url }})
+#### [Call for Abstracts]({{ 'news/2024/10/21/call-for-abstracts.html' | relative_url }})
 
 *To be announced*
 

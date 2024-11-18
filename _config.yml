@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: International Conference on Resilience and Sustainable Regions
+title: 2nd International Conference on Resilience and Sustainable Regions
 shorttitle: ICRSR
 email: icrsr@ips.pt
 #description: >- # this means to ignore newlines until "baseurl:"
