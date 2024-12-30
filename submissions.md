@@ -23,9 +23,7 @@ redirect_from:
 #### [Call for Abstracts]({{ 'news/2024/10/21/call-for-abstracts.html' | relative_url }})
 The abstracts should be submitted using the following template: [**Abstract Template**]({{ 'assets/documents/ExtendedAbstract.docx' | relative_url }}){:target="_blank"}. Please follow the instructions presented in the template document and fill it accordingly with your own content.
 
-{% comment %}
-<!-- You should submit your abstract to the following e-mail with the subject ***ICRSR 2025 Abstract Submission***: [**icrsr@ips.pt**](mailto:icrsr@ips.pt?subject=ICRSR 2025 Abstract Submission) -->
-{% endcomment %}
+You should submit your abstract to the following e-mail with the subject ***ICRSR 2025 Abstract Submission***: [**icrsr@ips.pt**](mailto:icrsr@ips.pt?subject=ICRSR 2025 Abstract Submission)
 
 For any question related with submissions you can contact [filipe.severino@esce.ips.pt](mailto:filipe.severino@esce.ips.pt) and [gabriela.gomes@estbarreiro.ips.pt](gabriela.gomes@estbarreiro.ips.pt).
 </section>
