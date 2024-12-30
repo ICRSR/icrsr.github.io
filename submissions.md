@@ -21,17 +21,13 @@ redirect_from:
 <section id="abstracts" markdown="1">
 
 #### [Call for Abstracts]({{ 'news/2024/10/21/call-for-abstracts.html' | relative_url }})
-
-*To be announced*
+The abstracts should be submitted using the following template: [**Abstract Template**]({{ 'assets/documents/ExtendedAbstract.docx' | relative_url }}){:target="_blank"}. Please follow the instructions presented in the template document and fill it accordingly with your own content.
 
 {% comment %}
-<!-- The abstracts should be submitted using the following template: [**Abstract Template**]({{ 'assets/documents/ExtendedAbstract.docx' | relative_url }}){:target="_blank"}
-
-Please follow the instructions presented in the template document and fill it accordingly with your own content. -->
-
-<!-- You should submit your abstract using the following platform: [**Microsoft CMT - ICRSR 2023**](https://cmt3.research.microsoft.com/ICRSR2023/){:target="_blank"} -->
+<!-- You should submit your abstract to the following e-mail with the subject ***ICRSR 2025 Abstract Submission***: [**icrsr@ips.pt**](mailto:icrsr@ips.pt?subject=ICRSR 2025 Abstract Submission) -->
 {% endcomment %}
 
+For any question related with submissions you can contact [filipe.severino@esce.ips.pt](mailto:filipe.severino@esce.ips.pt) and [gabriela.gomes@estbarreiro.ips.pt](gabriela.gomes@estbarreiro.ips.pt).
 </section>
 
 {% comment %}
