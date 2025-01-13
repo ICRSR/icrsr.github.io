@@ -8,6 +8,7 @@ permalink: /committee/
 - Maria Teresa Costa, Instituto Politécnico de Setúbal, Portugal (coordination)
 - Nelson Carriço, Instituto Politécnico de Setúbal, Portugal (coordination)
 - Anabela Correia, Instituto Politécnico de Setúbal, Portugal
+- Ana Rolo,  Instituto Politécnico de Setúbal, Portugal
 - Carlos Mata, Instituto Politécnico de Setúbal, Portugal
 - Filipe Severino, Instituto Politécnico de Setúbal, Portugal
 - Gabriela Gomes, Instituto Politécnico de Setúbal, Portugal
