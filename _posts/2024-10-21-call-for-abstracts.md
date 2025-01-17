@@ -23,4 +23,4 @@ The official language of the Congress is English.
 We look forward to receiving your extended abstract.  
  
 Extended abstracts submitted to **ICRSR 2025** will be reviewed by the scientific committees of the conference
-and published in the Abstracts Book. All accepted and registered papers will be published in **Scopus-indexed Conference Proceedings (IGI-Global)**. Selected papers will be published in a **Scopus** and **Web of Science** indeed journals associated to the conference.
+and published in the Abstracts Book. Selected papers will be published in a **Scopus** and **Web of Science** indexed journals associated to the conference.
