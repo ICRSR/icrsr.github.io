@@ -11,15 +11,13 @@ permalink: /attending/
 <!-- 
 | Type                                                              | Amount          |
 | ------------------------------------------------------------------| --------------- |
-| Early Registration                                                | 250€            |
-| Early Registration IPS and Partners (E³UDRES², Businet, IBWN)     | 150€            |
+| Early Registration                                                | 150€            |
 | Early Registration Students                                       | 50€             |
-| Late Registration                                                 | 300€            |
-| Late Registration IPS and Partners (E³UDRES², Businet, IBWN)      | 200€            |
-| Late Registration Students                                        | 100€            |
+| Late Registration                                                 | 200€            |
+| Late Registration Students                                        | 75€             |
 
-- **Early Registration Deadline**: 6 November
-- **Late Registration Deadline**: 24 November
+- **Early Registration Deadline**: 30 April 2025
+- **Late Registration Deadline**: 15 June 2025
 
 You can now register using this [Registration Form](https://inqueritos.ips.pt/index.php?r=survey/index&sid=913649&lang=en).
 
@@ -29,7 +27,7 @@ Your registration fee should be paid by wire transfer to the following bank acco
 
 You will also need to provide proof of payment when you register.
 
-If you have any problems with your registration, please contact us at the following email address: [icrsr@ips.pt](mailto:icrsr@ips.pt). -->
+If you have any problems with your registration, please contact us through the following email address: [icrsr@ips.pt](mailto:icrsr@ips.pt). -->
 {% endcomment %}
 
 ## Travel and accommodation
