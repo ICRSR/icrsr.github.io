@@ -23,7 +23,9 @@ The official language of the Congress is English.
 We look forward to receiving your extended abstract.  
  
 Extended abstracts submitted to **ICRSR 2025** will be reviewed by the scientific committees of the conference
-and published in the Abstracts Book. Selected papers will be published in a **Scopus** and **Web of Science** indexed journals associated to the conference.
+and published in the **Abstracts Book**. 
+
+You will later be able to submit a full paper for publishing in a **Scopus** and **Web of Science** indexed journals associated to the conference. 
 
 **UPDATE:**
 One of such journals is [**Management Letters/Cuadernos de Gestión**](https://ojs.ehu.eus/index.php/CG/user/setLocale/en_US?source=%2Findex.php%2FCG), a journal managed by the **Institute of Applied Business Economics** at the **University of The Basque Country (UPV/EHU)**.

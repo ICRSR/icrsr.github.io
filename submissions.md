@@ -27,7 +27,7 @@ You should submit your abstract to the following e-mail with the subject ***ICRS
 
 For any question related with submissions you can contact [filipe.severino@esce.ips.pt](mailto:filipe.severino@esce.ips.pt) and [gabriela.gomes@estbarreiro.ips.pt](gabriela.gomes@estbarreiro.ips.pt).
 
-Extended version of selected abstracts may be published in a **Scopus** and **Web of Science** indexed journals associated to the conference. 
+All accepted abstracts will be published in the **Abstracts Book** of the conference. You will later be able to submit a full paper for publishing in a **Scopus** and **Web of Science** indexed journals associated to the conference. 
 
 One of such journals is [**Management Letters/Cuadernos de Gestión**](https://ojs.ehu.eus/index.php/CG/user/setLocale/en_US?source=%2Findex.php%2FCG), a journal managed by the **Institute of Applied Business Economics** at the **University of The Basque Country (UPV/EHU)**.
 
