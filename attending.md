@@ -5,10 +5,7 @@ permalink: /attending/
 ---
 
 ## Registration
-*To be announced*
 
-{% comment %}
-<!-- 
 | Type                                                              | Amount          |
 | ------------------------------------------------------------------| --------------- |
 | Early Registration                                                | 150€            |
@@ -19,6 +16,10 @@ permalink: /attending/
 - **Early Registration Deadline**: 30 April 2025
 - **Late Registration Deadline**: 15 June 2025
 
+*More details coming soon*
+
+{% comment %}
+<!--
 You can now register using this [Registration Form](https://inqueritos.ips.pt/index.php?r=survey/index&sid=251266&lang=en).
 
 Your registration fee should be paid by wire transfer to the following bank account:
@@ -27,7 +28,8 @@ Your registration fee should be paid by wire transfer to the following bank acco
 
 You will also need to provide proof of payment when you register.
 
-If you have any problems with your registration, please contact us through the following email address: [icrsr@ips.pt](mailto:icrsr@ips.pt). -->
+If you have any problems with your registration, please contact us through the following email address: [icrsr@ips.pt](mailto:icrsr@ips.pt).
+-->
 {% endcomment %}
 
 ## Travel and accommodation
