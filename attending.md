@@ -19,7 +19,7 @@ permalink: /attending/
 - **Early Registration Deadline**: 30 April 2025
 - **Late Registration Deadline**: 15 June 2025
 
-You can now register using this [Registration Form](https://inqueritos.ips.pt/index.php?r=survey/index&sid=913649&lang=en).
+You can now register using this [Registration Form](https://inqueritos.ips.pt/index.php?r=survey/index&sid=251266&lang=en).
 
 Your registration fee should be paid by wire transfer to the following bank account:
 - **IBAN**: PT50 0781 0112 0112 0012 8073 7

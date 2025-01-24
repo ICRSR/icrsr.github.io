@@ -26,7 +26,7 @@ Extended abstracts submitted to **ICRSR 2025** will be reviewed by the scientifi
 and published in the Abstracts Book. Selected papers will be published in a **Scopus** and **Web of Science** indexed journals associated to the conference.
 
 **UPDATE:**
-Selected papers will be published in [**Management Letters/Cuadernos de Gestión**](https://ojs.ehu.eus/index.php/CG/user/setLocale/en_US?source=%2Findex.php%2FCG), a journal managed by the **Institute of Applied Business Economics** at the **University of The Basque Country (UPV/EHU)**.
+One of such journals is [**Management Letters/Cuadernos de Gestión**](https://ojs.ehu.eus/index.php/CG/user/setLocale/en_US?source=%2Findex.php%2FCG), a journal managed by the **Institute of Applied Business Economics** at the **University of The Basque Country (UPV/EHU)**.
 
 It is ranked as a Q2 journal in the **Economics, Econometrics, and Finance** category in SCOPUS:
 [![SCImago Journal & Country Rank](https://www.scimagojr.com/journal_img.php?id=19400157150)](https://www.scimagojr.com/journalsearch.php?q=19400157150&amp;tip=sid&amp;exact=no)
