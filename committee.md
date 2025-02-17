@@ -4,7 +4,7 @@ title: Committee
 permalink: /committee/
 ---
 
-# Organising Committee ([icrsr@ips.pt](mailto:icrsr@ips.pt))
+## Organising Committee ([icrsr@ips.pt](mailto:icrsr@ips.pt))
 
 - Maria Teresa Costa, Polytechnic University of Setubal (IPS), Portugal (coordination)
 - Nelson Carriço, Polytechnic University of Setubal (IPS), Portugal (coordination)
@@ -20,7 +20,8 @@ permalink: /committee/
 - Susana Galvão, Polytechnic University of Setubal (IPS), Portugal
 - Telma Guerra, Polytechnic University of Setubal (IPS), Portugal
 
-# Scientific Committee
+## Scientific Committee
+
 - Maria Teresa Costa, Polytechnic University of Setubal (IPS), Portugal (coordination)
 - Nelson Carriço, Polytechnic University of Setubal (IPS), Portugal (coordination)
 - Alin Artene, Polytechnic University of Timisoara (UPT), Romania
