@@ -14,16 +14,24 @@ permalink: /committee/
 - Gabriela Gomes, Instituto Politécnico de Setúbal, Portugal
 - Helena Martins, Instituto Politécnico de Setúbal, Portugal
 - Maria Catarina Paz, Instituto Politécnico de Setúbal, Portugal
-- Pedro Albuquerque Santos, Instituto Politécnico de Lisboa, Portugal
+- Pedro Albuquerque Santos, Instituto Politécnico de Setúbal, Portugal
 - Pedro Pardal, Instituto Politécnico de Setúbal, Portugal
 - Susana Galvão, Instituto Politécnico de Setúbal, Portugal
 - Telma Guerra, Instituto Politécnico de Setúbal, Portugal
 
-# Scientific Committee
+# Scientific Committee~
+
 *To be announced*
 
 {% comment %}
 <!--
+- Alin Artene, Faculty of Management in Production and Transportation, Politehnica University of Timisoara, Romania
+- Anca Draghici, Faculty of Management in Production and Transportation, Politehnica University of Timisoara, Romania
+- Claudiu Albulescu, Faculty of Management in Production and Transportation, Politehnica University of Timisoara, Romania
+- Larisa Ivascu, Faculty of Management in Production and Transportation, Politehnica University of Timisoara, Romania
+
+*More to be announced*
+
 - Ana Gabriela Gomes, Instituto Politécnico de Setúbal, Portugal
 - Anabela Correia, Instituto Politécnico de Setúbal, Portugal
 - Duarte Xara Brasil, Instituto Politécnico de Setúbal, Portugal

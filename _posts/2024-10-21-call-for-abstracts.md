@@ -28,9 +28,29 @@ and published in the **Abstracts Book**.
 You will later be able to submit a full paper for publishing in a **Scopus** and **Web of Science** indexed journals associated to the conference. 
 
 **UPDATE:**
-One of such journals is [**Management Letters/Cuadernos de Gestión**](https://ojs.ehu.eus/index.php/CG/user/setLocale/en_US?source=%2Findex.php%2FCG), a journal managed by the **Institute of Applied Business Economics** at the **University of The Basque Country (UPV/EHU)**.
+
+### **Scopus** and **Web of Science** indexed journals associated to the conference
+
+#### Management Letters/Cuadernos de Gestión
+
+[**Management Letters/Cuadernos de Gestión**](https://ojs.ehu.eus/index.php/CG/user/setLocale/en_US?source=%2Findex.php%2FCG%3Fid%3D20), a journal managed by the **Institute of Applied Business Economics** at the **University of The Basque Country (UPV/EHU)**.
 
 It is ranked as a Q2 journal in the **Economics, Econometrics, and Finance** category in SCOPUS:
 [![SCImago Journal & Country Rank](https://www.scimagojr.com/journal_img.php?id=19400157150)](https://www.scimagojr.com/journalsearch.php?q=19400157150&amp;tip=sid&amp;exact=no)
 
 This journal is also regularly indexed in a variety of reputable databases, including **SCOPUS**, **Emerging Sources Citation Index (ESCI)**, **DOAJ**, **e-revist@s**, **Latindex**, **Redalyc**, **Dialnet**, **Open Science Directory**, and **EBSCO Publishing**, among others.
+
+#### Tourism Review
+**Tourism Review,** is the oldest and most established journal, with more than 70 years of history in publishing papers, that addresses a wide spectrum of tourism issues. Publisher Emerald Group PublishingLtd. [https://www.emeraldgrouppublishing.com/journal/tr?id=TR](https://www.emeraldgrouppublishing.com/journal/tr?id=TR)
+
+It is ranked as a Q1 journal in the **Geography, Planning and Development** category in SCOPUS:
+[![SCImago Journal & Country Rank](https://www.scimagojr.com/journal_img.php?id=21100248909 "SCImago Journal & Country Rank")](https://www.scimagojr.com/journalsearch.php?q=21100248909&tip=sid&exact=no "SCImago Journal & Country Rank")
+
+This journal is ranked by **AIDEA (Italy)**, **Australian Business Dean's Council (ABDC) Journal Ranking List**, **Chartered Association of Business Schools (CABS, UK) Academic Journal Guide**, **ESSEC Rankings of Journals 2016**, **Federation of Management Societies of China**, **The Publication Forum (Finland)** and **Scopus**.
+
+#### Brazilian Journal of Innovation/Revista Brasileira de Inovação Special Issue
+Additionally, a special issue will be organized in association with [**Brazilian Journal of Innovation/Revista Brasileira de Inovação (RBI)**](https://periodicos.sbu.unicamp.br/ojs/index.php/rbi). **RBI** is a multidisciplinary journal focusing on innovation studies. Its purpose is to serve the academic debate on innovation and scientific and technological advances and their economic, social, organizational, and environmental impacts, contributing to the dissemination of new knowledge and the formulation of public policies and the management of private organizations.
+
+[![WOS-Journal.info](https://wos-journal.info/journalide/8304 "WOS-Journal.info")](https://wos-journal.info/journalid/8304)
+
+This journal is indexed in **Clarivate Analytics Web of Science Emerging Sources Citation Index (ESCI)**, **DOAJ - Directory of Open Access Journals**, **Red Iberoamericana de Innovación y Conocimiento Científico (REDIB)**, **Latindex**, **OAJI - Open Academic Journals Index**, **EconBiz**, **SPELL - Scientific Periodicals Electronic Library**, **Ulrich's**, **International Periodicals Directory**, **DIADORIM**, **CAPES**.
