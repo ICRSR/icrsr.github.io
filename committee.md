@@ -21,7 +21,8 @@ permalink: /committee/
 - Telma Guerra, Polytechnic University of Setubal (IPS), Portugal
 
 # Scientific Committee
-
+- Maria Teresa Costa, Polytechnic University of Setubal (IPS), Portugal (coordination)
+- Nelson Carriço, Polytechnic University of Setubal (IPS), Portugal (coordination)
 - Alin Artene, Polytechnic University of Timisoara (UPT), Romania
 - Ana Gabriela Gomes, Polytechnic University of Setubal (IPS), Portugal
 - Anabela Correia, Polytechnic University of Setubal (IPS), Portugal
@@ -46,12 +47,10 @@ permalink: /committee/
 - Maria Catarina Paz, Polytechnic University of Setubal (IPS), Portugal
 - Maria Fátima Serralha, Polytechnic University of Setubal (IPS), Portugal
 - Maria Paula Mendes, CERENA/Instituto Superior Técnico, Portugal
-- Maria Teresa Costa (coordenação), Polytechnic University of Setubal (IPS), Portugal
 - Martinha Piteira, Polytechnic University of Setubal (IPS), Portugal
 - Martina Chalupová, College of Polytechnics Jihlava, Czechia
 - Mettina Veenstra, Saxion University of Applied Sciences, Netherlands
 - Mesbahi Zahra, St. Pölten University of Applied Sciences, Austria
-- Nelson Carriço (coordenação), Polytechnic University of Setubal (IPS), Portugal
 - Nuno Costa, Polytechnic University of Setubal (IPS), Portugal
 - Nuno Teixeira, Polytechnic University of Setubal (IPS), Portugal
 - Paulo Silveira, Polytechnic University of Setubal (IPS), Portugal
