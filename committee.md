@@ -24,6 +24,7 @@ permalink: /committee/
 
 - Maria Teresa Costa, Setúbal Polytechnic University (IPS), Portugal (coordination)
 - Nelson Carriço, Setúbal Polytechnic University (IPS), Portugal (coordination)
+- Alexandra Anderluh, St. Pölten University of Applied Sciences, Austria
 - Alin Artene, Polytechnic University of Timisoara (UPT), Romania
 - Ana Gabriela Gomes, Setúbal Polytechnic University (IPS), Portugal
 - Anabela Correia, Setúbal Polytechnic University (IPS), Portugal
