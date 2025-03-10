@@ -56,12 +56,23 @@ Additionally, a special issue will be organized in association with [**Brazilian
 [![WOS-Journal.info](https://wos-journal.info/journalide/8304 "WOS-Journal.info")](https://wos-journal.info/journalid/8304)
 
 This journal is indexed in **Clarivate Analytics Web of Science Emerging Sources Citation Index (ESCI)**, **DOAJ - Directory of Open Access Journals**, **Red Iberoamericana de Innovación y Conocimiento Científico (REDIB)**, **Latindex**, **OAJI - Open Academic Journals Index**, **EconBiz**, **SPELL - Scientific Periodicals Electronic Library**, **Ulrich's**, **International Periodicals Directory**, **DIADORIM**, **CAPES**.
-</section>
 
 #### European Journal of Interdisciplinary Studiesopen access 
 The [**European Journal of Interdisciplinary Studies (EJIS)**](https://www.ejist.ro/) is the first academic journal dedicated to providing a forum for dialogue for advancing European knowledge within and across multiple social science and humanities disciplines.The EJIS editors envision an area of research without borders, integrating research undertaken in both Western and Eastern Europe. They are specially interested to promote interdisciplinary research in Eastern European countries, to promote the exchange of idea throughout Europe, and to bring together researchers and academics from countries where communist legacies are still present.
 
 [![SCImago Journal & Country Rank](https://www.scimagojr.com/journal_img.php?id=21101039259)](https://www.scimagojr.com/journalsearch.php?q=21101039259&tip=sid&exact=no)
+
+##### Finisterra
+
+[**Finisterra - Portuguese Journal of Geography**](https://ceg.igot.ulisboa.pt/en/finisterra) publishes original research in various areas of human and physical geography including environmental resources and hazards, local and regional planning, territory planning, local and regional development, and geographical information systems, among others. The Publisher is **Universidade de Lisboa**.
+
+Finisterra is indexed on the following scientific platforms: **Clarivate / Web of Science (Emerging Sources Citation Index – ESCI)**; **SciELO Citation Index**; **SCOPUS**; **ERIH PLUS (European Benchmark Index for Humanities and Social Sciences)**; **WebQualis (Capes)**; **SCImago**; **SciELO – Scientific Electronic Library**; **EBSCO (Academic Search Complete)**; **DOAJ (Directory of Open Access Journals)**; **Dialnet**; **Latindex (Regional Online Information System for Scientific Journals from Latin America, the Caribbean, Spain and Portugal)**; **REDIB (Ibero-American Network of Innovation and Scientific Knowledge)**; **Sherpa/ROMEO (newspaper database)**. Databases, including **SCOPUS**, **Emerging Sources Citation Index (ESCI)**, **DOAJ**, **e-revist@s**, **Latindex**, **Redalyc**, **Dialnet**, **Open Science Directory**, and **EBSCO Publishing**, among others.
+
+[![SCImago Journal & Country Rank](https://www.scimagojr.com/journal_img.php?id=28168)](https://www.scimagojr.com/journalsearch.php?q=28168&tip=sid&exact=no)
+
+</section>
+
+
 
 {% comment %}
 <!-- <section id="presentations" markdown="1">
