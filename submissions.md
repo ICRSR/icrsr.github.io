@@ -12,7 +12,7 @@ redirect_from:
 | ------------------------------------- | -------------------------------------------------------- |
 | Call for Abstracts                    | 28 October 2024                                          |
 | Abstract Submission Deadline          | ~~13 January 2025~~ 28 February 2025                     |
-| Abstract Acceptance Notification      | ~~17 February 2025~~ 29 March 2025                       |
+| Abstract Acceptance Notification      | 30 April 2025                       |
 | Full Paper Submission Deadline        | 16 June 2025                                             |
 | Full Paper Revision Notification      | 5 September 2025 *After the Conference*                  |
 

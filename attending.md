@@ -13,8 +13,8 @@ permalink: /attending/
 | Late Registration                                                 | 200€            |
 | Late Registration Students                                        | 75€             |
 
-- **Early Registration Deadline**: 30 April 2025
-- **Late Registration Deadline**: 15 June 2025
+- **Early Registration Deadline**: 31 May 2025
+- **Late Registration Deadline**: 16 June 2025
 
 *More details coming soon*
 
