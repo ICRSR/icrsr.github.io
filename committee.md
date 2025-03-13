@@ -4,7 +4,7 @@ title: Committee
 permalink: /committee/
 ---
 
-## Organising Committee ([icrsr@ips.pt](mailto:icrsr@ips.pt))
+## Organizing Committee ([icrsr@ips.pt](mailto:icrsr@ips.pt))
 
 - Maria Teresa Costa, Polytechnic University of Setúbal (IPS), Portugal (coordination)
 - Nelson Carriço, Polytechnic University of Setúbal (IPS), Portugal (coordination)

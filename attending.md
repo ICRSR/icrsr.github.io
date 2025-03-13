@@ -4,19 +4,36 @@ title: Attending
 permalink: /attending/
 ---
 
-## Registration
+## Registration  
 
-| Type                                                              | Amount          |
-| ------------------------------------------------------------------| --------------- |
-| Early Registration                                                | 150€            |
-| Early Registration Students                                       | 50€             |
-| Late Registration                                                 | 200€            |
-| Late Registration Students                                        | 75€             |
+| **Type**                           | **Fee**  |  
+|------------------------------------|----------|  
+| Early Registration                 | **150€** |  
+| Early Registration (Students)      | **50€**  |  
+| Late Registration                  | **200€** |  
+| Late Registration (Students)       | **75€**  |  
 
-- **Early Registration Deadline**: 31 May 2025
-- **Late Registration Deadline**: 16 June 2025
+- **Early Registration Deadline**: 31 May 2025  
+- **Late Registration Deadline**: 16 June 2025  
 
-*More details coming soon*
+### Conference Dinner  
+If you wish to attend the conference dinner, please add an additional **28€** to your registration fee at the time of payment.  
+
+### Registration Process  
+To register, please complete the following **[Registration Form](https://inqueritos.ips.pt/index.php?r=survey/index&sid=251266&lang=en&utm_source=conference_website&utm_medium=website&utm_campaign=registration)**.  
+
+### Payment Details  
+The registration fee must be paid via wire transfer to the following account:  
+
+- **IBAN**: PT50 0781 0112 0112 0012 8073 7  
+- **SWIFT/BIC**: IGCPPTPL  
+
+After making the payment, you must upload proof of payment during registration.  
+
+- **Student Registration**: If you are registering as a student, please also upload a copy of your student ID or an official document from your institution (e.g., a system printout) confirming your student status.  
+
+### Contact  
+For any registration-related issues, please contact us at [icrsr@ips.pt](mailto:icrsr@ips.pt).  
 
 {% comment %}
 <!--
