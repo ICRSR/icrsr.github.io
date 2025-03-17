@@ -1,55 +1,56 @@
 <footer class="site-footer h-card">
-    <data class="u-url" href="{{ "/" | relative_url }}"></data>
-  
-    <div class="wrapper">
-      <h2 class="footer-heading">{{ site.title | escape }}</h2>
-        
-      <div class="footer-col-wrapper">
-        <div class="footer-col footer-col-1">
-          <ul class="contact-list">
-            <!-- <li class="p-name">
+  <data class="u-url" href="{{ " /" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <!-- <li class="p-name">
               {%- if site.author -%}
                 {{ site.author | escape }}
               {%- else -%}
                 {{ site.title | escape }}
               {%- endif -%}
               </li> -->
-              {%- if site.email -%}
-              <li>
-                <a class="u-email" href="mailto:{{ site.email }}">
-                  <i class="fa-solid fa-envelope"></i> {{ site.email }}
-                </a>
-              </li>
-              {%- endif -%}
-          </ul>
-        </div>
-  
-        <div class="footer-col footer-col-2">
-          {%- include social.html -%}
-        </div>
-  
-        <div class="footer-col footer-col-3">
-          <p>{{- site.description | escape -}}</p>
-        </div>
+          {%- if site.email -%}
+          <li>
+            <a class="u-email" href="mailto:{{ site.email }}">
+              <i class="fa-solid fa-envelope"></i> {{ site.email }}
+            </a>
+          </li>
+          {%- endif -%}
+        </ul>
       </div>
-      
 
-      <div class="footer-logos">
-        <div class="organization-logo-container">
-          <a href="https://www.ips.pt/">
-            <img class="organization-logo" src="{{ "/assets/images/ips-logo-new-english.webp" | relative_url }}" alt="IPS Logo">
-          </a>
-        </div>
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
 
-        <div class="rd-logo-container">
-          <a href="https://investigacao.ips.pt/en/research-center/resilience">
-            <img class="rd-logo" src="{{ "/assets/images/resilience-logo.png" | relative_url }}" alt="RESILIENCE Logo">
-          </a>
-        </div>
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
 
-        <div class="sponsors">
-          {% comment %}
-          <!-- Sponsors:
+
+    <div class="footer-logos">
+      <div class="organization-logo-container">
+        <a href="https://www.ips.pt/">
+          <img class="organization-logo" src="{{ " /assets/images/ips-logo-new-english.webp" | relative_url }}"
+            alt="IPS Logo">
+        </a>
+      </div>
+
+      <div class="rd-logo-container">
+        <a href="https://investigacao.ips.pt/en/research-center/resilience">
+          <img class="rd-logo" src="{{ " /assets/images/resilience-logo.png" | relative_url }}" alt="RESILIENCE Logo">
+        </a>
+      </div>
+
+      <div class="sponsors">
+        {% comment %}
+        <!-- Sponsors:
           <div class="sponsors-logos">
             <div class="sponsor-logo-container">
               <a href="https://www.deltacafes.pt">
@@ -67,14 +68,17 @@
               </a>
             </div>
           </div> -->
-          {% endcomment %}
-        </div>
-
+        {% endcomment %}
       </div>
 
     </div>
 
-  </footer>
+  </div>
 
-<script src="{{ "/assets/js/bootstrap.bundle.min.js" | relative_url }}"></script>
-  
+</footer>
+
+{% comment %}
+  <!-- <script src="{{ "/assets/js/bootstrap.bundle.min.js" | relative_url }}"></script> -->
+{% endcomment %}
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>

@@ -49,60 +49,32 @@ Authors of accepted and registed abstracts are also encouraged to submit a full 
 
 <article id="keynotes" markdown="1">
 
-## Keynote Speakers
-*To be announced*
+## Keynotes
 
-{% comment %}
-<!-- <section id="keynote1" markdown="1">
+<section id="keynote1" markdown="1">
 
-### FH-Prof. Dipl.-Ing. Hannes Raffaseder
-- Chief Executive Officer / President of the St. Pölten University of Applied Sciences GmbH
-- Lead Coordinator European University E³UDRES² ([www.eudres.eu](https://www.eudres.eu)) 
-- President EURASHE ([www.eurashe.eu](https://www.eurashe.eu))
-- <i class="fa-solid fa-building-columns"></i> [www.fhstp.ac.at](https://www.fhstp.ac.at/en)
-- <i class="fa-solid fa-globe"></i> [www.raffaseder.com](http://www.raffaseder.com)
-- <i class="fa-solid fa-envelope"></i> [hannes.raffaseder@fhstp.ac.at](mailto:hannes.raffaseder@fhstp.ac.at)
+### Climate Modelling and AI for a Resilient Earth in the Context of Climate Change
 
-<img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-hannes-raffaseder.jpg" | relative_url }}" alt="Hannes Raffaseder Portrait">
+#### Keynote Speaker: Pedro Matos Soares
+- Assistant Professor at the [Department of Geographical Engineering, Geophysics and Energy, Faculty of Sciences, University of Lisbon](https://ciencias.ulisboa.pt/en/degge).
+- Principal Researcher at [Instituto Dom Luiz (IDL), Faculty of Sciences, University of Lisbon](https://idl.ciencias.ulisboa.pt/).
+- <i class="fa-solid fa-building-columns"></i> [idlcc.fc.ul.pt/people.php?id=32](https://idlcc.fc.ul.pt/people.php?id=32)
+- <i class="fa-solid fa-envelope"></i> [pmsoares@fc.ul.pt](mailto:pmsoares@fc.ul.pt)
 
-Hannes Raffaseder is CEO/President of the St. Pölten University of Applied Sciences and co-initiator and lead coordinator of E³UDRES², the Engaged and Entrepreneurial European University as Driver for European Smart and Sustainable Regions. In June 2023 he was elected President of EURASHE. He was founding director of the Institute for Creative\Media/Technologies and academic director of a master's program in digital media technology.
+<img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-pedro-matos-soares.jpg" | relative_url }}" alt="Hannes Raffaseder Portrait">
 
-As an experienced manager in higher education, Hannes promotes opportunity-driven, challenge-based and mission-oriented approaches and in particular a multi-directional knowledge exchange with society and business as third and fourth mission of universities. Thus, he has successfully co-implemented concepts for engaged and entrepreneurial universities as open platforms for collaborative innovation.
+Pedro Matos Soares is an Assistant Professor in the Department of Geographical Engineering, Geophysics and Energy and Principal Researcher at the Instituto Dom Luiz (IDL), both at the Faculty of Sciences of the University of Lisbon. His PhD in Physics focused on turbulence and clouds in atmospheric models.
 
-As a professor of media technology, Hannes has many years of teaching experience and managed several research and innovation projects.  In the contexts of audio design, media music and sonic interaction, he has published several scientific publications and presented at international conferences. 
+Over the last 3 decades he has focused his research efforts on climate modeling, climate change, and energy and sustainability, leading from 2018 to 2022, the IDL research group on Climate change, atmosphere-land-ocean processes and extremes.
 
-In addition to his academic work, Hannes is an internationally active, award-winning composer and media artist whose music has been performed in renowned concert halls and art festivals.
+He was an active member in 13 international (PI of 1) and 13 national (PI of 5) projects and coordinates the Portuguese CORDEX team endorsed by WRCP. He was the scientific coordinator of the EEA grants project “National Roadmap for Adaptation 2100 – Assessment of the vulnerability of the Portuguese territory to climate change in the 21st century (RNA 2100)”, and led the “Regional Strategy for Adaptation to Climate Change in the Alentejo” and the “Municipal Climate Action Plan of Barcelos”.
 
-</section>
+Recently, he was appointed to the Portuguese Council for Climate Action, and is a member of the Scientific Committee of the PhD Program in Climate Change and Sustainable Development Policies and of the Scientific Commitee of the Portuguese Council for Health and Environment. In the context of climate change and its impacts, it has strong collaboration with institutions such as the Lisbon City Council (Lisbon-Enova), the Health authorities, the Portuguese Environment Agency, E-REDES, CCDRs, and many others.
 
-
-<section id="keynote2" markdown="1">
-
-### Antje Disterheft
-- Researcher and Integrated Memeber at CENSE/NOVA School of Science and Technology
-- <i class="fa-solid fa-building-columns"></i> [www.cense.fct.unl.pt/people/antje-disterheft](https://www.cense.fct.unl.pt/people/antje-disterheft)
-- <i class="fa-solid fa-envelope"></i> [a.disterheft@fct.unl.pt](mailto:a.disterheft@fct.unl.pt)
-
-<img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-antje-disterheft.jpg" | relative_url }}" alt="Hannes Raffaseder Portrait">
-
-Antje Disterheft (PhD) is a researcher and integrated member at Center for Environmental and Sustainability Research (CENSE), from NOVA School of Science and Technology, NOVA University Lisbon. She is enthusiastic about exploring transformative processes that can support keeping human-nature systems in balance.
-
-Her research focuses on capacity building and new approaches to collaboration and co-creation for sustainability in Higher Education Institutions. In the past years, she started to engage deeper with the lens of care when thinking about sustainability and founded [The CareLab for People & Planet](https://the-care-lab.org) at her faculty. The CareLab is a new space of collaboration, co-creation and transformative learning where the interlinkages of inner and outer sustainability are explored.
-
-She holds a PhD in Social Sustainability (Universidade Aberta) and is an alumni of the [Postdoc Academy for Transformational Leadership](https://www.bosch-stiftung.de/en/project/postdoc-academy-transformational-leadership). German by nationality, but living in Portugal for more than 17 years, she enjoys being in nature, biking and cooking.
+He has published more than 130 scientific articles in refereed international journals and carried out hundreds of international communications and outreach presentations; and, is a science communicator with a constant presence in the media. In 2020 he received the University of Lisbon/Caixa Geral Depósitos award for scientific production in the last 5 years in Earth Sciences, and in 2022 the Prize from the Faculty of Sciences of the University of Lisbon in Earth Sciences.
 
 </section>
-
-<section id="keynote3" markdown="1">
-### Pedro Dominguinhos
-- President of the National Recovery and Resilience Plan (RRP) Monitoring Commission
-- Associate Professor at School of Business Administration (ESCE) of the Polytechnic Institute of Setúbal (IPS)
-
-<img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-pedro-dominguinhos.webp" | relative_url }}" alt="Pedro Dominguinhos Portrait">
-
-</section> -->
-{% endcomment %}
-
+*More to be announced*
 </article>
 
 {% comment %}
