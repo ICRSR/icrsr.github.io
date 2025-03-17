@@ -94,12 +94,12 @@ These stations may also be accessible be other means, such as buses from [Carris
 
 
 #### Option 1
-**Carris Metropolitana Bus** [**4402**](https://www.carrismetropolitana.pt/horarios/?route_short_name=4402), [**4411**](https://www.carrismetropolitana.pt/horarios/?route_short_name=4411) or [**4437**](https://www.carrismetropolitana.pt/horarios/?route_short_name=4437) at stop number 3, leaving from the Setúbal main bus station (**ITS - Praça do Brasil**). The bus stops near campus is called **Alto Estefanilha (IPS)*.
+**Carris Metropolitana Bus** [**4402**](https://www.carrismetropolitana.pt/horarios/?route_short_name=4402), [**4411**](https://www.carrismetropolitana.pt/horarios/?route_short_name=4411) or [**4437**](https://www.carrismetropolitana.pt/horarios/?route_short_name=4437) at stop number 3, leaving from the Setúbal main bus station (**ITS - Praça do Brasil**). The bus stops near campus is called **Alto Estefanilha (IPS)**.
 
 You may buy the ticket to the bus driver or buy a group of prepaid cards in the bus main station.
 
 #### Option 2
-- Take the CP train at the Setúbal central station (**ITS - Praça do Brasil**), or at the **Praça do Quebedo** station towards **Praias do Sado A*. 
+- Take the CP train at the Setúbal central station (**ITS - Praça do Brasil**), or at the **Praça do Quebedo** station towards **Praias do Sado A**. 
 - Leave once you reach the final station (**Praias do Sado A**).
 - You can access the campus through a footway nearby.
 
