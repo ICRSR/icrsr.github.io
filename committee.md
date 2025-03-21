@@ -42,6 +42,7 @@ permalink: /committee/
 - Helena Martins, Polytechnic University of Setúbal (IPS), Portugal
 - Hugo Rebelo, Faculty of Sciences of the University of Lisbon (FCUL), Portugal
 - Jarmila Straková, Institute of Technology and Business in České Budějovice (VŠTE)
+- Ihor Hurnyak, Ivan Franko National University of Lviv, Ukraine
 - João Cordeiro, Polytechnic University of Setúbal (IPS), Portugal
 - Larisa Ivascu, Polytechnic University of Timisoara (UPT), Romania
 - Leonilde Reis, Polytechnic University of Setúbal (IPS), Portugal
