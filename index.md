@@ -95,6 +95,23 @@ She holds a PhD in Social Sustainability (Universidade Aberta) and is an alumni 
 *More to be announced*
 </article>
 
+<article id="specialsessions" markdown="1">
+
+## Special Sessions
+
+<section id="roundtable1" markdown="1">
+
+### Collaborative Innovation and Digital Co-creation for Sustainable Tourism Futures
+The transformation of the tourism industry in the face of climate change, digitalization, and shifting societal values requires new paradigms of governance, strategic thinking, and stakeholder coordination. At the core of these challenges lies the imperative for more effective and forward‐looking tourism management. This special session, anchored in the **SHIFT** research project (Sustainability-oriented, Highly interactive, and Innovation-based Framework for Tourism Marketing), highlights how management practices can integrate collaboration, technology, and co‐creation to foster sustainable and resilient tourism ecosystems.
+
+Tourism management must evolve from traditional models towards approaches that embrace systemic complexity, participatory governance, and cross-sector innovation. The papers included in this session address precisely this need by examining the design and implementation of collaborative marketing strategies, stakeholder engagement through co‐creation platforms, and scenario planning as a strategic management tool. In doing so, they provide critical insights into how destination management organizations, policy makers, and tourism enterprises can anticipate global trends and co‐develop inclusive and adaptive responses.
+
+In a context marked by environmental, technological, and social transitions, this session—composed of five presentations (the first introducing the project and the remaining four presenting its core results)—is highly relevant for scholars and practitioners seeking to reimagine tourism management as a discipline that not only responds to change but actively shapes sustainable futures through innovation, interactivity, and stakeholder synergy.
+
+You can find more details about the special session by following [this link]({{ 'assets/documents/ICRSR2025_SpecialSession1.pdf' | relative_url }}).
+</section>
+</article>
+
 {% comment %}
 <!-- <article id="roundtables" markdown="1">
 
