@@ -55,7 +55,7 @@ Authors of accepted and registed abstracts are also encouraged to submit a full 
 
 ### Climate Modelling and AI for a Resilient Earth in the Context of Climate Change
 
-#### Keynote Speaker: Pedro Matos Soares
+#### Speaker: Pedro Matos Soares
 - Assistant Professor at the [Department of Geographical Engineering, Geophysics and Energy, Faculty of Sciences, University of Lisbon](https://ciencias.ulisboa.pt/en/degge).
 - Principal Researcher at [Instituto Dom Luiz (IDL), Faculty of Sciences, University of Lisbon](https://idl.ciencias.ulisboa.pt/).
 - <i class="fa-solid fa-building-columns"></i> [idlcc.fc.ul.pt/people.php?id=32](https://idlcc.fc.ul.pt/people.php?id=32)
@@ -74,6 +74,24 @@ Recently, he was appointed to the Portuguese Council for Climate Action, and is 
 He has published more than 130 scientific articles in refereed international journals and carried out hundreds of international communications and outreach presentations; and, is a science communicator with a constant presence in the media. In 2020 he received the University of Lisbon/Caixa Geral Depósitos award for scientific production in the last 5 years in Earth Sciences, and in 2022 the Prize from the Faculty of Sciences of the University of Lisbon in Earth Sciences.
 
 </section>
+
+<section id="keynote2" markdown="1">
+
+### Antje Disterheft
+- Researcher and Integrated Memeber at CENSE/NOVA School of Science and Technology
+- <i class="fa-solid fa-building-columns"></i> [www.cense.fct.unl.pt/people/antje-disterheft](https://www.cense.fct.unl.pt/people/antje-disterheft)
+- <i class="fa-solid fa-envelope"></i> [a.disterheft@fct.unl.pt](mailto:a.disterheft@fct.unl.pt)
+
+<img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-antje-disterheft.jpg" | relative_url }}" alt="Hannes Raffaseder Portrait">
+
+Antje Disterheft (PhD) is a researcher and integrated member at Center for Environmental and Sustainability Research (CENSE), from NOVA School of Science and Technology, NOVA University Lisbon. She is enthusiastic about exploring transformative processes that can support keeping human-nature systems in balance.
+
+Her research focuses on capacity building and new approaches to collaboration and co-creation for sustainability in Higher Education Institutions. In the past years, she started to engage deeper with the lens of care when thinking about sustainability and founded [The CareLab for People & Planet](https://the-care-lab.org) at her faculty. The CareLab is a new space of collaboration, co-creation and transformative learning where the interlinkages of inner and outer sustainability are explored.
+
+She holds a PhD in Social Sustainability (Universidade Aberta) and is an alumni of the [Postdoc Academy for Transformational Leadership](https://www.bosch-stiftung.de/en/project/postdoc-academy-transformational-leadership). German by nationality, but living in Portugal for more than 17 years, she enjoys being in nature, biking and cooking.
+
+</section>
+
 *More to be announced*
 </article>
 
