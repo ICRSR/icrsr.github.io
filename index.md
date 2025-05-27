@@ -54,8 +54,8 @@ Authors of accepted and registed abstracts are also encouraged to submit a full 
 <section id="keynote-1" markdown="1">
 
 ### Climate Modelling and AI for a Resilient Earth in the Context of Climate Change
-
 #### Speaker: Pedro Matos Soares
+##### 2/7/2025 @ 10:30
 - Assistant Professor at the [Department of Geographical Engineering, Geophysics and Energy, Faculty of Sciences, University of Lisbon](https://ciencias.ulisboa.pt/en/degge).
 - Principal Researcher at [Instituto Dom Luiz (IDL), Faculty of Sciences, University of Lisbon](https://idl.ciencias.ulisboa.pt/).
 - <i class="fa-solid fa-building-columns"></i> [idlcc.fc.ul.pt/people.php?id=32](https://idlcc.fc.ul.pt/people.php?id=32)
@@ -78,6 +78,7 @@ He has published more than 130 scientific articles in refereed international jou
 <section id="keynote-2" markdown="1">
 
 ### Antje Disterheft
+##### 2/7/2025 @ 11:30
 - Researcher and Integrated Memeber at CENSE/NOVA School of Science and Technology
 - <i class="fa-solid fa-building-columns"></i> [www.cense.fct.unl.pt/people/antje-disterheft](https://www.cense.fct.unl.pt/people/antje-disterheft)
 - <i class="fa-solid fa-envelope"></i> [a.disterheft@fct.unl.pt](mailto:a.disterheft@fct.unl.pt)
@@ -102,7 +103,7 @@ She holds a PhD in Social Sustainability (Universidade Aberta) and is an alumni 
 <section id="specialsession-1" markdown="1">
 
 ### Collaborative Innovation and Digital Co-creation for Sustainable Tourism Futures
-#### 2/7/2025 @ 13:30
+##### 2/7/2025 @ 13:30
 The transformation of the tourism industry in the face of climate change, digitalization, and shifting societal values requires new paradigms of governance, strategic thinking, and stakeholder coordination. At the core of these challenges lies the imperative for more effective and forward‐looking tourism management. This special session, anchored in the **SHIFT** research project (Sustainability-oriented, Highly interactive, and Innovation-based Framework for Tourism Marketing), highlights how management practices can integrate collaboration, technology, and co‐creation to foster sustainable and resilient tourism ecosystems.
 
 Tourism management must evolve from traditional models towards approaches that embrace systemic complexity, participatory governance, and cross-sector innovation. The papers included in this session address precisely this need by examining the design and implementation of collaborative marketing strategies, stakeholder engagement through co‐creation platforms, and scenario planning as a strategic management tool. In doing so, they provide critical insights into how destination management organizations, policy makers, and tourism enterprises can anticipate global trends and co‐develop inclusive and adaptive responses.
@@ -116,7 +117,7 @@ You can find more details about the special session by following [this link]({{ 
 <section id="specialsession-2" markdown="1">
 
 ### Value Creation in the Socio-Bioeconomy in the Amazon Region: Integrating Tradition, Innovation and Environmental Services
-#### 2/7/2025 @ 14:30
+##### 2/7/2025 @ 14:30
 This session aims to provide experiences and knowledge exchange on value creation for businesses of traditional peoples and communities (TPCs), usually cooperatives, through the sustainable exploration of the socio-bioeconomy in the Amazon region. TPCs are keepers of traditional knowledge and practices and should be valued not only as guardians of the forest but also as disseminators of knowledge that can help mitigate climate change and environmental destruction. In this context, we propose to discuss factors that not only add value to their community businesses but also ensure that this value remains within the territory. To achieve this, we will address three key issues:
 - Alliances for innovation
 - Payment for environmental services  

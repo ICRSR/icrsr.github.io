@@ -19,7 +19,7 @@ permalink: /program/
 - **11:00** Coffee break  
 
 - **11:30** **[KEYNOTE 2]({{ '/#keynote-2' | relative_url }})** – Speaker: Antje Disterheft  
-  *“To be announced soon”*  
+  *To be announced soon*  
   Moderator: Catarina Paz  
 
 - **12:30** Lunch  
