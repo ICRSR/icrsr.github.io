@@ -30,7 +30,7 @@ permalink: /program/
 - **14:30** **[Special Session 2]({{ '/#specialsession-2' | relative_url }})** – Value Creation in the Socio-Bioeconomy in the Amazon Region: Integrating Tradition, Innovation and Environmental Services  
   **Participants:** Simone Galina; Sérgio Gomes; Dércio Bernardes de Souza; Danylla Silva  
 
-- **16:00** Social Program – Meeting Point “Casa da Baia”, Setúbal  
+- **16:00** Social Program – Meeting Point ["Casa da Baia"](https://maps.app.goo.gl/7PEhYbEUPw2C3LLD9), Setúbal  
 
 ---
 
