@@ -9,27 +9,31 @@ permalink: /program/
 ### Wednesday, 2/7/2025
 
 - **09:00** Conference Registration  
-
 - **10:00** Open session  
-
 - **10:30** **[KEYNOTE 1]({{ '/#keynote-1' | relative_url }})** – Speaker: Pedro Matos Soares  
   *Climate Modelling and AI for a Resilient Earth in the Context of Climate Change*  
   Moderator: Teresa Costa  
-
 - **11:00** Coffee break  
-
 - **11:30** **[KEYNOTE 2]({{ '/#keynote-2' | relative_url }})** – Speaker: Antje Disterheft  
   *To be announced soon*  
   Moderator: Catarina Paz  
-
 - **12:30** Lunch  
-
 - **13:30** **[Special Session 1]({{ '/#specialsession-1' | relative_url }})** – Collaborative Innovation and Digital Co-creation for Sustainable Tourism Futures  
-  **Participants:** Teresa Costa; Ana Teresa Machado; Sandra Nunes; Filipe Severino; Zélia Santos; Rui Madeira; Samuel Robalo; André Cordeiro  
-
+  **Participants:**  
+  - Prof. Teresa Costa (ESCE/IPS)
+  - Prof. Ana Teresa Machado (ESCS/IPLisboa)
+  - Prof. Sandra Nunes (ESCE/IPS)
+  - Prof. Filipe Severino (ESHTE)
+  - Zélia Santos (ESCS/IPLisboa)
+  - Rui Madeira (ESTSetúbal/IPS)
+  - Samuel Robalo (ESTSetúbal/IPS)  
+  - André Cordeiro (ESTSetúbal/IPS)  
 - **14:30** **[Special Session 2]({{ '/#specialsession-2' | relative_url }})** – Value Creation in the Socio-Bioeconomy in the Amazon Region: Integrating Tradition, Innovation and Environmental Services  
-  **Participants:** Simone Galina; Sérgio Gomes; Dércio Bernardes de Souza; Danylla Silva  
-
+  **Participants:**  
+  - Prof. Dr. Simone Galina (FEARP/USP) 
+  - Prof. Dr. Sérgio Gomes (PPAD/UNAMA) 
+  - Prof. Dr. Dércio Bernardes de Souza (PPGA/UNIR)  
+  - Dr. Danylla Silva (Member of the Cooperative COFRUTA)
 - **16:00** Social Program – Meeting Point ["Casa da Baia"](https://maps.app.goo.gl/7PEhYbEUPw2C3LLD9), Setúbal  
 
 ---
@@ -40,30 +44,23 @@ permalink: /program/
   - [Session 1 – Collaborative Strategies for Regional Sustainability](#session-1)  
   - [Session 2 – Artificial Intelligence and Sustainable Innovation](#session-2)  
   - [Session 3 – Organizational Well-being and Leadership](#session-3)
-
 - **11:00 – [Parallel Sessions – Slot 2](#parallel-sessions-2)**  
   - [Session 4 – Infrastructure and Logistics for Resilient Territories](#session-4)  
   - [Session 5 – Educational Innovation and Digital Tools for Sustainability](#session-5)  
   - [Session 6 – Branding and Organizational Innovation](#session-6)
-
 - **12:30** Lunch  
-
 - **14:00 – [Parallel Sessions – Slot 3](#parallel-sessions-3)**  
   - [Session 7 – Innovation in Agri-Food Sustainability](#session-7)  
   - [Session 8 – Youth, Emotions and Innovation](#session-8)  
   - [Session 9 – Inclusion, Gender and Social Equity](#session-9)
-
 - **15:00 – [Parallel Sessions – Slot 4](#parallel-sessions-4)**  
   - [Session 10 – Biotechnologies for Environmental Remediation](#session-10)  
   - [Session 11 – Teaching and Participatory Innovation](#session-11)  
   - [Session 12 – Smart Technologies for Environmental Resilience](#session-12)
-
 - **16:00** Coffee break  
-
 - **16:30 – [Parallel Sessions – Slot 5](#parallel-sessions-5)**  
   - [Session 13 – Circularity, Waste and Water Strategies](#session-13)  
   - [Session 14 – Health, Environment and Lifestyle](#session-14)
-
 - **17:30** End of Parallel Sessions  
 
 ---
@@ -79,9 +76,11 @@ permalink: /program/
 ## Detailed Sessions
 
 <div class="paralell-sessions" id="parallel-sessions-1" markdown="1">
+
 ### Parallel Sessions – Slot 1
 
 <div class="session" id="session-1" markdown="1">
+
 #### **Session 1 – Collaborative Strategies for Regional Sustainability**  
 **Moderators:** Jan Jonker; Moniek Kamm (Saxion UAS)  
 - **ICRSR25_01 – Collaboration for Resilient Tomorrow**  
@@ -99,8 +98,9 @@ permalink: /program/
 </div>
 
 <div class="session" id="session-2" markdown="1">
+
 #### **Session 2 – Artificial Intelligence and Sustainable Innovation**  
-**Moderators:** Luísa Carvalho; Ana Mendes (Instituto Politécnico de Setúbal)  
+**Moderators:** Luísa Carvalho (Instituto Politécnico de Setúbal); Ana Mendes (Instituto Politécnico de Setúbal)  
 - **ICRSR25_18 – ML Regression Models for Forecasting Services**  
   - Joana Oliveira (Instituto Politécnico de Setúbal)  
   - Victor Barbosa (Instituto Politécnico de Setúbal)  
@@ -109,21 +109,22 @@ permalink: /program/
   - Nuno Carvalho (Instituto Politécnico de Setúbal)  
   - Luísa Carvalho (Instituto Politécnico de Setúbal)  
 - **ICRSR25_46 – AI in Software Engineering – A Study Case on Data Structures, Algorithms and Unit Testing**  
-  - Marta Palade (Politehnica University of Timisoara)  
-  - Anca Drăghici (Politehnica University of Timisoara)  
+  - Marta Palade (Politehnica University of Timișoara)  
+  - Anca Drăghici (Politehnica University of Timișoara)  
 </div>
 
 <div class="session" id="session-3" markdown="1">
+
 #### **Session 3 – Organizational Well-being and Leadership**  
-**Moderators:** Bogusława Sardinha; Liliana Pitacho (Instituto Politécnico de Setúbal)  
+**Moderators:** Bogusława Sardinha (Instituto Politécnico de Setúbal); Liliana Pitacho (Instituto Politécnico de Setúbal)  
 - **ICRSR25_31 – Organizational Well-Being Scale (OWBS)**  
   - Liliana Pitacho (Instituto Politécnico de Setúbal)  
   - Daniela Lima (Instituto Politécnico de Setúbal)  
-- **ICRSR25_43 – A Comparative Analysis of Life Satisfaction, Job Satisfaction, and Organisational Justice**  
+- **ICRSR25_43 – A Comparative Analysis of Life Satisfaction, Job Satisfaction, and Organisational Justice: Non-Family Employees in Family Businesses vs Employees in Non-Family Businesses**  
   - Helena Martins (Instituto Politécnico de Setúbal)  
   - Marina Sousa (Instituto Politécnico do Porto)  
   - Gwendolyn Gruntusch (Nova School of Business and Economics)  
-- **ICRSR25_29 – Leadership and Succession Challenges and Strategies in a Family Business**  
+- **ICRSR25_29 – Leadership and Succession Challenges and Strategies in a Family Business: A Case Study**  
   - Micaela Gama (Instituto Politécnico de Setúbal)  
   - Sandrina B. Moreira (Instituto Politécnico de Setúbal)  
   - Bogusława B. Sardinha (Instituto Politécnico de Setúbal)  
@@ -131,16 +132,18 @@ permalink: /program/
 </div>
 
 <div class="paralell-sessions" id="parallel-sessions-2" markdown="1">
+
 ### Parallel Sessions – Slot 2
 
 <div class="session" id="session-4" markdown="1">
+
 #### **Session 4 – Infrastructure and Logistics for Resilient Territories**  
-**Moderators:** Magdalena Kozłowska; Anna Strychalska-Rudzewicz (University of Warmia and Mazury)  
+**Moderators:** Magdalena Kozłowska (University of Warmia and Mazury); Anna Strychalska-Rudzewicz (University of Warmia and Mazury)  
 - **ICRSR25_03 – School Bus Routing Optimization**  
   - Maria Luísa Tavares (Instituto Politécnico de Setúbal)  
   - Graça Costa (Instituto Politécnico de Setúbal)  
   - Victor Barbosa (Instituto Politécnico de Setúbal)  
-- **ICRSR25_17 – Parcel Lockers in Last-Mile Logistics**  
+- **ICRSR25_17 – Parcel Lockers in Last-Mile Logistics: A Study on Service Quality and Consumer Preferences in Poland**  
   - Magdalena Kozłowska (University of Warmia and Mazury)  
   - Marcela Castro (Instituto Politécnico de Setúbal)  
   - Anna Strychalska-Rudzewicz (University of Warmia and Mazury)  
@@ -151,34 +154,36 @@ permalink: /program/
 </div>
 
 <div class="session" id="session-5" markdown="1">
+
 #### **Session 5 – Educational Innovation and Digital Tools for Sustainability**  
 **Moderators:** Anca Drăghici (Politechnica University of Timișoara); Joey Willemse (Saxion UAS)  
 - **ICRSR25_50 – WEconomy Transition Canvas (Intl. App)**  
   - Joey Willemse (Saxion UAS)  
   - Jan Jonker (Saxion UAS)  
   - Moniek Kamm (Saxion UAS)  
-- **ICRSR25_37 – Exploring Environmental Sustainability in Education**  
+- **ICRSR25_37 – Exploring the Imperative of Environmental Sustainability in Education and Research – Crafting and Engaging Visual Design for a Waste Management Mobile APP**  
   - Andra Diaconescu (Politechnica University of Timișoara)  
   - Anca Drăghici (Politechnica University of Timișoara)  
   - Matei Tamalia (Politechnica University of Timișoara)  
-- **ICRSR25_08 – Comparative Study on Entrepreneurial Intentions Among Students**  
+- **ICRSR25_08 – A Comparative Study on Entrepreneurial Intentions Among Students of The Polytechnic Institute of Setúbal**  
   - Pedro Mares (Instituto Politécnico de Setúbal)  
   - Teresa Costa (Instituto Politécnico de Setúbal)  
   - Maria João Lima (Instituto Politécnico de Setúbal)  
 </div>
 
 <div class="session" id="session-6" markdown="1">
+
 #### **Session 6 – Branding and Organizational Innovation**  
 **Moderators:** Helena Martins; Sandrina Moreira (Instituto Politécnico de Setúbal)  
-- **ICRSR25_45 – Employer Branding and Employee Value Proposition**  
+- **ICRSR25_45 – Employer Branding and Employee Value Proposition: Impact on Attracting Workers to the Public Sector**  
   - Helena Martins (Instituto Politécnico de Setúbal)  
   - Teresa Proença (Universidade do Porto)  
   - Carolina Fonseca de Jesus Queirós Salcedas (Universidade do Porto)  
-- **ICRSR25_26 – Digitalization in a Portuguese IPSS: Case Study**  
+- **ICRSR25_26 – Impacts and Challenges of Digitalization in a Portuguese IPSS: Case Study**  
   - Karollyne Cruvinel de Freitas (Instituto Politécnico de Setúbal)  
   - Sandrina B. Moreira (Instituto Politécnico de Setúbal)  
   - Ana Rolo (Instituto Politécnico de Setúbal)  
-- **ICRSR25_30 – Tourist’s Sustainability Values in Co-Creation Processes**  
+- **ICRSR25_30 – Tourist’s Sustainability Values and Their Role in Co-Creation Processes**  
   - Filipe Segurado Severino (Escola Superior de Hotelaria e Turismo do Estoril)  
   - Teresa Costa (Instituto Politécnico de Setúbal)  
   - Zélia Raposo Santos (Instituto Politécnico de Lisboa)  
@@ -188,9 +193,11 @@ permalink: /program/
 </div>
 
 <div class="paralell-sessions" id="parallel-sessions-3" markdown="1">
+
 ### Parallel Sessions – Slot 3
 
 <div class="session" id="session-7" markdown="1">
+
 #### **Session 7 – Innovation in Agri-Food Sustainability**  
 **Moderators:** Ana Gabriela Gomes (Instituto Politécnico de Setúbal); Angelo Porcaro (University of Foggia)  
 - **ICRSR25_12 – Unlocking the Potential of Agro-Industrial Residues for Lignocellulosic Biomass Valorization**  
@@ -203,13 +210,11 @@ permalink: /program/
   - Marta Justino (Instituto Politécnico de Setúbal)  
   - Sónia Santos (Instituto Politécnico de Setúbal)  
 - **ICRSR25_13 – Sustainable Approach to Reuse of Winery Effluents in Microalgae Cultivation**  
-  - A. Gabriela Gomes (Instituto Politécnico de Setúbal)  
+  - Ana Gabriela Gomes (Instituto Politécnico de Setúbal)  
   - Ana Cláudia Sousa (Instituto Politécnico de Setúbal)  
   - Catarina Dias (Instituto Politécnico de Setúbal)  
-- **Nutrients with Microalgae Towards a Greener and More Resilient Circular Economy: Accelerating Territorial Regeneration**  
-  - Alberto Reis (LNEG-UBB)  
-  - Alice Ferreira (LNEG-UBB)  
-  - Patrícia Moura (LNEG-UBB)  
+  - Marta C. Justino (Instituto Politécnico de Setúbal)
+  - Carla Amarelo Santos (Instituto Politécnico de Setúbal)
 - **ICRSR25_34 – REDWine Project: Increasing Microalgae Biomass Feedstock by Valorizing Wine Gaseous and Liquid Residues**  
   - Miguel Cachão (AVIPE)  
   - Ana Chambel (AVIPE)  
@@ -223,11 +228,12 @@ permalink: /program/
 </div>
 
 <div class="session" id="session-8" markdown="1">
+
 #### **Session 8 – Youth, Emotions and Innovation**  
-**Moderators:** Monica Wolff (Politechnica University of Timisoara); Helena Roque (Instituto Politécnico de Setúbal)  
+**Moderators:** Monica Wolff (Politechnica University of Timișoara); Helena Roque (Instituto Politécnico de Setúbal)  
 - **ICRSR25_19 – Mindful Innovations in Public Marketing Through the Integration of Cultural Events in the Higher Education Environment**  
-  - Monica Wolff (Politechnica University of Timisoara)  
-  - Andra Diaconescu (Politechnica University of Timisoara)  
+  - Monica Wolff (Politechnica University of Timișoara)  
+  - Andra Diaconescu (Politechnica University of Timișoara)  
 - **ICRSR25_25 – Enhancing Resilience in Youth with Emotional Intelligence and Green Awareness**  
   - Cláudia Sousa Coelho (Instituto Politécnico de Setúbal)  
   - Ana M. Pires (Atlântica, Instituto Universitário)  
@@ -238,12 +244,13 @@ permalink: /program/
 </div>
 
 <div class="session" id="session-9" markdown="1">
+
 #### **Session 9 – Inclusion, Gender and Social Equity**  
 **Moderators:** Dolores Gallardo (Universidad de Extremadura); Ana Rolo (Instituto Politécnico de Setúbal)  
 - **ICRSR25_23 – Challenges and Opportunities for Management in a Globalized World**  
   - Ana Rolo (Instituto Politécnico de Setúbal)  
   - Rui Alves (Instituto Politécnico de Setúbal)  
-- **ICRSR25_42 – Inclusive Accessibility for Reduced Mobility in Hotels**  
+- **ICRSR25_42 – Inclusive Accessibility for People with Reduced Mobility in Hotels: Sesimbra Case Study**  
   - Susana Brites de Barros (Instituto Politécnico de Setúbal)  
   - Teresa Costa (Instituto Politécnico de Setúbal)  
   - Jorge Umbelino (Estoril Higher Institute for Tourism and Hotel Studies)  
@@ -259,19 +266,22 @@ permalink: /program/
 - **ICRSR25_49 – Agenda 2030 and Sustainable Cities**  
   - Dolores Gallardo (Universidad de Extremadura)  
 </div>
+
 </div>
 
 <div class="paralell-sessions" id="parallel-sessions-4" markdown="1">
+
 ### Parallel Sessions – Slot 4
 
 <div class="session" id="session-10" markdown="1">
+
 #### **Session 10 – Biotechnologies for Environmental Remediation**  
 **Moderators:** Dainery Ramos Capote (Universidad de Sonora); Susana Piçarra (Instituto Politécnico de Setúbal)  
-- **ICRSR25_06 – Bioremediation Process for Hexavalent Chromium Reduction**  
+- **ICRSR25_06 – Development of a Bioremediation Process for Hexavalent Chromium Reduction Using Endemic Bacteria**  
   - Dainery Ramos Capote (Universidad de Sonora)  
   - Guadalupe Lopez Aviles  
   - Francisco Javier Almendariz Tapia  
-  - Leticia Garcia Rico (Centro de Investigación para la Alimentação e Desenvolvimento)  
+  - Leticia Garcia Rico (Centro de Investigación para la Alimentación y el Desarrollo, Coordinación de Ciencia de los Alimentos)
   - Jonathan de la Vega Olivas (Universidad de Sonora)  
 - **ICRSR25_24 – Microalgae Cell Culture Concentration Measurement**  
   - Nuno R. Costa (Instituto Politécnico de Setúbal)  
@@ -280,7 +290,7 @@ permalink: /program/
   - Lara Araújo (Instituto Politécnico de Lisboa)  
   - José Coelho (Instituto Politécnico de Lisboa, Instituto Superior de Engenharia de Lisboa)  
   - Susana Piçarra (Instituto Politécnico de Setúbal)  
-  - Hugo F. Silva (Instituto Politécnico de Lisboa, Instituto Superior de Engenharia de Lisboa)  
+  - Hugo F. Silva (Instituto Politécnico de Lisboa & Instituto Superior de Engenharia de Lisboa)  
   - Nelson Silva (Instituto Politécnico de Lisboa, Instituto Superior de Engenharia de Lisboa)  
   - Cristina Oliveira (Universidade de Lisboa)  
   - Manuel Matos (Instituto Politécnico de Lisboa, Instituto Superior de Engenharia de Lisboa)  
@@ -288,11 +298,12 @@ permalink: /program/
 </div>
 
 <div class="session" id="session-11" markdown="1">
+
 #### **Session 11 – Teaching and Participatory Innovation**  
-**Moderators:** Sarah De Coninck (Politechnica University of Timisoara); Maria Catarina Paz (Instituto Politécnico de Setúbal)  
+**Moderators:** Sarah De Coninck (Politechnica University of Timișoara); Maria Catarina Paz (Instituto Politécnico de Setúbal)  
 - **ICRSR25_05 – Nothing About Us: Results of a Literature Review and Delphi Study on Engagement Models for Research Citizen Science & Stakeholder Engagement**  
-  - Sarah De Coninck (Politechnica University of Timisoara)  
-  - Ann Reulens (Politechnica University of Timisoara)  
+  - Sarah De Coninck (Politechnica University of Timișoara)  
+  - Ann Reulens (Politechnica University of Timișoara)  
 - **ICRSR25_22 – Busiskills: Wellbeing@work: Examples learned from a COIL and a BIP from Businet**  
   - Laurence Leonard (Henallux – Haute École de Namur-Liège-Luxembourg)  
   - Griet t’Servranckx (UCLL – University of Applied Sciences Leuven-Limburg)  
@@ -303,12 +314,32 @@ permalink: /program/
   - Maria Catarina Paz (Instituto Politécnico de Setúbal)  
   - Raquel Barreira (Instituto Politécnico de Setúbal)  
 </div>
+
+<div class="session" id="session-12" markdown="1">
+
+#### **Session 12 – Smart Technologies for Environmental Resilience**  
+**Moderators:** Nelson Carriço; Grilli Luca (University of Foggia)  
+- **ICRSR25_04 – Tourism Capacity in Marine Reserves: The Case of the Tremiti Islands, Italy**  
+  - Francesca Ranieri (University of Foggia)  
+  - Grilli Luca (University of Foggia)  
+  - Caterina De Lucia (University of Foggia)  
+  - Pasquale Pazienza (University of Foggia)  
+- **ICRSR25_20 – Smart Twin House: XR-Based Digital Twin**  
+  - Henoch Vitureira (Instituto Politécnico de Setúbal)  
+  - Fausto Mourato (Instituto Politécnico de Setúbal)  
+  - Cláudio Sapateiro (Instituto Politécnico de Setúbal)  
+- **ICRSR25_36 – Source of Stones on Walla of Santiago Fortress in Sesimbra: Part 2**  
+  - Marco Ludovico-Marques (Universidade de Lisboa)  
+  - Maria Catarina Paz (Instituto Politécnico de Setúbal)  
+</div>
 </div>
 
 <div class="paralell-sessions" id="parallel-sessions-5" markdown="1">
+
 ### Parallel Sessions – Slot 5
 
 <div class="session" id="session-13" markdown="1">
+
 #### **Session 13 – Circularity, Waste and Water Strategies**  
 **Moderators:** Fátima Nunes Serralha (Instituto Politécnico de Setúbal); Olena Motuzka (National Academy of Statistics, Accounting and Audit, Kyiv)  
 - **ICRSR25_14 – Assessment of Plastic Waste Cycle in Portugal**  
@@ -329,6 +360,7 @@ permalink: /program/
 </div>
 
 <div class="session" id="session-14" markdown="1">
+
 #### **Session 14 – Health, Environment and Lifestyle**  
 **Moderators:** Anabela Correia (Instituto Politécnico de Setúbal); Marta Justino (Instituto Politécnico de Setúbal)  
 - **ICRSR25_16 – Genetic Screening for Change: Tackling Ototoxicity and Hearing Loss to Empower Communities**  
@@ -344,4 +376,5 @@ permalink: /program/
   - Adriana Mósca (Politécnico de Setúbal)  
   - Anabela Correia (Instituto Politécnico de Setúbal)  
 </div>
+
 </div>
