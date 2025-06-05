@@ -82,7 +82,7 @@ permalink: /program/
 
 ## Detailed Sessions
 
-<div class="paralell-sessions" id="parallel-sessions-1" markdown="1">
+<div class="parallel-sessions" id="parallel-sessions-1" markdown="1">
 
 ### Parallel Sessions – Slot 1
 
@@ -147,7 +147,7 @@ permalink: /program/
 
 </div>
 
-<div class="paralell-sessions" id="parallel-sessions-2" markdown="1">
+<div class="parallel-sessions" id="parallel-sessions-2" markdown="1">
 
 ### Parallel Sessions – Slot 2
 
@@ -225,7 +225,7 @@ permalink: /program/
 
 </div>
 
-<div class="paralell-sessions" id="parallel-sessions-3" markdown="1">
+<div class="parallel-sessions" id="parallel-sessions-3" markdown="1">
 
 ### Parallel Sessions – Slot 3
 
@@ -297,7 +297,7 @@ permalink: /program/
 
 </div>
 
-<div class="paralell-sessions" id="parallel-sessions-4" markdown="1">
+<div class="parallel-sessions" id="parallel-sessions-4" markdown="1">
 
 ### Parallel Sessions – Slot 4
 
@@ -356,14 +356,14 @@ permalink: /program/
   - Henoch Vitureira (Instituto Politécnico de Setúbal)  
   - Fausto Mourato (University of Minho)  
   - Cláudio Sapateiro (Instituto Politécnico de Setúbal)  
-- **ICRSR25_36 – Source of Stones on Walla of Santiago Fortress in Sesimbra: Part 2**  
+- **ICRSR25_36 – Source of Stones on Wall of Santiago Fortress in Sesimbra: Part 2**  
   - Marco Ludovico-Marques (Instituto Politécnico de Setúbal)  
   - Maria Catarina Paz (Instituto Politécnico de Setúbal)  
 </div>
 
 </div>
 
-<div class="paralell-sessions" id="parallel-sessions-5" markdown="1">
+<div class="parallel-sessions" id="parallel-sessions-5" markdown="1">
 
 ### Parallel Sessions – Slot 5
 
