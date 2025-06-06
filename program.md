@@ -73,7 +73,7 @@ permalink: /program/
 
 ### Friday, 4/7/2025
 
-- **09:45** Meeting Point – Fishermen’s Dock (Molhe Exterior)  
+- **09:45** Meeting Point – Fishermen's Dock (Molhe Exterior)  
 - **10:00** Boat Travel in Sado – Discovering the River  
   *Time:* 10:00 to 12:00  
   *Limit:* 50 people (maximum)  
@@ -210,7 +210,7 @@ permalink: /program/
   - Karollyne Cruvinel de Freitas (Instituto Politécnico de Setúbal)  
   - Sandrina B. Moreira (Instituto Politécnico de Setúbal)  
   - Ana Rolo (Instituto Politécnico de Setúbal)  
-- **ICRSR25_30 – Tourist’s Sustainability Values and Their Role in Co-Creation Processes**  
+- **ICRSR25_30 – Tourist's Sustainability Values and Their Role in Co-Creation Processes**  
   - Filipe Segurado Severino (Escola Superior de Hotelaria e Turismo do Estoril)  
   - Teresa Costa (Instituto Politécnico de Setúbal)  
   - Zélia Raposo Santos (Instituto Politécnico de Lisboa)  
@@ -250,7 +250,7 @@ permalink: /program/
   - Giuseppe Basile (University of Foggia)  
   - Caterina De Lucia (University of Foggia)  
   - Pasquale Pazienza (University of Foggia)  
-- **ICRSR25_09 – Unlocking Microalgae’s Potential for Food, Cosmetics, and Agriculture**  
+- **ICRSR25_09 – Unlocking Microalgae's Potential for Food, Cosmetics, and Agriculture**  
   - Laura Ortiz (Leitat Technological Center)  
   - Montse Jorba (Leitat Technological Center)  
   - Cristina Fabregat (Leitat Technological Center)  
@@ -329,13 +329,13 @@ permalink: /program/
 <div class="session" id="session-11" markdown="1">
 
 #### **Session 11 – Teaching and Participatory Innovation** (C.1.15)  
-**Moderators:** Sarah De Coninck (UCLL – University of Applied Sciences Leuven-Limburg); Maria Catarina Paz (Instituto Politécnico de Setúbal)  
+**Moderators:** Sarah De Coninck (KU Leuven); Maria Catarina Paz (Instituto Politécnico de Setúbal)  
 - **ICRSR25_05 – Nothing About Us: Results of a Literature Review and Delphi Study on Engagement Models for Research Citizen Science & Stakeholder Engagement**  
-  - Sarah De Coninck (UCLL – University of Applied Sciences Leuven-Limburg)  
+  - Sarah De Coninck (KU Leuven)  
   - Ann Reulens (UCLL – University of Applied Sciences Leuven-Limburg)  
 - **ICRSR25_22 – Busiskills: Wellbeing@work: Examples Learned from a COIL and a BIP from Businet**  
   - Laurence Leonard (Henallux – Haute École de Namur-Liége-Luxembourg)  
-  - Griet t’Servranckx (UCLL – University of Applied Sciences Leuven-Limburg)  
+  - Griet t'Servranckx (UCLL – University of Applied Sciences Leuven-Limburg)  
   - Eluan Bescond (IGS-RH, IGENSIA Education Human Resources)  
   - Yvonne Farrand (4Businet, UK)  
   - Helena Caria (Instituto Politécnico de Setúbal)  
