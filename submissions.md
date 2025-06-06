@@ -28,6 +28,10 @@ You should submit your abstract to the following e-mail with the subject ***ICRS
 For any question related with submissions you can contact [filipe.severino@esce.ips.pt](mailto:filipe.severino@esce.ips.pt) and [gabriela.gomes@estbarreiro.ips.pt](gabriela.gomes@estbarreiro.ips.pt).
 
 All accepted abstracts will be published in the **Abstracts Book** of the conference. You will later be able to submit a full paper for publishing in a **Scopus** and **Web of Science** indexed journals associated to the conference.
+
+### Presentation Template
+All presentations at ICRSR 2025 should use the official template, available here:  
+[**Download ICRSR 2025 PowerPoint Template**]({{ 'assets/documents/ICRSR2025_PresentationTemplate.pptx' | relative_url }}){:target="_blank"}.
 </section>
 
 <section id="abstracts" markdown="1">
