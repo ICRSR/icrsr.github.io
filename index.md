@@ -117,7 +117,6 @@ You can find more details about the special session by following [this link]({{ 
 <section id="specialsession-2" markdown="1">
 
 ### Value Creation in the Socio-Bioeconomy in the Amazon Region: Integrating Tradition, Innovation and Environmental Services
-##### 2/7/2025 @ 14:30
 This session aims to provide experiences and knowledge exchange on value creation for businesses of traditional peoples and communities (TPCs), usually cooperatives, through the sustainable exploration of the socio-bioeconomy in the Amazon region. TPCs are keepers of traditional knowledge and practices and should be valued not only as guardians of the forest but also as disseminators of knowledge that can help mitigate climate change and environmental destruction. In this context, we propose to discuss factors that not only add value to their community businesses but also ensure that this value remains within the territory. To achieve this, we will address three key issues:
 - Alliances for innovation
 - Payment for environmental services  

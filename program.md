@@ -30,7 +30,7 @@ permalink: /program/
   - Samuel Robalo (EST/IPS)  
   - André Cordeiro (EST/IPS)  
 - **14:00** Coffee break  
-- **15:30** **[Round Table AICET]({{ '/#roundtable-aicet' | relative_url }})** – Resilience and Sustainability in Setúbal Industry (C.1.13)  
+- **15:30** **Round Table AISET** – Resilience and Sustainability in Setúbal Industry (C.1.13)  
   **Participants:**  
   - Navigator  
   - Secil  
@@ -234,7 +234,7 @@ permalink: /program/
 
 #### **Session 7 – Innovation in Agri-Food Sustainability** (C.1.13)  
 **Moderators:** Ana Gabriela Gomes (Instituto Politécnico de Setúbal); Angelo Porcaro (University of Foggia)  
-- **ICRSR25_52 – Value Creation in the Socio-Bioeconomy in the Amazon Region: Integrating Tradition, Innovation and Environmental Services**  
+- **ICRSR25_52 – [Value Creation in the Socio-Bioeconomy in the Amazon Region: Integrating Tradition, Innovation and Environmental Services]({{ '/#specialsession-2' | relative_url }})**  
   - Simone Galina (FEARP/São Paulo University)  
 - **ICRSR25_12 – Unlocking the Potential of Agro-Industrial Residues for Lignocellulosic Biomass Valorization**  
   - Carla Amarelo Santos (Instituto Politécnico de Setúbal)  
