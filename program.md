@@ -20,10 +20,11 @@ permalink: /program/
 - **12:30** Lunch  
 - **13:30** **[Special Session 1]({{ '/#specialsession-1' | relative_url }})** – Collaborative Innovation and Digital Co-creation for Sustainable Tourism Futures (C.1.13)  
   **Participants:**  
-  - Prof. Teresa Costa (ESCE/IPS)  
-  - Prof. Ana Teresa Machado (ESCS/IPLisboa)  
-  - Prof. Sandra Nunes (ESCE/IPS)  
-  - Prof. Filipe Severino (ESHTE)  
+  - Teresa Costa (ESCE/IPS)  
+  - João Rosário (ESCS/IPLisboa)
+  - Ana Teresa Machado (ESCS/IPLisboa)  
+  - Sandra Nunes (ESCE/IPS)  
+  - Filipe Severino (ESHTE)  
   - Zélia Santos (ESCS/IPLisboa)  
   - Rui Madeira (EST/IPS)  
   - Samuel Robalo (EST/IPS)  
@@ -32,7 +33,7 @@ permalink: /program/
 - **15:30** **[Round Table AICET]({{ '/#roundtable-aicet' | relative_url }})** – Resilience and Sustainability in Setúbal Industry (C.1.13)  
   **Participants:**  
   - Navigator  
-  - Cecil  
+  - Secil  
   - Lisnave  
   - Autoeuropa  
   - Ermelinda Freitas  
@@ -328,10 +329,10 @@ permalink: /program/
 <div class="session" id="session-11" markdown="1">
 
 #### **Session 11 – Teaching and Participatory Innovation** (C.1.15)  
-**Moderators:** Sarah De Coninck (Politechnica University of Timișoara); Maria Catarina Paz (Instituto Politécnico de Setúbal)  
+**Moderators:** Sarah De Coninck (UCLL – University of Applied Sciences Leuven-Limburg); Maria Catarina Paz (Instituto Politécnico de Setúbal)  
 - **ICRSR25_05 – Nothing About Us: Results of a Literature Review and Delphi Study on Engagement Models for Research Citizen Science & Stakeholder Engagement**  
-  - Sarah De Coninck (Politechnica University of Timișoara)  
-  - Ann Reulens (Politechnica University of Timișoara)  
+  - Sarah De Coninck (UCLL – University of Applied Sciences Leuven-Limburg)  
+  - Ann Reulens (UCLL – University of Applied Sciences Leuven-Limburg)  
 - **ICRSR25_22 – Busiskills: Wellbeing@work: Examples Learned from a COIL and a BIP from Businet**  
   - Laurence Leonard (Henallux – Haute École de Namur-Liége-Luxembourg)  
   - Griet t’Servranckx (UCLL – University of Applied Sciences Leuven-Limburg)  
@@ -354,7 +355,7 @@ permalink: /program/
   - Pasquale Pazienza (University of Foggia)  
 - **ICRSR25_20 – Smart Twin House: XR-Based Digital Twin**  
   - Henoch Vitureira (Instituto Politécnico de Setúbal)  
-  - Fausto Mourato (University of Minho)  
+  - Fausto Mourato (Instituto Politécnico de Setúbal) 
   - Cláudio Sapateiro (Instituto Politécnico de Setúbal)  
 - **ICRSR25_36 – Source of Stones on Wall of Santiago Fortress in Sesimbra: Part 2**  
   - Marco Ludovico-Marques (Instituto Politécnico de Setúbal)  
