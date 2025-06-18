@@ -73,6 +73,7 @@ permalink: /program/
 - **18:30** [Convento de Jesus/Monastery of Jesus](https://maps.app.goo.gl/gcQ2wRBEej2HeJc56) (meet at **18:15**)
 
 - **19:30** Conference Dinner 
+
 ---
 
 ### Friday, 4/7/2025
