@@ -408,7 +408,7 @@ permalink: /program/
   - Sergio Mendez (Centro de Ciências e Tecnologias Nucleares, Instituto Superior Técnico, Universidade de Lisboa)  
   - Carla Gamelas (Instituto Politécnico de Setúbal)  
 - **ICRSR25_48 – Impacts of Holistic Festival and Visitor Well-Being**  
-  - Adriana Mósca (Politécnico de Setúbal)  
+  - Adriana Mósca (Instituto Politécnico de Setúbal)  
   - Anabela Correia (Instituto Politécnico de Setúbal)  
 </div>
 
