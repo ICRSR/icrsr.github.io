@@ -20,7 +20,8 @@ permalink: /program/
 - **12:30** Lunch  
 - **13:30** **[Special Session 1]({{ '/#specialsession-1' | relative_url }})** – Collaborative Innovation and Digital Co-creation for Sustainable Tourism Futures (C.1.13)  
   **Participants:**  
-  - Teresa Costa (ESCE/IPS)  
+  - Teresa Costa (ESCE/IPS) 
+  - Lurdes Calisto (ESHTE)
   - João Rosário (ESCS/IPLisboa)
   - Ana Teresa Machado (ESCS/IPLisboa)  
   - Sandra Nunes (ESCE/IPS)  
@@ -69,11 +70,14 @@ permalink: /program/
 
 - **17:30** End of Parallel Sessions  
 
+- **18:30** [Convento de Jesus/Monastery of Jesus](https://maps.app.goo.gl/gcQ2wRBEej2HeJc56) (meet at **18:15**)
+
+- **19:30** Conference Dinner 
 ---
 
 ### Friday, 4/7/2025
 
-- **09:45** Meeting Point – Fishermen's Dock (Molhe Exterior)  
+- **09:45** Meeting Point – [Fishermen's Dock](https://maps.app.goo.gl/yGiAmEtypJ8nEiRP7) (Molhe Exterior)  
 - **10:00** Boat Travel in Sado – Discovering the River  
   *Time:* 10:00 to 12:00  
   *Limit:* 50 people (maximum)  
