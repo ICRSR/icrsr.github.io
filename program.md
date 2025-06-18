@@ -29,7 +29,7 @@ permalink: /program/
   - Rui Madeira (EST/IPS)  
   - Samuel Robalo (EST/IPS)  
   - André Cordeiro (EST/IPS)  
-- **14:00** Coffee break  
+- **15:00** Coffee break  
 - **15:30** **Round Table AISET** – Resilience and Sustainability in Setúbal Industry (C.1.13)  
   **Participants:**  
   - Navigator  
