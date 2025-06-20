@@ -33,11 +33,7 @@ permalink: /program/
 - **15:00** Coffee break  
 - **15:30** **Round Table AISET** – Resilience and Sustainability in Setúbal Industry (C.1.13)  
   **Participants:**  
-  - Navigator  
-  - Secil  
-  - Lisnave  
-  - Autoeuropa  
-  - Ermelinda Freitas  
+  - *To be announced*  
 - **18:00** End of sessions
 
 ---
