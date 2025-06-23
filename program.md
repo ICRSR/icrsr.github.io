@@ -15,7 +15,8 @@ permalink: /program/
   Moderator: Catarina Paz  
 - **11:00** Coffee break  
 - **11:30** **[KEYNOTE 2]({{ '/#keynote-2' | relative_url }})** – Speaker: Antje Disterheft (C.1.13)  
-  Moderator: Teresa Costa  
+  *Resilience as Relationship: Rethinking Sustainability in Times of Systemic Change*
+  Moderator: Teresa Costa
 - **12:30** Lunch  
 - **13:30** **[Special Session 1]({{ '/#specialsession-1' | relative_url }})** – Collaborative Innovation and Digital Co-creation for Sustainable Tourism Futures (C.1.13)  
   **Participants:**  

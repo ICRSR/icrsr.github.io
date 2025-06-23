@@ -77,9 +77,15 @@ He has published more than 130 scientific articles in refereed international jou
 
 <section id="keynote-2" markdown="1">
 
-### Antje Disterheft
+### Resilience as Relationship: Rethinking Sustainability in Times of Systemic Change
 ##### 2/7/2025 @ 11:30
+
+In an era shaped by overlapping crises (ecological, geopolitical, economic, and emotional) resilience has become a guiding term in policy and sustainability discourse. Yet mainstream interpretations often reduce resilience to coping or bouncing back, overlooking its deeper relational, ethical, and systemic dimensions. This keynote explores resilience not as a fixed trait or outcome, but as a relational capacity: the ability to sustain care, connection, and creativity under pressure. Drawing on research from the SHARED GREEN DEAL project and practice-based insights from The CareLab, the talk reimagines resilience as a transformative force rooted in learning, mutuality, and systemic alignment. Framing resilience through a relational lens opens space to enrich the implementation of the Green Deal—connecting inner and outer change, grounding policy in lived realities, and cultivating regenerative potential in both people and systems.
+
+#### Speaker: Antje Disterheft
 - Researcher at Institute of Social Sciences (ICS), University of Lisbon
+- <i class="fa-solid fa-building-columns"></i> [https://www.ics.ulisboa.pt/en/pessoa/antje-disterheft](https://www.ics.ulisboa.pt/en/pessoa/antje-disterheft)
+- <i class="fa-solid fa-envelope"></i> [antje.disterheft@ics.ulisboa.pt](mailto:antje.disterheft@ics.ulisboa.pt)
 
 <img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-antje-disterheft.jpg" | relative_url }}" alt="Antje Disterheft Portrait">
 
