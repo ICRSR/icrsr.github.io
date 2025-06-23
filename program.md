@@ -8,14 +8,13 @@ permalink: /program/
 
 ### Wednesday, 2/7/2025
 
-- **09:00** Conference Registration
+- **09:30** Conference Registration
 - **10:00** Open session (C.1.13)  
 - **10:30** **[KEYNOTE 1]({{ '/#keynote-1' | relative_url }})** – Speaker: Pedro Matos Soares (C.1.13)  
   *Climate Modelling and AI for a Resilient Earth in the Context of Climate Change*  
   Moderator: Catarina Paz  
 - **11:00** Coffee break  
 - **11:30** **[KEYNOTE 2]({{ '/#keynote-2' | relative_url }})** – Speaker: Antje Disterheft (C.1.13)  
-  *To be announced soon*  
   Moderator: Teresa Costa  
 - **12:30** Lunch  
 - **13:30** **[Special Session 1]({{ '/#specialsession-1' | relative_url }})** – Collaborative Innovation and Digital Co-creation for Sustainable Tourism Futures (C.1.13)  

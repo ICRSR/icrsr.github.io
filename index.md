@@ -79,21 +79,27 @@ He has published more than 130 scientific articles in refereed international jou
 
 ### Antje Disterheft
 ##### 2/7/2025 @ 11:30
-- Researcher and Integrated Memeber at CENSE/NOVA School of Science and Technology
-- <i class="fa-solid fa-building-columns"></i> [www.cense.fct.unl.pt/people/antje-disterheft](https://www.cense.fct.unl.pt/people/antje-disterheft)
-- <i class="fa-solid fa-envelope"></i> [a.disterheft@fct.unl.pt](mailto:a.disterheft@fct.unl.pt)
+- Researcher at Institute of Social Sciences (ICS), University of Lisbon
 
-<img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-antje-disterheft.jpg" | relative_url }}" alt="Hannes Raffaseder Portrait">
+<img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-antje-disterheft.jpg" | relative_url }}" alt="Antje Disterheft Portrait">
 
-Antje Disterheft (PhD) is a researcher and integrated member at Center for Environmental and Sustainability Research (CENSE), from NOVA School of Science and Technology, NOVA University Lisbon. She is enthusiastic about exploring transformative processes that can support keeping human-nature systems in balance.
+**Antje Disterheft** is a researcher at the Institute of Social Sciences (ICS), University of Lisbon, where she works on the Horizon Europe project [SHARED GREEN DEAL](https://sharedgreendeal.eu/). She contributes to the analysis of transdisciplinary social experiments across six Green Deal priority areas and to the development of training resources on behavioural, cultural, and social change.
 
-Her research focuses on capacity building and new approaches to collaboration and co-creation for sustainability in Higher Education Institutions. In the past years, she started to engage deeper with the lens of care when thinking about sustainability and founded [The CareLab for People & Planet](https://the-care-lab.org) at her faculty. The CareLab is a new space of collaboration, co-creation and transformative learning where the interlinkages of inner and outer sustainability are explored.
+She is part of the **SHIFT – Environment, Territory and Society** research group and a member of the editorial team of the group’s blog ([**Ambiente, Território e Sociedade**](https://ambienteterritoriosociedade-ics.org/)).
 
-She holds a PhD in Social Sustainability (Universidade Aberta) and is an alumni of the [Postdoc Academy for Transformational Leadership](https://www.bosch-stiftung.de/en/project/postdoc-academy-transformational-leadership). German by nationality, but living in Portugal for more than 17 years, she enjoys being in nature, biking and cooking.
+Her research explores relational and transdisciplinary approaches to sustainability, with a focus on the interplay between inner and outer dimensions of transformation. Her work spans fields such as sustainability transitions, transformative learning, ecological economics, and governance.
+
+Antje teaches at bachelor, master, and PhD levels, and is also an invited professor at Universidade Aberta. Her pedagogical approach is rooted in mutual learning, co-creation, and embodied educational practices. She frequently experiments with participatory and reflective tools to support deeper engagement with sustainability challenges.
+
+She is a co-founding member of the Portuguese network Rede Campus Sustentável, where she serves on the Executive Commission and contributes to working groups, annual events, and the network’s newsletter. Before joining ICS, she was a postdoctoral researcher at CENSE – NOVA University Lisbon, where she founded [The CareLab for People and Planet](http://www.the-care-lab.org), a practice-based initiative on care, sustainability, and systemic change.
+
+Antje holds a PhD in Social Sustainability, an MSc in Environmental Citizenship and Participation, and a BA in Social Work.
+
+**Fields of activity:** Transformative Sustainability, Sustainability Transitions, Education (learning for sustainability), Governance  
+**Keywords:** Sustainability transitions, Transformative learning, Relational sustainability, Transdisciplinary research, Care and wellbeing
 
 </section>
 
-*More to be announced*
 </article>
 
 <article id="specialsessions" markdown="1">
@@ -127,60 +133,3 @@ You can find more details about the special session by following [this link]({{ 
 </section>
 
 </article>
-
-{% comment %}
-<!-- <article id="roundtables" markdown="1">
-
-## Round Table
-
-<section id="roundtable1" markdown="1">
-
-### Entrepreneurship and Innovation - PhD Students (São Paulo University)
-
-***Room [Google Meet](https://meet.google.com/uqx-zyaf-bnc)***
-
-**Title**: Reflexos do comportamento empreendedor em Effectuation sobre Capacidades Dinâmicas: uma revisão bibliográfica.  
-**Author**: Frederico Eugênio Fernandes Filho  
-**Contact**: [fredfernandes@usp.br](mailto:fredfernandes@usp.br)  
- 
-**Title**: Sustentabilidade da tecnologia de produção de carne cultivada – Revisão de Literatura.  
-**Authors**: Camila Keila Magno Leonel and Bruno Cesar Porsani Mangili  
-**Contacts**: [camila.leonel@usp.br](mailto:camila.leonel@usp.br) and [bruno.mangili@usp.br](mailto:bruno.mangili@usp.br)  
- 
-**Title**: Innovations on the Altitude simulators technologies: A patent review.  
-**Author**: Yan Figueiredo Foresti  
-**Contact**: [yan.foresti@alumni.usp.br](mailto:yan.foresti@alumni.usp.br)  
- 
-**Title**: A relação do Capital Intelectual com Desempenho Operacional: uma análise de empresas listadas na China durante a pandemia de COVID-19  
-**Author**: Victor Haruo Nitatori Rodrigues Lourenço  
-**Contact**: [victor.haruo@usp.br](mailto:victor.haruo@usp.br)  
- 
-**Title**: How cyber security measures help SMEs in their internationalization.  
-**Author**: Steve Egnonvi Senade  
-**Contact**: [steve.senade@usp.br](mailto:steve.senade@usp.br)  
- 
-**Title**: Relação entre empreendedorismo e Indicações Geográficas: uma revisão da literatura  
-**Authors**: Laís Marques da Silva and Estefânia Portomeo Cancado Lemos  
-**Contacts**: [laissilva@usp.br](mailto:laissilva@usp.br) and [estefania@acads.com.br](mailto:estefania@acads.com.br)
-
-
-</section>
-
-<section id="roundtable2" markdown="1">
-
-### Resilience and Sustainability in Events: Innovative Approaches for Tourist Destinations
-
-***Room C1.13***
-
-**Round Table Description**: Event tourism is an essential contributor to the economic development and promotion of international tourist destinations. However, events frequently find obstacles resulting from economic, social, and environmental factors. The primary objective of this roundtable discussion is to explore the ways in which events can incorporate sustainability and resilience principles, thereby fostering the development of dynamic and resilient tourism destinations. Speakers will engage in a discourse regarding new methods to mitigate emerging risks, ensure long-term viability, and stimulate tourism in challenging regions.
- 
-**Discussion Topics**: Resilience strategies employed in events to address environmental and social challenges; the positive effects that environmentally responsible event planning can have on tourist destinations; case studies of tourist destinations where the integration of sustainability and resilience into events has been executed successfully; stakeholders’ partnerships to promote resilience and sustainability in tourism destinations.
- 
-**Round table participants**: Francisco Silva (Adjunct Professor at the “ESHTE - Escola Superior de Hotelaria e Turismo do Estoril”, specialist in regional and urban planning, and tourism and leisure), Susana Gonçalves (Adjunct Professor at the “ESHTE - Escola Superior de Hotelaria e Turismo do Estoril”, specialist in tourism and events) and Cláudia Caetano (President of the Tourist Entertainment section of “APECATE – Portuguese Association of Congress, Tourist Entertainment and Events Companies”).
- 
-**Moderator**: Filipe Segurado Severino (Post-Doctoral Fellow of the SHIFT project; Invited Adjunct Professor at “ESHTE - Escola Superior de Hotelaria e Turismo do Estoril”, specialist in tourism and events)
-
-</section>
-
-</article> -->
-{% endcomment %}
