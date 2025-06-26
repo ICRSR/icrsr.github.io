@@ -92,9 +92,6 @@ permalink: /program/
 
 #### **Session 1 – Collaborative Strategies for Regional Sustainability** (C.1.13)  
 **Moderators:** Joey Willemse (Saxion UAS); Susana Galvão (Instituto Politécnico de Setúbal)  
-- **ICRSR25_01 – Collaboration for Resilient Tomorrow**  
-  - Carmina S. Nunes (Instituto Politécnico de Setúbal, Escola Superior de Ciências)  
-  - Susana Garrido (University of Coimbra)  
 - **ICRSR25_15 – Social Entrepreneurship in Rural Context: Challenges and Opportunities for Sustainable Development in Canha e Pegões**  
   - Maria João Lima (Instituto Politécnico de Setúbal)  
   - Filipe Severino (Escola Superior de Hotelaria e Turismo do Estoril)  
@@ -113,7 +110,7 @@ permalink: /program/
 <div class="session" id="session-2" markdown="1">
 
 #### **Session 2 – Artificial Intelligence and Sustainable Innovation** (C.1.15)  
-**Moderators:** Luísa Carvalho (Instituto Politécnico de Setúbal); Ana Mendes (Instituto Politécnico de Setúbal)  
+**Moderators:** Sandra Nunes (Instituto Politécnico de Setúbal); Ana Mendes (Instituto Politécnico de Setúbal)  
 - **ICRSR25_18 – ML Regression Models for Forecasting Services**  
   - Joana Oliveira (Instituto Politécnico de Setúbal)  
   - Victor Barbosa (Instituto Politécnico de Setúbal)  
@@ -174,7 +171,7 @@ permalink: /program/
 <div class="session" id="session-5" markdown="1">
 
 #### **Session 5 – Educational Innovation and Digital Tools for Sustainability** (C.1.15)  
-**Moderators:** Anca Drăghici (Politehnica University of Timișoara); Pedro Pardal (Instituto Politécnico de Setúbal)  
+**Moderators:** Andra Diaconescu (Politehnica University of Timișoara); Pedro Pardal (Instituto Politécnico de Setúbal)  
 - **ICRSR25_37 – Exploring the Imperative of Environmental Sustainability in Education and Research – Crafting and Engaging Visual Design for a Waste Management Mobile APP**  
   - Andra Diaconescu (Politehnica University of Timișoara)  
   - Anca Drăghici (Politechnica University of Timișoara)  
