@@ -13,8 +13,8 @@ permalink: /program/
 - **10:30** **[KEYNOTE 1]({{ '/#keynote-1' | relative_url }})** – Speaker: Pedro Matos Soares (C.1.13)  
   *Climate Modelling and AI for a Resilient Earth in the Context of Climate Change*  
   Moderator: Catarina Paz  
-- **11:00** Coffee break  
-- **11:30** **[KEYNOTE 2]({{ '/#keynote-2' | relative_url }})** – Speaker: Antje Disterheft (C.1.13)  
+- **11:15** Coffee break  
+- **11:45** **[KEYNOTE 2]({{ '/#keynote-2' | relative_url }})** – Speaker: Antje Disterheft (C.1.13)  
   *Resilience as Relationship: Rethinking Sustainability in Times of Systemic Change*
   Moderator: Teresa Costa
 - **12:30** Lunch  
