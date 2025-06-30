@@ -153,7 +153,7 @@ permalink: /program/
 <div class="session" id="session-4" markdown="1">
 
 #### **Session 4 – Infrastructure and Logistics for Resilient Territories** (C.1.13)  
-**Moderators:** Magdalena Kozłowska (University of Warmia and Mazury); Anna Strychalska-Rudzewicz (University of Warmia and Mazury)  
+**Moderators:** Magdalena Kozłowska (University of Warmia and Mazury); Anna Strychalska-Rudzewicz (University of Warmia and Mazury); Pedro Albuquerque Santos (Instituto Politécnico de Setúbal)
 - **ICRSR25_03 – School Bus Routing Optimization**  
   - Maria Luísa Tavares (Instituto Politécnico de Setúbal)  
   - Graça Costa (Instituto Politécnico de Setúbal)  
