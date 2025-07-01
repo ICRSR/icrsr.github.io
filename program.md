@@ -12,11 +12,11 @@ permalink: /program/
 - **10:00** Open session (C.1.13)  
 - **10:30** **[KEYNOTE 1]({{ '/#keynote-1' | relative_url }})** – Speaker: Pedro Matos Soares (C.1.13)  
   *Climate Modelling and AI for a Resilient Earth in the Context of Climate Change*  
-  Moderator: Catarina Paz  
+  **Moderator**: Catarina Paz  
 - **11:15** Coffee break  
 - **11:45** **[KEYNOTE 2]({{ '/#keynote-2' | relative_url }})** – Speaker: Antje Disterheft (C.1.13)  
   *Resilience as Relationship: Rethinking Sustainability in Times of Systemic Change*
-  Moderator: Teresa Costa
+  **Moderator**: Teresa Costa
 - **12:30** Lunch  
 - **13:30** **[Special Session 1]({{ '/#specialsession-1' | relative_url }})** – Collaborative Innovation and Digital Co-creation for Sustainable Tourism Futures (C.1.13)  
   **Participants:**  
@@ -31,7 +31,8 @@ permalink: /program/
   - Samuel Robalo (EST/IPS)  
   - André Cordeiro (EST/IPS)  
 - **15:00** Coffee break  
-- **15:30** **Round Table AISET** – Resilience and Sustainability in Setúbal Industry (C.1.13)  
+- **15:30** **Round Table AISET** – Resilience and Sustainability in Setúbal Industry (C.1.13)
+  **Moderator:** Ana Martins (AISET)
   **Participants:**  
   - Nuno Santos – CEO (Lisnave)
   - Carlos Brás – Industrial Director, Setúbal (The Navigator Company)
