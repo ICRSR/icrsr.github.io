@@ -78,7 +78,7 @@ He has published more than 130 scientific articles in refereed international jou
 <section id="keynote-2" markdown="1">
 
 ### Resilience as Relationship: Rethinking Sustainability in Times of Systemic Change
-##### 2/7/2025 @ 11:30
+##### 2/7/2025 @ 11:45
 
 In an era shaped by overlapping crises (ecological, geopolitical, economic, and emotional) resilience has become a guiding term in policy and sustainability discourse. Yet mainstream interpretations often reduce resilience to coping or bouncing back, overlooking its deeper relational, ethical, and systemic dimensions. This keynote explores resilience not as a fixed trait or outcome, but as a relational capacity: the ability to sustain care, connection, and creativity under pressure. Drawing on research from the SHARED GREEN DEAL project and practice-based insights from The CareLab, the talk reimagines resilience as a transformative force rooted in learning, mutuality, and systemic alignment. Framing resilience through a relational lens opens space to enrich the implementation of the Green Deal—connecting inner and outer change, grounding policy in lived realities, and cultivating regenerative potential in both people and systems.
 

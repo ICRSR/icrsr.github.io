@@ -33,7 +33,11 @@ permalink: /program/
 - **15:00** Coffee break  
 - **15:30** **Round Table AISET** – Resilience and Sustainability in Setúbal Industry (C.1.13)  
   **Participants:**  
-  - *To be announced*  
+  - Nuno Santos – CEO (Lisnave)
+  - Carlos Brás – Industrial Director, Setúbal (The Navigator Company)
+  - Paula Guimarães – Sustainability Director (The Navigator Company)
+  - Pedro Leal – Industrial Director, Setúbal (Viroc)
+  - Graça Cáceres – Director of Environment, Safety, and Certification (Viroc)
 - **18:00** End of sessions
 
 ---
