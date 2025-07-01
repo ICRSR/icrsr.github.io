@@ -332,10 +332,7 @@ permalink: /program/
 <div class="session" id="session-11" markdown="1">
 
 #### **Session 11 – Teaching and Participatory Innovation** (C.1.15)  
-**Moderators:** Sarah De Coninck (KU Leuven); Maria Catarina Paz (Instituto Politécnico de Setúbal)  
-- **ICRSR25_05 – Nothing About Us: Results of a Literature Review and Delphi Study on Engagement Models for Research**  
-  - Sarah De Coninck (KU Leuven)  
-  - Ann Reulens (UCLL – University of Applied Sciences Leuven-Limburg)  
+**Moderators:** Maria Catarina Paz (Instituto Politécnico de Setúbal)  
 - **ICRSR25_22 – Busiskills: Wellbeing@work: Examples Learned from a COIL and a BIP from Businet**  
   - Laurence Leonard (Henallux – Haute École de Namur-Liége-Luxembourg)  
   - Griet t'Servranckx (UCLL – University of Applied Sciences Leuven-Limburg)  
