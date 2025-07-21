@@ -22,7 +22,7 @@ permalink: /committee/
 ## Scientific Committee
 
 - Maria Teresa Costa, Polytechnic University of Setúbal (IPS), Portugal (coordination)
-- Nelson Carriço, Polytechnic University of Setúbal (IPS), Portugal (coordination)
+- Nelson Carriço, Polytechnic University of Setúbal (IPS), Portugal
 - Alexandra Anderluh, St. Pölten University of Applied Sciences, Austria
 - Alin Artene, Polytechnic University of Timisoara (UPT), Romania
 - Ana Gabriela Gomes, Polytechnic University of Setúbal (IPS), Portugal
