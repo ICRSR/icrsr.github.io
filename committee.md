@@ -7,7 +7,6 @@ permalink: /committee/
 ## Organizing Committee ([icrsr@ips.pt](mailto:icrsr@ips.pt))
 
 - Maria Teresa Costa, Polytechnic University of Setúbal (IPS), Portugal (coordination)
-- Nelson Carriço, Polytechnic University of Setúbal (IPS), Portugal (coordination)
 - Anabela Correia, Polytechnic University of Setúbal (IPS), Portugal
 - Ana Rolo,  Polytechnic University of Setúbal (IPS), Portugal
 - Carlos Mata, Polytechnic University of Setúbal (IPS), Portugal
