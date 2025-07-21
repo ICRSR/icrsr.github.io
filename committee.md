@@ -74,5 +74,3 @@ permalink: /committee/
 - Vítor Caldeirinha, Polytechnic University of Setúbal (IPS), Portugal
 - Vlad Mihaescu, Polytechnic University of Timisoara (UPT), Romania
 - Zdeněk Caha, Institute of Technology and Business in České Budějovice (VŠTE), Czechia
-
-*More to be announced*
