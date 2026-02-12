@@ -2,12 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-published: false
 ---
 
-*To be announced*
-
-{% comment %}
-<!-- - [Proceedings book of the 1st International Conference on Resilience
-and Sustainable Regions]({{ '/assets/documents/AbstractBook1stICRSR.pdf' | relative_url }}) -->
-{% endcomment %}
+- [Proceedings book of the 2nd International Conference on Resilience
+and Sustainable Regions]({{ '/assets/documents/AbstractBook2ndICRSR.pdf' | relative_url }})
