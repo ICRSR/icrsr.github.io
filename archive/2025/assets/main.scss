@@ -1,0 +1,174 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+$theme-color-primary: #12636b;
+
+$theme-color-secondary: lighten(#236f6b, 12.5%);
+$theme-color-secondary-semitransparent: rgba($theme-color-secondary, 0.3);
+
+$theme-color-terciary: #90b77b;
+$theme-color-terciary-semitransparent: rgba($theme-color-terciary, 0.3);
+
+$theme-color-content-background: rgba(white, 0.5);
+
+$theme-color-logo-border: #717171;
+$theme-color-special-text: darken($theme-color-logo-border, 30%);
+
+.site-logo-container {
+    float: right;
+    width: 140px;
+    height: 120px;
+    background-color: white;
+    border-radius: 0 0 20px 20px;
+    box-shadow: 0px 7px 0px 0px $theme-color-logo-border;
+} 
+
+#site-nav .nav-link:visited {
+    color: white;
+}
+
+.site-logo {
+    display: block;
+    margin: auto;
+    padding: 12px;
+}
+
+.site-header,
+.site-footer {
+    border: 0;
+}
+
+.site-header {
+    background: linear-gradient($theme-color-primary, $theme-color-secondary);
+}
+
+.site-footer {
+    background: linear-gradient($theme-color-secondary 33.33%, $theme-color-primary);
+    padding-bottom: 0;
+}
+
+.site-header .site-title {
+    font-weight: bold;
+    color: white !important;
+    font-size: 24px;
+}
+
+.site-header .page-link,
+.footer-heading {
+    color: $theme-color-special-text;
+    font-weight: bold;
+}
+
+main.page-content {
+    background: linear-gradient($theme-color-secondary-semitransparent, $theme-color-terciary-semitransparent),
+                url("{{ site.baseurl }}/assets/images/background-plant-2025-transparent.webp") right bottom/auto 50vh no-repeat,
+}
+
+main.page-content div.wrapper {
+    background-color: $theme-color-content-background;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer-col-wrapper {
+    color: $theme-color-special-text;
+}
+
+.footer-logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.organization-logo-container {
+    background-color: white;
+    border-radius: 16px 16px 0 0;
+    box-shadow: 0px -6px 0px 0px $theme-color-logo-border;
+}
+
+.organization-logo {
+    width: 150px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+
+.rd-logo-container {
+    background-color: white;
+    border-radius: 8px;
+    margin-left: 16px;
+    margin: auto auto 16px 16px;
+}
+
+.rd-logo {
+    width: 200px;
+    display: block;
+    margin: auto;
+    padding: 15px;
+}
+
+.sponsors {
+    color: $theme-color-special-text;
+    font-weight: bold;
+    display: flex;
+}
+
+.sponsors-logos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sponsor-logo {
+    display: block;
+    height: 100px;
+    border-radius: 8px;
+}
+
+.full-width-image {
+    width: 100%;
+}
+
+.keynote-speaker {
+    display: block;
+    width: 200px;
+}
+
+@media screen and (max-width: 600px) {
+    .site-logo-container {
+        float: left;
+    }
+}
+
+footer .u-email {
+    font-size: 1.2em;
+    color: $theme-color-special-text;
+}
+
+footer .u-email:hover {
+    color: darken($theme-color-special-text, 10%);
+}
+
+.program td:first-child,
+.program th:first-child {
+    width: 0;
+    white-space: nowrap;
+}
+
+
+@media screen and (min-width: 992px) {
+    .wrapper {
+        max-width: calc(992px - (30px * 2));
+    }
+}
+
+.sponsors-logos {
+    margin-left: 8px;
+    background-color: white;
+    border-radius: 8px;
+}
+
