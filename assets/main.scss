@@ -63,8 +63,8 @@ $theme-color-special-text: darken($theme-color-logo-border, 30%);
 }
 
 main.page-content {
-    background: linear-gradient($theme-color-secondary-semitransparent, $theme-color-terciary-semitransparent)/*,
-                url("{{ site.baseurl }}/assets/images/background-plant-2025-transparent.webp") right bottom/auto 50vh no-repeat,*/
+    background: linear-gradient($theme-color-secondary-semitransparent, $theme-color-terciary-semitransparent),
+                url("{{ site.baseurl }}/assets/images/background-plant-2025-transparent.webp") right bottom/auto 50vh no-repeat,
 }
 
 main.page-content div.wrapper {

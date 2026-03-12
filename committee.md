@@ -4,7 +4,7 @@ title: Committee
 permalink: /committee/
 ---
 
-## Organizing Committee <!--([icrsr@ips.pt](mailto:icrsr@ips.pt))-->
+## Organizing Committee <!--([icrsr2026@ips.pt](mailto:icrsr2026@ips.pt))-->
 
 - Maria Teresa Costa, Polytechnic University of Setúbal (IPS), Portugal (coordination)
 - Anabela Correia, Polytechnic University of Setúbal (IPS), Portugal
