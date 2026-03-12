@@ -4,11 +4,10 @@ title: Committee
 permalink: /committee/
 ---
 
-## Organizing Committee ([icrsr@ips.pt](mailto:icrsr@ips.pt))
+## Organizing Committee <!--([icrsr@ips.pt](mailto:icrsr@ips.pt))-->
 
 - Maria Teresa Costa, Polytechnic University of Setúbal (IPS), Portugal (coordination)
 - Anabela Correia, Polytechnic University of Setúbal (IPS), Portugal
-- Ana Rolo,  Polytechnic University of Setúbal (IPS), Portugal
 - Carlos Mata, Polytechnic University of Setúbal (IPS), Portugal
 - Filipe Severino, Polytechnic University of Setúbal (IPS), Portugal
 - Gabriela Gomes, Polytechnic University of Setúbal (IPS), Portugal
@@ -16,13 +15,14 @@ permalink: /committee/
 - Maria Catarina Paz, Polytechnic University of Setúbal (IPS), Portugal
 - Pedro Albuquerque Santos, Polytechnic University of Setúbal (IPS), Portugal
 - Pedro Pardal, Polytechnic University of Setúbal (IPS), Portugal
+- Pedro Mares, Polytechnic University of Setúbal (IPS), Portugal
 - Susana Galvão, Polytechnic University of Setúbal (IPS), Portugal
 - Telma Guerra, Polytechnic University of Setúbal (IPS), Portugal
 
 ## Scientific Committee
 
 - Maria Teresa Costa, Polytechnic University of Setúbal (IPS), Portugal (coordination)
-- Nelson Carriço, Polytechnic University of Setúbal (IPS), Portugal
+- Nelson Carriço, Lisbon School of Engineering (ISEL), Portugal
 - Alexandra Anderluh, St. Pölten University of Applied Sciences, Austria
 - Alin Artene, Polytechnic University of Timisoara (UPT), Romania
 - Ana Gabriela Gomes, Polytechnic University of Setúbal (IPS), Portugal

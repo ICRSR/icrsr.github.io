@@ -4,12 +4,12 @@
 
 @import "minima";
 
-$theme-color-primary: #12636b;
+$theme-color-primary: #005078;
 
-$theme-color-secondary: lighten(#236f6b, 12.5%);
+$theme-color-secondary: lighten(#005078, 12.5%);
 $theme-color-secondary-semitransparent: rgba($theme-color-secondary, 0.3);
 
-$theme-color-terciary: #90b77b;
+$theme-color-terciary: #8CC88C;
 $theme-color-terciary-semitransparent: rgba($theme-color-terciary, 0.3);
 
 $theme-color-content-background: rgba(white, 0.5);
@@ -63,8 +63,8 @@ $theme-color-special-text: darken($theme-color-logo-border, 30%);
 }
 
 main.page-content {
-    background: linear-gradient($theme-color-secondary-semitransparent, $theme-color-terciary-semitransparent),
-                url("{{ site.baseurl }}/assets/images/background-plant-2025-transparent.webp") right bottom/auto 50vh no-repeat,
+    background: linear-gradient($theme-color-secondary-semitransparent, $theme-color-terciary-semitransparent)/*,
+                url("{{ site.baseurl }}/assets/images/background-plant-2025-transparent.webp") right bottom/auto 50vh no-repeat,*/
 }
 
 main.page-content div.wrapper {

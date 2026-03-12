@@ -3,7 +3,10 @@ layout: page
 title: Attending
 permalink: /attending/
 ---
+*To be announced*
 
+{% comment %}
+<!--
 ## Registration  
 
 | **Type**                           | **Fee**  |  
@@ -94,3 +97,5 @@ We recommend staying in the city center, as it provides easier access to transpo
 - [Hotel Solaris](http://www.solarishotel.pt/)
 
 You can check for more options on specialized websites such as [Booking](https://www.booking.com/city/pt/setubal.html) and [Trivago](https://www.trivago.pt/en-US/odr/hotels-set%C3%BAbal-portugal?search=200-31721)
+-->
+{% endcomment %}

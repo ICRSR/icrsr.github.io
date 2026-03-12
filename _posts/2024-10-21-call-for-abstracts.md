@@ -3,6 +3,7 @@ layout: post
 title:  "Call for Abstracts"
 date:   2024-10-21 10:00:00 +0000
 categories: news
+published: false
 ---
 
 We are thrilled to invite you to the **2nd International Conference on Resilience and Sustainable Regions (ICRSR 2025)**, a hybrid conference hosted by the **Polytechnic Institute of Setúbal (IPS)**, Portugal, taking place on **2-4 of July 2025**. 

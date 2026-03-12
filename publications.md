@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+published: false
 ---
 
 - [Proceedings book of the 2nd International Conference on Resilience

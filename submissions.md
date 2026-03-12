@@ -10,25 +10,27 @@ redirect_from:
 
 |                                       | Date                                                     |
 | ------------------------------------- | -------------------------------------------------------- |
-| Call for Abstracts                    | 28 October 2024                                          |
-| Abstract Submission Deadline          | ~~13 January 2025~~ 28 February 2025                     |
-| Abstract Acceptance Notification      | 30 April 2025                       |
-| Full Paper Submission Deadline        | 16 June 2025                                             |
-| Full Paper Revision Notification      | 5 September 2025 *After the Conference*                  |
+| Abstract Submission Deadline          | 26 June 2026                                             |
+| Abstract Acceptance Notification      | 26 July 2025                                            |
+| Full Paper Submission Deadline        | 16 September 2026                                        |
+| Full Paper Revision Notification      | *To be announced*                                        |
+
 
 ## Instructions
 
 <section id="abstracts" markdown="1">
 
-### [Call for Abstracts]({{ 'news/2024/10/21/call-for-abstracts.html' | relative_url }})
+<!-- ### [Call for Abstracts]({{ 'news/2024/10/21/call-for-abstracts.html' | relative_url }}) -->
 The abstracts should be submitted using the following template: [**Abstract Template**]({{ 'assets/documents/ExtendedAbstract.docx' | relative_url }}){:target="_blank"}. Please follow the instructions presented in the template document and fill it accordingly with your own content.
 
-You should submit your abstract to the following e-mail with the subject ***ICRSR 2025 Abstract Submission***: [**icrsr@ips.pt**](mailto:icrsr@ips.pt?subject=ICRSR 2025 Abstract Submission)
+You should submit your abstract using the following form: [**Abstract Submission Form ICRSR 2026**](https://forms.gle/pcmQb9yXAhRQjLrW9)
 
-For any question related with submissions you can contact [filipe.severino@esce.ips.pt](mailto:filipe.severino@esce.ips.pt) and [gabriela.gomes@estbarreiro.ips.pt](gabriela.gomes@estbarreiro.ips.pt).
+<!-- For any question related with submissions you can contact [icrsr@ips.pt](mailto:icrsr@ips.pt). -->
 
-All accepted abstracts will be published in the **Abstracts Book** of the conference. You will later be able to submit a full paper for publishing in a **Scopus** and **Web of Science** indexed journals associated to the conference.
+All accepted abstracts will be published in the **Abstracts Book** of the conference. You will later be able to submit a full paper for publishing in a **Scopus** and **Web of Science** indexed journals associated to the conference (*To be announced*).
 
+{% comment %}
+<!--
 ### Presentation Template
 All presentations at ICRSR 2025 should use the official template, available here:  
 [**Download ICRSR 2025 PowerPoint Template**]({{ 'assets/documents/ICRSR2025_PresentationTemplate.pptx' | relative_url }}){:target="_blank"}.
@@ -75,8 +77,8 @@ Finisterra is indexed on the following scientific platforms: **Clarivate / Web o
 [![SCImago Journal & Country Rank](https://www.scimagojr.com/journal_img.php?id=28168)](https://www.scimagojr.com/journalsearch.php?q=28168&tip=sid&exact=no)
 
 </section>
-
-
+-->
+{% endcomment %}
 
 {% comment %}
 <!-- <section id="presentations" markdown="1">

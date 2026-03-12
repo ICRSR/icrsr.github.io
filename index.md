@@ -6,9 +6,9 @@ title: Home
 layout: default
 ---
 
-# 2nd International Conference on Resilience and Sustainable Regions
+# 3rd International Conference on Resilience and Sustainable Regions
 
-## 2-4 July 2025
+## 29 and 30 October 2026
 ### Setúbal, Portugal
 
 The **International Conference on Resilience and Sustainable Regions** is an international conference organized by Polytechnic University of Setúbal (IPS) with the participation of several international and national institutions. Institutions from Portugal, as well from [E³UDRES²](https://eudres.eu/) Alliance, [Businet](https://www.businet.org.uk/) and International Business Week Network, joined efforts to reflect, discuss, and share advances and trends on different scientific areas that contribute to the resilience and sustainability of the regions.
@@ -47,7 +47,8 @@ Authors of accepted and registed abstracts are also encouraged to submit a full 
 [More details]({{ 'submissions/#fullpapers' | relative_url }}) -->
 {% endcomment %}
 
-<article id="keynotes" markdown="1">
+{% comment %}
+<!-- <article id="keynotes" markdown="1">
 
 ## Keynotes
 
@@ -139,3 +140,5 @@ You can find more details about the special session by following [this link]({{ 
 </section>
 
 </article>
+-->
+{% endcomment %}

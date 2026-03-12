@@ -211,7 +211,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .site-header .page-link, .footer-heading { color: #252525; font-weight: bold; }
 
-main.page-content { background: linear-gradient(rgba(50, 159, 154, 0.3), rgba(144, 183, 123, 0.3)), url("/assets/images/background-plant-2025-transparent.webp") right bottom/auto 50vh no-repeat; }
+main.page-content { background: linear-gradient(rgba(50, 159, 154, 0.3), rgba(144, 183, 123, 0.3)), url("/2025/assets/images/background-plant-2025-transparent.webp") right bottom/auto 50vh no-repeat; }
 
 main.page-content div.wrapper { background-color: rgba(255, 255, 255, 0.5); border-radius: 10px; padding-top: 20px; padding-bottom: 20px; }
 
