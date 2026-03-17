@@ -25,7 +25,7 @@ The abstracts should be submitted using the following template: [**Abstract Temp
 
 You should submit your abstract using the following form: [**Abstract Submission Form ICRSR 2026**](https://forms.gle/pcmQb9yXAhRQjLrW9)
 
-<!-- For any question related with submissions you can contact [icrsr2026@ips.pt](mailto:icrsr2026@ips.pt). -->
+<!-- For any question related with submissions you can contact [icrsr@ips.pt](mailto:icrsr@ips.pt). -->
 
 All accepted abstracts will be published in the **Abstracts Book** of the conference. You will later be able to submit a full paper for publishing in a **Scopus** and **Web of Science** indexed journals associated to the conference (*To be announced*).
 

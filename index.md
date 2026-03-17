@@ -11,9 +11,9 @@ layout: default
 ## 29 and 30 October 2026
 ### Setúbal, Portugal
 
-The **International Conference on Resilience and Sustainable Regions** is an international conference organized by Polytechnic University of Setúbal (IPS) with the participation of several international and national institutions. Institutions from Portugal, as well from [E³UDRES²](https://eudres.eu/) Alliance, [Businet](https://www.businet.org.uk/) and International Business Week Network, joined efforts to reflect, discuss, and share advances and trends on different scientific areas that contribute to the resilience and sustainability of the regions.
+The **International Conference on Resilience and Sustainable Regions** provides an international forum for reflection, dialogue, and collaboration on the future of territories. Bringing together regional and global perspectives, the conference is organised by institutions from Portugal in partnership with the [E³UDRES²](https://eudres.eu/) Alliance, [Businet](https://www.businet.org.uk/), and the International Business Week Network.
 
-The conference focuses on exploring and reinforcing the relationship between management and the different areas of technology and engineering to stimulate the development and sustainability of the regions.
+In a context shaped by profound economic, social, environmental, and technological transformations, entrepreneurship, innovation, applied technologies, and sustainability play a key role in strengthening regional resilience, fostering collaboration between academia, institutions, and communities. Inspired by the core pillars of E³UDRES², the conference promotes a multidisciplinary approach to regional development, strengthening connections between knowledge, institutions, and society.
  
 With a multidisciplinary approach it is expected that this conference will be attend by participants from more than 15 countries and attracts an interesting public combining academic scholars, practitioners and individuals who are engaged in the topics of:
 - Resilient Economy, Entrepreneurship and Innovation
