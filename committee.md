@@ -9,10 +9,13 @@ permalink: /committee/
 - Maria Teresa Costa, Polytechnic University of Setúbal (IPS), Portugal (coordination)
 - Anabela Correia, Polytechnic University of Setúbal (IPS), Portugal
 - Carlos Mata, Polytechnic University of Setúbal (IPS), Portugal
+- Fernando Miguel Seabra, Lisbon Accounting and Business School (ISCAL), Portugal
 - Filipe Severino, Polytechnic University of Setúbal (IPS), Portugal
 - Gabriela Gomes, Polytechnic University of Setúbal (IPS), Portugal
 - Helena Martins, Polytechnic University of Setúbal (IPS), Portugal
+- Júlia Seixas, NOVA University Lisbon (NOVA), Portugal
 - Maria Catarina Paz, Polytechnic University of Setúbal (IPS), Portugal
+- Maria Isabel Sanchez Hernandez, University of Extremadura, Spain
 - Pedro Albuquerque Santos, Polytechnic University of Setúbal (IPS), Portugal
 - Pedro Pardal, Polytechnic University of Setúbal (IPS), Portugal
 - Pedro Mares, Polytechnic University of Setúbal (IPS), Portugal

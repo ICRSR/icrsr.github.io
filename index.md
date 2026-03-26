@@ -11,7 +11,7 @@ layout: default
 ## 29 and 30 October 2026
 ### Setúbal, Portugal
 
-The **International Conference on Resilience and Sustainable Regions** provides an international forum for reflection, dialogue, and collaboration on the future of territories. Bringing together regional and global perspectives, the conference is organised by institutions from Portugal in partnership with the [E³UDRES²](https://eudres.eu/) Alliance, [Businet](https://www.businet.org.uk/), and the International Business Week Network.
+The **International Conference on Resilience and Sustainable Regions** provides an international forum for reflection, dialogue, and collaboration on the future of territories. Bringing together regional and global perspectives, the conference is organised by institutions from Portugal in partnership with [Businet](https://www.businet.org.uk/), [CIEQV](https://www.cieqv.pt/), [CITUR](http://citur-tourismresearch.com/), the [E³UDRES²](https://eudres.eu/) Alliance, [FORGES](https://aforges.org/), the [International Business Week Network](https://www.internationalbusinessweek.com/), and [MARE](https://www.mare-centre.pt/).
 
 In a context shaped by profound economic, social, environmental, and technological transformations, entrepreneurship, innovation, applied technologies, and sustainability play a key role in strengthening regional resilience, fostering collaboration between academia, institutions, and communities. Inspired by the core pillars of E³UDRES², the conference promotes a multidisciplinary approach to regional development, strengthening connections between knowledge, institutions, and society.
  
