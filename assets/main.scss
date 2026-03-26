@@ -81,13 +81,13 @@ main.page-content div.wrapper {
 .footer-logos {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    // justify-content: space-between;
     align-items: end;
 }
 
 .organization-logo-container {
     background-color: white;
-    border-radius: 16px 16px 0 0;
+    border-radius: 16px 16px 8px 8px;
     box-shadow: 0px -6px 0px 0px $theme-color-logo-border;
 }
 
@@ -98,35 +98,42 @@ main.page-content div.wrapper {
     padding: 20px;
 }
 
-.rd-logo-container {
-    background-color: white;
-    border-radius: 8px;
-    margin-left: 16px;
-    margin: auto auto 16px 16px;
-}
-
-.rd-logo {
-    width: 200px;
-    display: block;
-    margin: auto;
-    padding: 15px;
-}
-
-.sponsors {
+.sponsors,
+.partners {
     color: $theme-color-special-text;
     font-weight: bold;
-    display: flex;
-}
-
-.sponsors-logos {
     display: flex;
     flex-wrap: wrap;
 }
 
-.sponsor-logo {
+.sponsors-logos,
+.partners-logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.sponsor-logo, 
+.partner-logo {
     display: block;
-    height: 100px;
+    height: 60px;
     border-radius: 8px;
+}
+
+.sponsors-logo-container,
+.partner-logo-container {
+    border-radius: 8px;
+    background-color: white;
+    padding: 4px;
+    margin: 4px;
+}
+
+.organization-text,
+.sponsors-text,
+.partners-text {
+    font-weight: bold;
+    color: $theme-color-special-text;
+    flex: 1 1 100%;
 }
 
 .full-width-image {
@@ -165,10 +172,3 @@ footer .u-email:hover {
         max-width: calc(992px - (30px * 2));
     }
 }
-
-.sponsors-logos {
-    margin-left: 8px;
-    background-color: white;
-    border-radius: 8px;
-}
-
