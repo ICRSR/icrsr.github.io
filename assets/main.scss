@@ -4,18 +4,30 @@
 @import "minima";
 
 // ==========================================================================
-// 1. Variables
+// 1. Theme Variables
 // ==========================================================================
-$theme-color-primary: #005078;
-$theme-color-secondary: lighten(#005078, 12.5%);
-$theme-color-secondary-semitransparent: rgba($theme-color-secondary, 0.3);
+// Main Banner Colors
+$theme-color-primary: #0b5452;   // Dark Teal
+$theme-color-secondary: #21592c; // Deep Forest Green
+$theme-color-terciary: #c8d67c;  // Bright Lime Highlight
 
-$theme-color-terciary: #8CC88C; 
-$theme-color-terciary-semitransparent: rgba($theme-color-terciary, 0.3);
+// Opacity Variants for Main Background
+$theme-color-secondary-semitransparent: rgba($theme-color-secondary, 0.6);
+$theme-color-terciary-semitransparent: rgba($theme-color-terciary, 0.6);
 
-$theme-color-content-background: rgba(white, 0.65);
+// Content Box & Text
+$theme-color-content-background: rgba(white, 0.6);
 $theme-color-logo-border: #717171;
 $theme-color-special-text: darken($theme-color-logo-border, 30%);
+
+// Footer Specific Gradient Colors
+$footer-gradient-left: #1d6166;
+$footer-gradient-mid: #499482;
+$footer-gradient-right: #1a4f43;
+
+// Reusable Effects
+$text-shadow-3d: 1px 2px 2px rgba(0, 0, 0, 0.4), 0px 4px 10px rgba(0, 0, 0, 0.3);
+$text-shadow-3d-strong: 1px 2px 3px rgba(0, 0, 0, 0.6), 0px 4px 12px rgba(0, 0, 0, 0.4);
 
 
 // ==========================================================================
@@ -25,7 +37,6 @@ $theme-color-special-text: darken($theme-color-logo-border, 30%);
     width: 100%;
 }
 
-// Custom Jekyll wrapper that contains the main content areas
 .wrapper {
     @media screen and (min-width: 992px) {
         max-width: calc(992px - (30px * 2));
@@ -34,54 +45,67 @@ $theme-color-special-text: darken($theme-color-logo-border, 30%);
 
 
 // ==========================================================================
-// 3. Header & Navigation (Bootstrap Overrides)
+// 3. Header & Navigation Components
 // ==========================================================================
 .site-header {
     border: 0;
-    background: linear-gradient($theme-color-primary, $theme-color-secondary);
+    // 3-stop gradient mimicking the banner lighting
+    background: linear-gradient(90deg, $theme-color-primary 0%, $theme-color-terciary 50%, $theme-color-secondary 100%);
 
-    // Targets the main <a> tag containing the conference name
+    // --- Header Title ---
     .site-title {
-        font-weight: bold;
+        font-weight: 700;
         color: white !important;
-        font-size: 24px;
+        line-height: 1.1;
+        display: inline-block;
+        padding: 15px 0;
+        text-shadow: $text-shadow-3d;
+
+        .title-small {
+            font-weight: 400;
+            font-size: 0.8em;
+            display: block;
+            margin-bottom: 2px;
+        }
     }
 
-    // Default Minima page links (kept for Jekyll fallback)
+    // --- Fallback Links ---
     .page-link {
-        color: $theme-color-special-text;
+        color: white; 
         font-weight: bold;
     }
-}
 
-// Targets the Bootstrap Navbar area specifically
-#site-nav {
-    .nav-link:visited {
-        color: white;
+    // --- Bootstrap Nav Integration ---
+    #site-nav {
+        .nav-link {
+            color: white !important;
+            text-shadow: $text-shadow-3d-strong;
+
+            &:visited {
+                color: rgb(240, 240, 240) !important;
+            }
+        }
     }
-}
 
-// The floating white tab that contains the conference logo
-.site-logo-container {
-    float: right;
-    width: 140px;
-    height: 120px;
-    background-color: white;
-    
-    // Rounds only the bottom corners to look like a hanging tab
-    border-radius: 0 0 20px 20px; 
-    box-shadow: 0px 7px 0px 0px $theme-color-logo-border;
+    // --- Floating Logo Tab ---
+    .site-logo-container {
+        float: right;
+        width: 140px;
+        height: 120px;
+        background-color: white;
+        border-radius: 0 0 20px 20px; 
+        box-shadow: 0px 7px 0px 0px $theme-color-logo-border;
 
-    // Moves the logo to the left on mobile so it doesn't overlap text awkwardly
-    @media screen and (max-width: 600px) {
-        float: left;
-    }
-} 
+        @media screen and (max-width: 600px) {
+            float: left;
+        }
 
-.site-logo {
-    display: block;
-    margin: auto; // Centers the SVG inside the container
-    padding: 12px;
+        .site-logo {
+            display: block;
+            margin: auto;
+            padding: 12px;
+        }
+    } 
 }
 
 
@@ -92,147 +116,150 @@ main.page-content {
     position: relative;
     z-index: 1; 
     
-    // The main gradient background for the body area
+    // Base solid gradient acting as the ultimate background layer
     background: linear-gradient($theme-color-secondary-semitransparent, $theme-color-terciary-semitransparent);
 
-    // The pseudo-element holding the 2026 background image
+    // The image overlay layer
     &::before {
         content: "";
         position: absolute;
+        
+        // CRITICAL FIX: "inset: 0" perfectly locks this background layer 
+        // to the edges of the <main> element. It cannot overflow into the footer.
         inset: 0; 
         z-index: -1; 
-        opacity: 0.6; // Image transparency
+        opacity: 0.6; 
         
-        background: url("{{ site.baseurl }}/assets/images/background-2026-transparent.webp") right bottom/auto 40vh no-repeat;
+        // Background Image Styling
+        background-image: url("{{ site.baseurl }}/assets/images/background-2026-extended.webp");
+        background-position: top center;
+        background-repeat: no-repeat; 
+        background-size: cover; 
         
-        // Fades the image out towards the top and left using an intersecting mask
-        -webkit-mask-image: linear-gradient(to right, transparent, black),
-                            linear-gradient(to bottom, transparent, black);
-        mask-image: linear-gradient(to right, transparent, black),
-                    linear-gradient(to bottom, transparent, black);
-        
-        -webkit-mask-composite: source-in; 
-        mask-composite: intersect;         
+        // CRITICAL FIX: The calc() function ensures the fade starts exactly 150px from the bottom 
+        // of the container, regardless of how long or short the page text is.
+        -webkit-mask-image: linear-gradient(to bottom, black calc(100% - 150px), transparent 100%);
+        mask-image: linear-gradient(to bottom, black calc(100% - 150px), transparent 100%);
     }
 
-    // The inner container where the actual Markdown/HTML text goes
+    // --- Inner Content Box ---
     div.wrapper {
-        background-color: $theme-color-content-background; // Semi-transparent white box
+        background-color: $theme-color-content-background;
         border-radius: 10px;
-        padding-top: 20px;
-        padding-bottom: 20px;
+        padding: 30px; 
+        margin: 40px auto; 
     }
 }
 
 
 // ==========================================================================
-// 5. Footer Area
+// 5. Footer Area & Sponsor Components
 // ==========================================================================
 .site-footer {
     border: 0;
-    // Creates a sharp color stop at 33.33% to transition between secondary and primary
-    background: linear-gradient($theme-color-secondary 33.33%, $theme-color-primary);
     padding-bottom: 0;
 
-    // Nesting these classes inside .site-footer ensures they only apply here
-    .footer-heading {
-        color: $theme-color-special-text;
+    // Mobile: Gradient Only
+    background: linear-gradient(90deg, $footer-gradient-left 0%, $footer-gradient-mid 50%, $footer-gradient-right 100%);
+
+    // Desktop: Image + Gradient Fallback
+    @media screen and (min-width: 601px) {
+        background: url("{{ site.baseurl }}/assets/images/footer-2026.webp") right 0 no-repeat,
+                    linear-gradient(90deg, $footer-gradient-left 0%, $footer-gradient-mid 50%, $footer-gradient-right 100%);
+    }
+
+    // --- Basic Footer Text ---
+    .footer-heading, 
+    .footer-col-wrapper, 
+    .u-email,
+    .organization-text, 
+    .sponsors-text, 
+    .partners-text {
+        color: white; 
+    }
+    
+    .text-highlight {
+        color: $theme-color-terciary;
         font-weight: bold;
     }
 
-    .footer-col-wrapper {
-        color: $theme-color-special-text;
-    }
-
-    // Targets the email link inside the first footer column
     .u-email {
         font-size: 1.2em;
-        color: $theme-color-special-text;
-
         &:hover {
-            color: darken($theme-color-special-text, 10%);
+            color: $theme-color-terciary;
+        }
+    }
+
+    // --- Complex Footer Logos Section ---
+    .footer-logos {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-end;
+
+        // Shared Heading Styles for grid sections
+        .organization-text, 
+        .sponsors-text, 
+        .partners-text {
+            font-weight: bold;
+            padding-bottom: 4px;
+            flex: 1 1 100%; 
+        }
+
+        // Main Organization Box
+        .organization-logo-container {
+            background-color: white;
+            border-radius: 16px 16px 8px 8px;
+            box-shadow: 0px -6px 0px 0px $theme-color-logo-border;
+
+            .organization-logo {
+                width: 150px;
+                display: block;
+                margin: auto;
+                padding: 20px;
+            }
+        }
+
+        // Sponsors & Partners Shared Structure
+        .sponsors, 
+        .partners {
+            font-weight: bold;
+            display: flex;
+            flex-wrap: wrap;
+            
+            .sponsors-logos, 
+            .partners-logos {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+
+            // Individual Logo White Boxes
+            .sponsors-logo-container, 
+            .partner-logo-container {
+                border-radius: 8px;
+                background-color: white;
+                padding: 4px;
+                margin: 4px;
+
+                .sponsor-logo, 
+                .partner-logo {
+                    display: block;
+                    height: 48px;
+                    border-radius: 8px;
+                }
+            }
         }
     }
 }
 
 
 // ==========================================================================
-// 6. Component Classes (Logos, Sponsors, Tables)
+// 6. Independent Utility Classes
 // ==========================================================================
-
-// --- Footer Logo Grids ---
-.footer-logos {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: end; // Aligns all the different sized logos to the bottom baseline
-}
-
-// The main organizer (IPS) logo styling with an upward shadow
-.organization-logo-container {
-    background-color: white;
-    border-radius: 16px 16px 8px 8px;
-    box-shadow: 0px -6px 0px 0px $theme-color-logo-border;
-}
-
-.organization-logo {
-    width: 150px;
-    display: block;
-    margin: auto;
-    padding: 20px;
-}
-
-// --- Sponsors & Partners Grids ---
-.sponsors,
-.partners {
-    color: $theme-color-special-text;
-    font-weight: bold;
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.sponsors-logos,
-.partners-logos {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center; // Keeps the grid of small logos centered
-}
-
-.sponsors-logo-container,
-.partner-logo-container {
-    border-radius: 8px;
-    background-color: white;
-    padding: 4px;
-    margin: 4px;
-}
-
-.sponsor-logo, 
-.partner-logo {
-    display: block;
-    height: 60px; // Forces all partner logos to have uniform height
-    border-radius: 8px;
-}
-
-// Forces headings to take up 100% of the row, pushing logos down
-.organization-text,
-.sponsors-text,
-.partners-text {
-    font-weight: bold;
-    color: $theme-color-special-text;
-    padding-bottom: 4px;
-    flex: 1 1 100%; 
-}
-
-// --- Specific Content Components ---
 .program {
-    // Ensures the time/date column in the program table shrinks to fit the text exactly
-    td:first-child,
+    td:first-child, 
     th:first-child {
         width: 0;
         white-space: nowrap; 
     }
-}
-
-.keynote-speaker {
-    display: block;
-    width: 200px;
 }
