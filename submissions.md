@@ -23,9 +23,9 @@ redirect_from:
 <!-- ### [Call for Abstracts]({{ 'news/2024/10/21/call-for-abstracts.html' | relative_url }}) -->
 The abstracts should be submitted using the following template: [**Abstract Template**]({{ 'assets/documents/ExtendedAbstract.docx' | relative_url }}){:target="_blank"}. Please follow the instructions presented in the template document and fill it accordingly with your own content.
 
-You should submit your abstract using the following form: [**Abstract Submission Form ICRSR 2026**](https://forms.gle/pcmQb9yXAhRQjLrW9)
+You should submit your abstract using the following form: [**Abstract Submission Form ICRSR 2026**](https://forms.gle/EVbEtMgVP1sKkTSx9)
 
-<!-- For any question related with submissions you can contact [icrsr@ips.pt](mailto:icrsr@ips.pt). -->
+For any question related with submissions you can contact [ICSRS2026@esce.ips.pt](mailto:ICSRS2026@esce.ips.pt).
 
 All accepted abstracts will be published in the **Abstracts Book** of the conference. You will later be able to submit a full paper for publishing in a **Scopus** and **Web of Science** indexed journals associated to the conference (*To be announced*).
 

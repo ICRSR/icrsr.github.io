@@ -1,93 +1,176 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Only the main Sass file needs front matter for Jekyll
 ---
-
 @import "minima";
 
+// ==========================================================================
+// 1. Variables
+// ==========================================================================
 $theme-color-primary: #005078;
-
 $theme-color-secondary: lighten(#005078, 12.5%);
 $theme-color-secondary-semitransparent: rgba($theme-color-secondary, 0.3);
 
-$theme-color-terciary: #8CC88C;
+$theme-color-terciary: #8CC88C; 
 $theme-color-terciary-semitransparent: rgba($theme-color-terciary, 0.3);
 
-$theme-color-content-background: rgba(white, 0.5);
-
+$theme-color-content-background: rgba(white, 0.65);
 $theme-color-logo-border: #717171;
 $theme-color-special-text: darken($theme-color-logo-border, 30%);
 
+
+// ==========================================================================
+// 2. Global & Layout 
+// ==========================================================================
+.full-width-image {
+    width: 100%;
+}
+
+// Custom Jekyll wrapper that contains the main content areas
+.wrapper {
+    @media screen and (min-width: 992px) {
+        max-width: calc(992px - (30px * 2));
+    }
+}
+
+
+// ==========================================================================
+// 3. Header & Navigation (Bootstrap Overrides)
+// ==========================================================================
+.site-header {
+    border: 0;
+    background: linear-gradient($theme-color-primary, $theme-color-secondary);
+
+    // Targets the main <a> tag containing the conference name
+    .site-title {
+        font-weight: bold;
+        color: white !important;
+        font-size: 24px;
+    }
+
+    // Default Minima page links (kept for Jekyll fallback)
+    .page-link {
+        color: $theme-color-special-text;
+        font-weight: bold;
+    }
+}
+
+// Targets the Bootstrap Navbar area specifically
+#site-nav {
+    .nav-link:visited {
+        color: white;
+    }
+}
+
+// The floating white tab that contains the conference logo
 .site-logo-container {
     float: right;
     width: 140px;
     height: 120px;
     background-color: white;
-    border-radius: 0 0 20px 20px;
+    
+    // Rounds only the bottom corners to look like a hanging tab
+    border-radius: 0 0 20px 20px; 
     box-shadow: 0px 7px 0px 0px $theme-color-logo-border;
-} 
 
-#site-nav .nav-link:visited {
-    color: white;
-}
+    // Moves the logo to the left on mobile so it doesn't overlap text awkwardly
+    @media screen and (max-width: 600px) {
+        float: left;
+    }
+} 
 
 .site-logo {
     display: block;
-    margin: auto;
+    margin: auto; // Centers the SVG inside the container
     padding: 12px;
 }
 
-.site-header,
+
+// ==========================================================================
+// 4. Main Content Area & Background Masking
+// ==========================================================================
+main.page-content {
+    position: relative;
+    z-index: 1; 
+    
+    // The main gradient background for the body area
+    background: linear-gradient($theme-color-secondary-semitransparent, $theme-color-terciary-semitransparent);
+
+    // The pseudo-element holding the 2026 background image
+    &::before {
+        content: "";
+        position: absolute;
+        inset: 0; 
+        z-index: -1; 
+        opacity: 0.6; // Image transparency
+        
+        background: url("{{ site.baseurl }}/assets/images/background-2026-transparent.webp") right bottom/auto 40vh no-repeat;
+        
+        // Fades the image out towards the top and left using an intersecting mask
+        -webkit-mask-image: linear-gradient(to right, transparent, black),
+                            linear-gradient(to bottom, transparent, black);
+        mask-image: linear-gradient(to right, transparent, black),
+                    linear-gradient(to bottom, transparent, black);
+        
+        -webkit-mask-composite: source-in; 
+        mask-composite: intersect;         
+    }
+
+    // The inner container where the actual Markdown/HTML text goes
+    div.wrapper {
+        background-color: $theme-color-content-background; // Semi-transparent white box
+        border-radius: 10px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+
+
+// ==========================================================================
+// 5. Footer Area
+// ==========================================================================
 .site-footer {
     border: 0;
-}
-
-.site-header {
-    background: linear-gradient($theme-color-primary, $theme-color-secondary);
-}
-
-.site-footer {
+    // Creates a sharp color stop at 33.33% to transition between secondary and primary
     background: linear-gradient($theme-color-secondary 33.33%, $theme-color-primary);
     padding-bottom: 0;
+
+    // Nesting these classes inside .site-footer ensures they only apply here
+    .footer-heading {
+        color: $theme-color-special-text;
+        font-weight: bold;
+    }
+
+    .footer-col-wrapper {
+        color: $theme-color-special-text;
+    }
+
+    // Targets the email link inside the first footer column
+    .u-email {
+        font-size: 1.2em;
+        color: $theme-color-special-text;
+
+        &:hover {
+            color: darken($theme-color-special-text, 10%);
+        }
+    }
 }
 
-.site-header .site-title {
-    font-weight: bold;
-    color: white !important;
-    font-size: 24px;
-}
 
-.site-header .page-link,
-.footer-heading {
-    color: $theme-color-special-text;
-    font-weight: bold;
-}
+// ==========================================================================
+// 6. Component Classes (Logos, Sponsors, Tables)
+// ==========================================================================
 
-main.page-content {
-    background: linear-gradient($theme-color-secondary-semitransparent, $theme-color-terciary-semitransparent),
-                url("{{ site.baseurl }}/assets/images/background-plant-2025-transparent.webp") right bottom/auto 50vh no-repeat,
-}
-
-main.page-content div.wrapper {
-    background-color: $theme-color-content-background;
-    border-radius: 10px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
-.footer-col-wrapper {
-    color: $theme-color-special-text;
-}
-
+// --- Footer Logo Grids ---
 .footer-logos {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: end;
+    align-items: end; // Aligns all the different sized logos to the bottom baseline
 }
 
+// The main organizer (IPS) logo styling with an upward shadow
 .organization-logo-container {
     background-color: white;
-    border-radius: 16px 16px 0 0;
+    border-radius: 16px 16px 8px 8px;
     box-shadow: 0px -6px 0px 0px $theme-color-logo-border;
 }
 
@@ -98,77 +181,58 @@ main.page-content div.wrapper {
     padding: 20px;
 }
 
-.rd-logo-container {
-    background-color: white;
-    border-radius: 8px;
-    margin-left: 16px;
-    margin: auto auto 16px 16px;
-}
-
-.rd-logo {
-    width: 200px;
-    display: block;
-    margin: auto;
-    padding: 15px;
-}
-
-.sponsors {
+// --- Sponsors & Partners Grids ---
+.sponsors,
+.partners {
     color: $theme-color-special-text;
     font-weight: bold;
-    display: flex;
-}
-
-.sponsors-logos {
     display: flex;
     flex-wrap: wrap;
 }
 
-.sponsor-logo {
+.sponsors-logos,
+.partners-logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; // Keeps the grid of small logos centered
+}
+
+.sponsors-logo-container,
+.partner-logo-container {
+    border-radius: 8px;
+    background-color: white;
+    padding: 4px;
+    margin: 4px;
+}
+
+.sponsor-logo, 
+.partner-logo {
     display: block;
-    height: 100px;
+    height: 60px; // Forces all partner logos to have uniform height
     border-radius: 8px;
 }
 
-.full-width-image {
-    width: 100%;
+// Forces headings to take up 100% of the row, pushing logos down
+.organization-text,
+.sponsors-text,
+.partners-text {
+    font-weight: bold;
+    color: $theme-color-special-text;
+    padding-bottom: 4px;
+    flex: 1 1 100%; 
+}
+
+// --- Specific Content Components ---
+.program {
+    // Ensures the time/date column in the program table shrinks to fit the text exactly
+    td:first-child,
+    th:first-child {
+        width: 0;
+        white-space: nowrap; 
+    }
 }
 
 .keynote-speaker {
     display: block;
     width: 200px;
 }
-
-@media screen and (max-width: 600px) {
-    .site-logo-container {
-        float: left;
-    }
-}
-
-footer .u-email {
-    font-size: 1.2em;
-    color: $theme-color-special-text;
-}
-
-footer .u-email:hover {
-    color: darken($theme-color-special-text, 10%);
-}
-
-.program td:first-child,
-.program th:first-child {
-    width: 0;
-    white-space: nowrap;
-}
-
-
-@media screen and (min-width: 992px) {
-    .wrapper {
-        max-width: calc(992px - (30px * 2));
-    }
-}
-
-.sponsors-logos {
-    margin-left: 8px;
-    background-color: white;
-    border-radius: 8px;
-}
-
