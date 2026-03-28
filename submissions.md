@@ -11,9 +11,10 @@ redirect_from:
 |                                       | Date                                                     |
 | ------------------------------------- | -------------------------------------------------------- |
 | Abstract Submission Deadline          | 26 June 2026                                             |
-| Abstract Acceptance Notification      | 26 July 2026                                            |
-| Full Paper Submission Deadline        | 16 September 2026                                        |
-| Full Paper Revision Notification      | *To be announced*                                        |
+| Abstract Acceptance Notification      | 26 July 2026                                             |
+| Conference Dates                      | 29-30 October 2026                                       |
+| Post-Conference Full Paper Submission | 30 November 2026                                         |
+| Full Paper Acceptance Notification    | 31 January 2027                                          |
 
 
 ## Instructions
@@ -25,7 +26,7 @@ The abstracts should be submitted using the following template: [**Abstract Temp
 
 You should submit your abstract using the following form: [**Abstract Submission Form ICRSR 2026**](https://forms.gle/EVbEtMgVP1sKkTSx9)
 
-For any question related with submissions you can contact [ICSRS2026@esce.ips.pt](mailto:ICSRS2026@esce.ips.pt).
+For any question related with submissions you can contact **[ICSRS2026@esce.ips.pt](mailto:ICSRS2026@esce.ips.pt)**.
 
 All accepted abstracts will be published in the **Abstracts Book** of the conference. You will later be able to submit a full paper for publishing in a **Scopus** and **Web of Science** indexed journals associated to the conference (*To be announced*).
 

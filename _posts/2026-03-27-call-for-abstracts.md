@@ -38,7 +38,7 @@ In addition to submissions on our main themes, we are thrilled to invite abstrac
 13. Innovation, Digitalisation and Smart Solutions in Tourism and Hospitality
 14. Hospitality Management, Consumer Behaviour and Sustainable Practices
 
-*Are you interested in leading the conversation?* Participants wishing to organize special sessions with a fast-track option are encouraged to reach out directly to: **teresa.costa@esce.ips.pt**
+*Are you interested in leading the conversation?* Participants wishing to organize special sessions with a fast-track option are encouraged to reach out directly to: **[teresa.costa@esce.ips.pt](mailto:teresa.costa@esce.ips.pt)**
 
 ### Publication Opportunities
 
