@@ -4,261 +4,401 @@
 @import "minima";
 
 // ==========================================================================
-// 1. Theme Variables
+// 1. Theme Variables & Design Tokens
 // ==========================================================================
+// Central repository for all design values. Changing a value here propagates
+// throughout every component, guaranteeing visual consistency across the
+// entire site without hunting through individual selectors.
 
-// --- Brand Colors (Sampled from Banner Image) ---
-$color-primary-teal:   #0b5452; // Left anchor for gradients
-$color-secondary-green:#21592c; // Right anchor for gradients
-$color-tertiary-lime:  #c8d67c; // Accent/Highlight color
+// --- Responsive Breakpoints ---
+// $bp-mobile-max  : largest viewport width treated as "mobile" layout.
+// $bp-desktop-min : smallest viewport width treated as "desktop" layout
+//                   (the footer swaps to its textured background image here).
+// $bp-wide-min    : triggers a narrower max-width on .wrapper so that lines
+//                   of text stay at a comfortable reading length on wide screens.
+$bp-mobile-max:  600px;
+$bp-desktop-min: 601px;
+$bp-wide-min:    992px;
 
-// --- UI & Content Box Colors ---
-$color-content-bg:   rgba(#fff, 0.7); // Semi-transparent white to reveal background texture
-$color-logo-shadow:  #717171;         // Base gray for flat drop shadows
-$color-text-dark:    darken($color-logo-shadow, 30%); // High-contrast dark text
+// --- Brand Colours (Sampled from the Conference Banner Image) ---
+// These three colours were eye-dropped from the conference banner graphic.
+// They drive every gradient on the page.
+$color-primary-teal:    #0b5452; // Dark teal   — left anchor of the header gradient
+$color-secondary-green: #21592c; // Forest green — right anchor of the header gradient
+$color-tertiary-lime:   #c8d67c; // Lime yellow — bright accent / highlight colour
 
-// --- Footer Specific Gradients (Sampled from footer-2026.webp) ---
-$color-footer-margins: #1d6166; // Darker teal used on outer edges
-$color-footer-center:  #499482; // Lighter green for the center ambient glow
+// --- Neutral Colours ---
+// Extracted so that every rgba() call and shadow references the same tokens
+// instead of scattering bare #fff / #000 literals throughout the file.
+$color-white: #fff;
+$color-black: #000;
+
+// --- UI & Surface Colours ---
+// Controls the appearance of elevated panels and container boxes.
+$color-content-bg:  rgba($color-white, 0.5); // Translucent white for the frosted content panel
+$color-logo-shadow: #717171;                 // Mid-gray for flat, hard drop-shadows on logo tabs
+$color-text-dark:   darken($color-logo-shadow, 30%); // High-contrast dark for body text
+
+// --- Footer Palette (Sampled from footer-2026-extended.webp) ---
+// Two-tone teal that mirrors the leafy footer texture image.
+$color-footer-margins: #1d6166; // Darker teal used on the outer edges
+$color-footer-center:  #499482; // Lighter green for the central ambient glow
+
+// --- Footer Gradient (reused on mobile and as desktop fallback) ---
+// Extracted into a variable because it appears twice: once as the mobile-only
+// background, and once as the fallback layer behind the desktop texture image.
+$gradient-footer: linear-gradient(
+    90deg,
+    $color-footer-margins 0%,
+    $color-footer-center  50%,
+    $color-footer-margins 100%
+);
 
 // --- Reusable Typography Shadows ---
-// Combines a tight inner shadow for crisp edges with a broad outer shadow for a 3D lift.
-$shadow-3d-text:        1px 2px 2px rgba(#000, 0.4), 0px 4px 10px rgba(#000, 0.3);
-$shadow-3d-text-strong: 1px 2px 3px rgba(#000, 0.6), 0px 4px 12px rgba(#000, 0.4);
+// Each declaration stacks two layers:
+//   1. A tight, dark inner shadow that sharpens letter edges.
+//   2. A broad, softer outer shadow that lifts the text off the background.
+$shadow-3d-text:        1px 2px 2px rgba($color-black, 0.4),
+                        0   4px 10px rgba($color-black, 0.3);
+$shadow-3d-text-strong: 1px 2px 3px rgba($color-black, 0.6),
+                        0   4px 12px rgba($color-black, 0.4);
+
+// --- Shared Border Radii ---
+// Consistent rounding values used across cards, tiles, and panels.
+$radius-sm: 8px;  // Small tiles (partner / sponsor logo cards)
+$radius-md: 10px; // Medium surfaces (frosted content panel)
+$radius-lg: 20px; // Large surfaces (hanging logo tab's bottom edge)
 
 
 // ==========================================================================
-// 2. Global & Layout Constraints
+// 2. Reusable Placeholder Selectors
 // ==========================================================================
-.full-width-image {
-    width: 100%; // Prevents large images from breaking container boundaries
+// Sass placeholder selectors (%) are "silent" rules that produce no CSS on
+// their own. They only emit output when @extend-ed by a concrete selector,
+// which avoids duplicating identical property blocks in the compiled CSS.
+
+// Shared white-card base used by every logo container in the header and
+// footer (header tab, organiser card, sponsor tiles, partner tiles).
+%white-box {
+    background-color: $color-white;
+    border-radius: $radius-sm;
 }
 
-// Custom wrapper logic to restrict maximum line length on large desktop screens,
-// greatly improving reading comprehension for long articles.
+// Common pattern for logos displayed inside white-box containers.
+// `display: block` + `margin: auto` horizontally centres the <img>.
+%centered-logo {
+    display: block;
+    margin: auto;
+}
+
+// Flexbox row that wraps its children. Used by the footer logo grid and
+// its nested sponsor / partner clusters.
+%flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+// ==========================================================================
+// 3. Global & Layout Constraints
+// ==========================================================================
+
+// Forces oversized images (campus maps, photos) to respect their parent
+// container width instead of overflowing horizontally.
+.full-width-image {
+    width: 100%;
+}
+
+// Restricts maximum line length on wide desktop screens so that paragraphs
+// remain easy to scan — lines longer than ~80-100 characters reduce readability.
 .wrapper {
-    @media screen and (min-width: 992px) {
-        max-width: calc(992px - 60px); 
+    @media screen and (min-width: $bp-wide-min) {
+        max-width: calc(#{$bp-wide-min} - 60px);
     }
 }
 
 
 // ==========================================================================
-// 3. Header & Navigation Components
+// 4. Header & Navigation Components
 // ==========================================================================
+// The header contains three visual layers stacked vertically:
+//   1. A 3-stop colour gradient background spanning the full page width.
+//   2. The conference title + a hanging logo tab (first .wrapper row).
+//   3. A Bootstrap 5 collapsible navbar (second .wrapper row).
+
 .site-header {
-    border: 0; 
-    
-    // 3-stop gradient mimicking dynamic directional lighting
-    background: linear-gradient(90deg, $color-primary-teal 0%, $color-tertiary-lime 50%, $color-secondary-green 100%);
+    border: 0; // Removes Minima's default 1px bottom border
+
+    // Full-width gradient: teal → lime → green (left to right).
+    // Mimics dynamic directional lighting across the header band.
+    background: linear-gradient(
+        90deg,
+        $color-primary-teal    0%,
+        $color-tertiary-lime   50%,
+        $color-secondary-green 100%
+    );
 
     // --- Main Conference Title ---
+    // White bold text with a 3-D shadow that lifts it off the colourful
+    // gradient. Line-height is tightened for a compact visual block.
     .site-title {
-        font-weight: 700;
-        color: #fff !important; 
-        line-height: 1.1; 
         display: inline-block;
         padding: 15px 0;
-        text-shadow: $shadow-3d-text; 
+        font-weight: 700;
+        line-height: 1.1;
+        color: $color-white !important; // Overrides Minima's link colour
+        text-shadow: $shadow-3d-text;
 
-        // Targets the smaller "3rd International Conference" top-line
+        // Styles an optional smaller line above the main conference name
+        // (e.g. "3rd International Conference on …").
         .title-small {
-            font-weight: 400; 
-            font-size: 0.8em; 
-            display: block;   
+            display: block;
             margin-bottom: 2px;
+            font-weight: 400;
+            font-size: 0.8em;
         }
     }
 
-    // --- Jekyll Fallback Links ---
+    // --- Jekyll / Minima Fallback Links ---
+    // Minima's default page-level navigation links, visible when the
+    // Bootstrap navbar is disabled or fails to load.
     .page-link {
-        color: #fff; 
+        color: $color-white;
         font-weight: bold;
     }
 
-    // --- Bootstrap Navigation Menu ---
-    #site-nav {
-        .nav-link {
-            color: #fff !important;
-            text-shadow: $shadow-3d-text-strong; // Stronger shadow maintains contrast over the bright lime center
+    // --- Bootstrap 5 Navigation Menu ---
+    // Overrides Bootstrap's default colours so that nav links render white
+    // with a stronger 3-D shadow (needed for contrast over the bright lime
+    // centre of the header gradient).
+    #site-nav .nav-link {
+        color: $color-white !important;
+        text-shadow: $shadow-3d-text-strong;
 
-            &:visited {
-                color: #f0f0f0 !important; // Overrides Bootstrap's default visited purple
-            }
+        // Overrides Bootstrap's default purple visited-link colour to
+        // keep navigation visually consistent.
+        &:visited {
+            color: darken($color-white, 6%) !important;
         }
     }
 
     // --- Hanging Logo Tab ---
+    // A white card that hangs down from the header bar, housing the
+    // conference logo. The bottom-only border-radius + a hard flat
+    // drop-shadow create a "physical tab" effect.
     .site-logo-container {
-        float: right; 
+        @extend %white-box;
+        float: right;
         width: 140px;
         height: 120px;
-        background-color: #fff;
-        border-radius: 0 0 20px 20px; // Rounds only the bottom hanging edge
-        box-shadow: 0 7px 0 0 $color-logo-shadow; // Flat, hard drop shadow
+        border-radius: 0 0 $radius-lg $radius-lg; // Rounds only the bottom hanging edge
+        box-shadow: 0 7px 0 0 $color-logo-shadow; // Hard flat shadow underneath the tab
 
-        // Shifts logo to the left on mobile screens to prevent overlapping the title text
-        @media screen and (max-width: 600px) {
+        // On narrow viewports the logo moves to the left so it doesn't
+        // collide with the long multi-line conference title.
+        @media screen and (max-width: $bp-mobile-max) {
             float: left;
         }
 
         .site-logo {
-            display: block;
-            margin: auto; 
+            @extend %centered-logo;
             padding: 12px;
         }
-    } 
+    }
 }
 
 
 // ==========================================================================
-// 4. Main Content Area & Background Image Masking
+// 5. Main Content Area & Background Image Masking
 // ==========================================================================
+// This section creates the page's "outdoor" atmosphere by layering three
+// visual planes on top of each other:
+//   1. A green → teal gradient at the very back (visible once the texture
+//      fades out towards the bottom of the page).
+//   2. A large WebP background texture on a ::before pseudo-element, faded
+//      out gradually via a CSS mask so it blends into the gradient.
+//   3. A frosted-glass content panel (div.wrapper) sitting on top of both.
+
 main.page-content {
-    position: relative; 
-    z-index: 1; 
-    
-    // THE CLIPPER: If the page content is very short, the oversized background image 
-    // inside ::before will attempt to spill into the footer. This hides that overflow.
-    overflow: hidden; 
-    
-    // Base gradient fallback (This is revealed as the texture image fades out)
+    position: relative;
+    z-index: 1;
+
+    // Clips the oversized ::before background image so it cannot spill past
+    // the bottom edge of <main> and into the footer area.
+    overflow: hidden;
+
+    // Gradient fallback visible once the texture image's mask fades it out.
     background: linear-gradient($color-secondary-green, $color-footer-margins);
 
-    // Texture Overlay Layer
+    // --- Texture Overlay Layer (::before pseudo-element) ---
+    // Sized via aspect-ratio to match the source image dimensions exactly,
+    // so the fade-mask gradient always lines up with the image's bottom edge.
     &::before {
         content: "";
         display: block;
         position: absolute;
-        inset: 0; // Anchors exactly to the top/left/right/bottom of <main>
-        
-        // Matches the exact 4096x2304 resolution of the WebP image, ensuring 
-        // the mask gradient always aligns perfectly with the bottom of the graphic.
-        aspect-ratio: 4096 / 2304; 
-        
-        z-index: -1; 
-        opacity: 0.85; 
-        
-        // Sets the image to cover the aspect-ratio container
+        inset: 0; // Stretches to all four edges of <main>
+
+        // Matches the native 4096 × 2304 px resolution of the WebP source
+        // so the mask's opacity ramp coincides with the image's natural
+        // bottom edge regardless of viewport width.
+        aspect-ratio: 4096 / 2304;
+        z-index: -1;   // Behind the content panel
+        opacity: 0.85; // Slightly transparent so the gradient tints through
+
+        // Fills the aspect-ratio box edge-to-edge, anchored to the top-centre
+        // so the sky portion of the graphic is always visible.
         background: url("{{ site.baseurl }}/assets/images/background-2026-extended.webp") top center / cover no-repeat;
-        
+
         // --- The Fade Mask ---
-        // Solid visibility until 60%, then fades to 100% transparent by the bottom edge
-        $mask-gradient: linear-gradient(to bottom, rgba(#000, 1) 60%, rgba(#000, 0) 100%);
-        
-        // Shorthand: image, repeat, position / size
-        -webkit-mask: $mask-gradient no-repeat center / 100% 100%; 
-        mask: $mask-gradient no-repeat center / 100% 100%;
+        // A vertical gradient used as a CSS mask: fully opaque from the top
+        // down to 60% of the image height, then linearly fading to fully
+        // transparent by the bottom. This creates a smooth dissolve from
+        // the photographic texture into the solid gradient beneath it.
+        $mask-gradient: linear-gradient(
+            to bottom,
+            rgba($color-black, 1) 60%,
+            rgba($color-black, 0) 100%
+        );
+
+        // Applied as mask-image covering the full pseudo-element area.
+        // Vendor-prefixed for WebKit / Safari compatibility.
+        -webkit-mask: $mask-gradient no-repeat center / 100% 100%;
+                mask: $mask-gradient no-repeat center / 100% 100%;
     }
 
-    // --- Inner Text Content Box ---
+    // --- Frosted Content Panel ---
+    // A semi-transparent white box with a backdrop blur sitting above
+    // the background layers. Gives readable text a soft frosted-glass
+    // surface while still revealing the texture underneath.
     div.wrapper {
-        background-color: $color-content-bg; 
-        border-radius: 10px; 
-        padding: 30px; 
-        margin: 40px auto; 
-        position: relative; 
-        z-index: 2; // Ensures text rendering stays on top of the background layers
+        position: relative;
+        z-index: 2; // Keeps text above the ::before texture layer
+        background-color: $color-content-bg;
+        border-radius: $radius-md;
+        box-shadow: 0 4px 30px rgba($color-black, 0.1); // Soft ambient shadow
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(5px); // Safari support
+        padding: 30px;
+        margin: 40px auto;
     }
 }
 
 
 // ==========================================================================
-// 5. Footer Area
+// 6. Footer Area
 // ==========================================================================
+// The footer mirrors the header's teal palette. On mobile it shows only a
+// symmetrical gradient; on desktop a leafy texture image is layered on top
+// with the gradient serving as a seamless fallback behind transparent edges.
+
 .site-footer {
-    border: 0;
-    padding-bottom: 0;
+    border: 0;         // Removes Minima's default 1px top border
+    padding-bottom: 0; // Eliminates Minima's default bottom padding
 
-    // Mobile-First Background: A clean, symmetrical gradient without the heavy image texture
-    background: linear-gradient(90deg, $color-footer-margins 0%, $color-footer-center 50%, $color-footer-margins 100%);
+    // Mobile-first: a clean horizontal gradient (no texture image), keeping
+    // the payload small on constrained connections.
+    background: $gradient-footer;
 
-    // Desktop Background: Overlays the leafy texture with the gradient as a fallback
-    @media screen and (min-width: 601px) {
-        // 'center 0' keeps the texture centered horizontally while preserving its intrinsic width
-        background: url("{{ site.baseurl }}/assets/images/footer-2026-extended.webp") center 0 / auto no-repeat,
-                    linear-gradient(90deg, $color-footer-margins 0%, $color-footer-center 50%, $color-footer-margins 100%);
+    // On wider viewports the leafy texture is layered on top of the gradient.
+    // 'center 0 / auto' centres the image horizontally at its native width.
+    @media screen and (min-width: $bp-desktop-min) {
+        background:
+            url("{{ site.baseurl }}/assets/images/footer-2026-extended.webp") center 0 / auto no-repeat,
+            $gradient-footer;
     }
 
     // --- General Footer Typography ---
-    .footer-heading, 
-    .footer-col-wrapper, 
+    // All footer text is set to white for contrast against the dark teal.
+    .footer-heading,
+    .footer-col-wrapper,
     .u-email,
-    .organization-text, 
-    .sponsors-text, 
+    .organization-text,
+    .sponsors-text,
     .partners-text {
-        color: #fff; 
+        color: $color-white;
     }
-    
-    // Utility for highlighting specific text (like dates)
+
+    // Highlights specific inline text (e.g. conference dates or the title)
+    // with the bright lime accent colour.
     .text-highlight {
         color: $color-tertiary-lime;
         font-weight: bold;
     }
 
+    // Enlarges the contact email and highlights it on hover so users
+    // recognise it as an interactive element.
     .u-email {
         font-size: 1.2em;
+
         &:hover {
             color: $color-tertiary-lime;
         }
     }
 
-    // --- Complex Partner Logos Section ---
+    // --- Footer Logo Grid ---
+    // A flex container that arranges organiser, sponsor, and partner logo
+    // clusters. `align-items: flex-end` bottom-aligns the groups when their
+    // heights differ, keeping all logos anchored to a common baseline.
     .footer-logos {
-        display: flex;
-        flex-wrap: wrap;
+        @extend %flex-wrap;
         align-items: flex-end;
 
-        // Shared headings for logo clusters
-        .organization-text, 
-        .sponsors-text, 
+        // Section headings ("Organized by:", "Partners:", etc.) span the
+        // full row width via `flex: 1 1 100%`, forcing the logo tiles to
+        // wrap onto a new line beneath their heading.
+        .organization-text,
+        .sponsors-text,
         .partners-text {
-            font-weight: bold;
+            flex: 1 1 100%;
             padding-bottom: 4px;
-            flex: 1 1 100%; // Forces heading to full width, pushing logos to a new line
+            font-weight: bold;
         }
 
-        // Main Organizer Logo (Inverted drop shadow to mirror the top header tab)
+        // --- Main Organiser Logo ---
+        // A white card with an upward (negative-Y) hard shadow, visually
+        // mirroring the downward shadow of the header's hanging logo tab.
         .organization-logo-container {
-            background-color: #fff;
-            border-radius: 16px 16px 8px 8px;
-            box-shadow: 0 -6px 0 0 $color-logo-shadow; 
+            @extend %white-box;
+            border-radius: 16px 16px $radius-sm $radius-sm;
+            box-shadow: 0 -6px 0 0 $color-logo-shadow;
 
             .organization-logo {
+                @extend %centered-logo;
                 width: 150px;
-                display: block;
-                margin: auto;
                 padding: 20px;
             }
         }
 
-        // Sponsor & Partner Grid Structures
-        .sponsors, 
+        // --- Sponsor & Partner Logo Clusters ---
+        // Each cluster is itself a flex row so the small logo tiles flow
+        // naturally and wrap when the viewport narrows.
+        .sponsors,
         .partners {
+            @extend %flex-wrap;
             font-weight: bold;
-            display: flex;
-            flex-wrap: wrap;
-            
-            .sponsors-logos, 
+
+            // Inner wrapper that centres the cluster of logo tiles within
+            // the available horizontal space.
+            .sponsors-logos,
             .partners-logos {
-                display: flex;
-                flex-wrap: wrap;
-                justify-content: center; // Keeps the cluster of logos centered in their area
+                @extend %flex-wrap;
+                justify-content: center;
             }
 
-            // Individual Logo White-Box Tiles
-            .sponsors-logo-container, 
+            // Individual logo tiles: small white cards with uniform height
+            // so the grid stays visually aligned regardless of image width.
+            .sponsors-logo-container,
             .partner-logo-container {
-                border-radius: 8px;
-                background-color: #fff;
+                @extend %white-box;
                 padding: 4px;
                 margin: 4px;
 
-                .sponsor-logo, 
+                .sponsor-logo,
                 .partner-logo {
                     display: block;
-                    height: 48px; // Uniform height to maintain clean grid alignment
-                    border-radius: 8px;
+                    height: 48px;
+                    border-radius: $radius-sm;
                 }
             }
         }
@@ -267,13 +407,17 @@ main.page-content {
 
 
 // ==========================================================================
-// 6. Independent Utility Classes
+// 7. Page-Specific Utility Classes
 // ==========================================================================
+
+// --- Conference Programme Table ---
+// Collapses the first column (time / date) to its minimum content width
+// by setting width to 0 + white-space: nowrap, so the remaining columns
+// can use the full available table width for session descriptions.
 .program {
-    // Tricks the browser into shrinking the time/date column perfectly to its text width
-    td:first-child, 
+    td:first-child,
     th:first-child {
-        width: 0; 
-        white-space: nowrap; 
+        width: 0;
+        white-space: nowrap;
     }
 }
