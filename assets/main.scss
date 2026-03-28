@@ -175,7 +175,7 @@ main.page-content {
 
     // Desktop Background: Overlays the leafy texture with the gradient as a fallback
     @media screen and (min-width: 601px) {
-        // 'right 0' aligns the image to the right edge, 'cover' ensures it fills the space
+        // 'right 0' aligns the image to the right edge, 'auto' ensures it fills the space
         background: url("{{ site.baseurl }}/assets/images/footer-2026.webp") right 0 / auto no-repeat,
                     linear-gradient(90deg, $color-footer-margins 0%, $color-footer-center 50%, $color-footer-margins 100%);
     }
