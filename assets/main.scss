@@ -39,7 +39,7 @@ $color-content-bg:  rgba($color-white, 0.5); // Translucent white for the froste
 $color-logo-shadow: #717171;                 // Mid-gray for flat, hard drop-shadows on logo tabs
 $color-text-dark:   darken($color-logo-shadow, 30%); // High-contrast dark for body text
 
-// --- Footer Palette (Sampled from footer-2026-extended.webp) ---
+// --- Footer Palette (Sampled from footer-2026-extended.avif) ---
 // Two-tone teal that mirrors the leafy footer texture image.
 $color-footer-margins: #1d6166; // Darker teal used on the outer edges
 $color-footer-center:  #499482; // Lighter green for the central ambient glow
@@ -215,7 +215,7 @@ $radius-lg: 20px; // Large surfaces (hanging logo tab's bottom edge)
 // visual planes on top of each other:
 //   1. A green → teal gradient at the very back (visible once the texture
 //      fades out towards the bottom of the page).
-//   2. A large WebP background texture on a ::before pseudo-element, faded
+//   2. A large AVIF background texture on a ::before pseudo-element, faded
 //      out gradually via a CSS mask so it blends into the gradient.
 //   3. A frosted-glass content panel (div.wrapper) sitting on top of both.
 
@@ -239,7 +239,7 @@ main.page-content {
         position: absolute;
         inset: 0; // Stretches to all four edges of <main>
 
-        // Matches the native 4096 × 2304 px resolution of the WebP source
+        // Matches the native 4096 × 2304 px resolution of the AVIF source
         // so the mask's opacity ramp coincides with the image's natural
         // bottom edge regardless of viewport width.
         aspect-ratio: 4096 / 2304;
@@ -248,7 +248,7 @@ main.page-content {
 
         // Fills the aspect-ratio box edge-to-edge, anchored to the top-centre
         // so the sky portion of the graphic is always visible.
-        background: url("{{ site.baseurl }}/assets/images/background-2026-extended.webp") top center / cover no-repeat;
+        background: url("{{ site.baseurl }}/assets/images/background-2026-extended.avif") top center / cover no-repeat;
 
         // --- The Fade Mask ---
         // A vertical gradient used as a CSS mask: fully opaque from the top
@@ -304,7 +304,7 @@ main.page-content {
     // 'center 0 / auto' centres the image horizontally at its native width.
     @media screen and (min-width: $bp-desktop-min) {
         background:
-            url("{{ site.baseurl }}/assets/images/footer-2026-extended.webp") center 0 / auto no-repeat,
+            url("{{ site.baseurl }}/assets/images/footer-2026-extended.avif") center 0 / auto no-repeat,
             $gradient-footer;
     }
 
@@ -351,7 +351,7 @@ main.page-content {
         .sponsors-text,
         .partners-text {
             flex: 1 1 100%;
-            padding-bottom: 4px;
+            padding-bottom: 6px;
             font-weight: bold;
         }
 
