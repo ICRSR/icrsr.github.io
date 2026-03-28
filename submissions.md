@@ -11,7 +11,7 @@ redirect_from:
 |                                       | Date                                                     |
 | ------------------------------------- | -------------------------------------------------------- |
 | Abstract Submission Deadline          | 26 June 2026                                             |
-| Abstract Acceptance Notification      | 26 July 2025                                            |
+| Abstract Acceptance Notification      | 26 July 2026                                            |
 | Full Paper Submission Deadline        | 16 September 2026                                        |
 | Full Paper Revision Notification      | *To be announced*                                        |
 
