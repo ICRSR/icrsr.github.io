@@ -6,37 +6,34 @@
 // ==========================================================================
 // 1. Theme Variables
 // ==========================================================================
-// Main Banner Colors
-$theme-color-primary: #0b5452;   // Dark Teal
-$theme-color-secondary: #21592c; // Deep Forest Green
-$theme-color-terciary: #c8d67c;  // Bright Lime Highlight
 
-// Opacity Variants for Main Background
-$theme-color-secondary-semitransparent: rgba($theme-color-secondary, 0.6);
-$theme-color-terciary-semitransparent: rgba($theme-color-terciary, 0.6);
+// --- Brand Colors (Sampled from Banner) ---
+$color-primary-teal:   #0b5452; // Deep Teal (Left anchor)
+$color-secondary-green:#21592c; // Forest Green (Right anchor)
+$color-tertiary-lime:  #c8d67c; // Bright Lime (Highlight/Accent)
 
-// Content Box & Text
-$theme-color-content-background: rgba(white, 0.6);
-$theme-color-logo-border: #717171;
-$theme-color-special-text: darken($theme-color-logo-border, 30%);
+// --- UI & Content Box Colors ---
+$color-content-bg:   rgba(255, 255, 255, 0.65);     // Semi-transparent white for readability
+$color-logo-shadow:  #717171;                       // Base gray for tab shadows
+$color-text-dark:    darken($color-logo-shadow, 30%); // High-contrast text for general UI
 
-// Footer Specific Gradient Colors
-$footer-gradient-left: #1d6166;
-$footer-gradient-mid: #499482;
-$footer-gradient-right: #1a4f43;
+// --- Footer Specific Gradients ---
+$color-footer-margins: #1d6166;
+$color-footer-center:  #499482;
 
-// Reusable Effects
-$text-shadow-3d: 1px 2px 2px rgba(0, 0, 0, 0.4), 0px 4px 10px rgba(0, 0, 0, 0.3);
-$text-shadow-3d-strong: 1px 2px 3px rgba(0, 0, 0, 0.6), 0px 4px 12px rgba(0, 0, 0, 0.4);
+// --- Reusable Mixins/Effects ---
+$shadow-3d-text:        1px 2px 2px rgba(0, 0, 0, 0.4), 0px 4px 10px rgba(0, 0, 0, 0.3);
+$shadow-3d-text-strong: 1px 2px 3px rgba(0, 0, 0, 0.6), 0px 4px 12px rgba(0, 0, 0, 0.4);
 
 
 // ==========================================================================
-// 2. Global & Layout 
+// 2. Global & Layout Constraints
 // ==========================================================================
 .full-width-image {
     width: 100%;
 }
 
+// Custom wrapper to restrict line length on large screens for better typography scaling
 .wrapper {
     @media screen and (min-width: 992px) {
         max-width: calc(992px - (30px * 2));
@@ -45,22 +42,23 @@ $text-shadow-3d-strong: 1px 2px 3px rgba(0, 0, 0, 0.6), 0px 4px 12px rgba(0, 0, 
 
 
 // ==========================================================================
-// 3. Header & Navigation Components
+// 3. Header & Navigation
 // ==========================================================================
 .site-header {
     border: 0;
-    // 3-stop gradient mimicking the banner lighting
-    background: linear-gradient(90deg, $theme-color-primary 0%, $theme-color-terciary 50%, $theme-color-secondary 100%);
+    // 3-stop gradient mimicking the dynamic lighting in the banner image
+    background: linear-gradient(90deg, $color-primary-teal 0%, $color-tertiary-lime 50%, $color-secondary-green 100%);
 
-    // --- Header Title ---
+    // --- Main Conference Title ---
     .site-title {
         font-weight: 700;
         color: white !important;
         line-height: 1.1;
         display: inline-block;
         padding: 15px 0;
-        text-shadow: $text-shadow-3d;
+        text-shadow: $shadow-3d-text;
 
+        // Targets the smaller top line: "3rd International Conference"
         .title-small {
             font-weight: 400;
             font-size: 0.8em;
@@ -69,17 +67,17 @@ $text-shadow-3d-strong: 1px 2px 3px rgba(0, 0, 0, 0.6), 0px 4px 12px rgba(0, 0, 
         }
     }
 
-    // --- Fallback Links ---
+    // --- Fallback Jekyll Links ---
     .page-link {
         color: white; 
         font-weight: bold;
     }
 
-    // --- Bootstrap Nav Integration ---
+    // --- Bootstrap Navigation Menu ---
     #site-nav {
         .nav-link {
             color: white !important;
-            text-shadow: $text-shadow-3d-strong;
+            text-shadow: $shadow-3d-text-strong;
 
             &:visited {
                 color: rgb(240, 240, 240) !important;
@@ -87,15 +85,16 @@ $text-shadow-3d-strong: 1px 2px 3px rgba(0, 0, 0, 0.6), 0px 4px 12px rgba(0, 0, 
         }
     }
 
-    // --- Floating Logo Tab ---
+    // --- Hanging Logo Tab ---
     .site-logo-container {
         float: right;
         width: 140px;
         height: 120px;
         background-color: white;
         border-radius: 0 0 20px 20px; 
-        box-shadow: 0px 7px 0px 0px $theme-color-logo-border;
+        box-shadow: 0px 7px 0px 0px $color-logo-shadow;
 
+        // Shifts logo to the left on mobile to prevent overlapping the title
         @media screen and (max-width: 600px) {
             float: left;
         }
@@ -110,65 +109,62 @@ $text-shadow-3d-strong: 1px 2px 3px rgba(0, 0, 0, 0.6), 0px 4px 12px rgba(0, 0, 
 
 
 // ==========================================================================
-// 4. Main Content Area & Background Masking
+// 4. Main Content Area & Background Image
 // ==========================================================================
 main.page-content {
     position: relative;
     z-index: 1; 
     
-    // Base solid gradient acting as the ultimate background layer
-    background: linear-gradient($theme-color-secondary-semitransparent, $theme-color-terciary-semitransparent);
+    // Base solid gradient layer acting as the ultimate fallback behind everything
+    background: linear-gradient($color-secondary-green, $color-footer-margins);
 
-    // The image overlay layer
+    // The textured image layer overlay
     &::before {
         content: "";
         position: absolute;
         
-        // CRITICAL FIX: "inset: 0" perfectly locks this background layer 
-        // to the edges of the <main> element. It cannot overflow into the footer.
+        // "inset: 0" locks this pseudo-element strictly to the boundaries of <main>
         inset: 0; 
         z-index: -1; 
-        opacity: 0.6; 
+        opacity: 0.85; 
         
-        // Background Image Styling
         background-image: url("{{ site.baseurl }}/assets/images/background-2026-extended.webp");
         background-position: top center;
         background-repeat: no-repeat; 
         background-size: cover; 
         
-        // CRITICAL FIX: The calc() function ensures the fade starts exactly 150px from the bottom 
-        // of the container, regardless of how long or short the page text is.
+        // Dynamic Fade: Always starts dissolving 150px from the bottom of the content
         -webkit-mask-image: linear-gradient(to bottom, black calc(100% - 150px), transparent 100%);
         mask-image: linear-gradient(to bottom, black calc(100% - 150px), transparent 100%);
     }
 
-    // --- Inner Content Box ---
+    // --- Inner Text Box ---
     div.wrapper {
-        background-color: $theme-color-content-background;
+        background-color: $color-content-bg;
         border-radius: 10px;
         padding: 30px; 
-        margin: 40px auto; 
+        margin: 40px auto; // Provides vertical breathing room, letting the background image frame it
     }
 }
 
 
 // ==========================================================================
-// 5. Footer Area & Sponsor Components
+// 5. Footer Area
 // ==========================================================================
 .site-footer {
     border: 0;
     padding-bottom: 0;
 
-    // Mobile: Gradient Only
-    background: linear-gradient(90deg, $footer-gradient-left 0%, $footer-gradient-mid 50%, $footer-gradient-right 100%);
+    // Mobile View: Displays a clean, symmetrical gradient
+    background: linear-gradient(90deg, $color-footer-margins 0%, $color-footer-center 50%, $color-footer-margins 100%);
 
-    // Desktop: Image + Gradient Fallback
+    // Desktop View: Overlays the texture image with the gradient as a seamless fallback
     @media screen and (min-width: 601px) {
         background: url("{{ site.baseurl }}/assets/images/footer-2026.webp") right 0 no-repeat,
-                    linear-gradient(90deg, $footer-gradient-left 0%, $footer-gradient-mid 50%, $footer-gradient-right 100%);
+                    linear-gradient(90deg, $color-footer-margins 0%, $color-footer-center 50%, $color-footer-margins 100%);
     }
 
-    // --- Basic Footer Text ---
+    // --- Typography Rules ---
     .footer-heading, 
     .footer-col-wrapper, 
     .u-email,
@@ -178,25 +174,26 @@ main.page-content {
         color: white; 
     }
     
+    // Used to colorize specific dates or text inside the footer
     .text-highlight {
-        color: $theme-color-terciary;
+        color: $color-tertiary-lime;
         font-weight: bold;
     }
 
     .u-email {
         font-size: 1.2em;
         &:hover {
-            color: $theme-color-terciary;
+            color: $color-tertiary-lime;
         }
     }
 
-    // --- Complex Footer Logos Section ---
+    // --- Complex Partner Logos Section ---
     .footer-logos {
         display: flex;
         flex-wrap: wrap;
         align-items: flex-end;
 
-        // Shared Heading Styles for grid sections
+        // Shared heading alignments
         .organization-text, 
         .sponsors-text, 
         .partners-text {
@@ -205,11 +202,11 @@ main.page-content {
             flex: 1 1 100%; 
         }
 
-        // Main Organization Box
+        // Main IPS Organizer Logo (Upward Shadow styling)
         .organization-logo-container {
             background-color: white;
             border-radius: 16px 16px 8px 8px;
-            box-shadow: 0px -6px 0px 0px $theme-color-logo-border;
+            box-shadow: 0px -6px 0px 0px $color-logo-shadow;
 
             .organization-logo {
                 width: 150px;
@@ -219,7 +216,7 @@ main.page-content {
             }
         }
 
-        // Sponsors & Partners Shared Structure
+        // Sponsor & Partner Grid Styling
         .sponsors, 
         .partners {
             font-weight: bold;
@@ -233,7 +230,7 @@ main.page-content {
                 justify-content: center;
             }
 
-            // Individual Logo White Boxes
+            // Individual Logo Tiles
             .sponsors-logo-container, 
             .partner-logo-container {
                 border-radius: 8px;
@@ -257,6 +254,7 @@ main.page-content {
 // 6. Independent Utility Classes
 // ==========================================================================
 .program {
+    // Forces the time/date column in tables to shrink exactly to its text width
     td:first-child, 
     th:first-child {
         width: 0;
