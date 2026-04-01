@@ -34,6 +34,8 @@ With a multidisciplinary approach it is expected that this conference will be at
 - Artificial Intelligence in Environmental Sustainability studies
 - ESG Reporting and Organizational Sustainability Accountability
 
+**Conference sessions will be held in English, but some selected sessions will be held in Portuguese (to be announced in the program).**
+
 {% comment %}
 <!-- ## Registration
 Registration is now open. You can find all the details at the [Attending]({{ 'attending' | relative_url }}) page. -->
