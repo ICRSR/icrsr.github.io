@@ -6,82 +6,100 @@
 // ==========================================================================
 // 1. Theme Variables & Design Tokens
 // ==========================================================================
-// Centralized repository for all colors and measurements. Changing a value
-// here automatically reflects across the entire site, ensuring consistency.
 
 // --- Responsive Breakpoints ---
-$bp-mobile-max:  600px;  // Maximum width for mobile layouts
-$bp-desktop-min: 601px;  // Minimum width for desktop layouts
-$bp-wide-min:    992px;  // Triggers constrained text widths for better reading
-$bp-4k-max:      3840px; // Absolute maximum width for the entire page (4K resolution)
+$bp-mobile:  600px;  // Maximum width for mobile layouts
+$bp-desktop: 601px;  // Minimum width for desktop layouts
+$bp-wide:    992px;  // Triggers constrained text widths for better reading
+$bp-4k:      3840px; // Absolute maximum width for the entire page (4K resolution)
 
-// --- Brand Colours (Sampled from image_9d9e07.png) ---
-$color-primary:   #0F5E68; // Luminous Teal (Primary brand color, top-left light)
-$color-tertiary:  #163A42; // Intermediate Teal (Central transition tone)
-$color-secondary: #212A2F; // Dark Slate/Charcoal (Deep shadow tone on bottom-right)
+// --- Brand Colours ---
+$color-primary:   #0F5E68; // Luminous Teal
+$color-tertiary:  #163A42; // Intermediate Teal
+$color-secondary: #212A2F; // Dark Slate/Charcoal
 
 // --- Accents & Highlights ---
-$color-accent:    #c8d67c; // Bright Lime (Used to draw attention in the footer)
-$color-link:      #083238; // Deep Teal: High contrast for perfect legibility on the frosted glass
+$color-accent:    #c8d67c; // Bright Lime
+$color-link:      #083238; // Deep Teal for frosted glass legibility
 
 // --- Neutral & UI Palette ---
 $color-white: #fff;
 $color-black: #000;
-$color-logo-shadow: #717171; // Base shadow for the white logo containers
-$color-divider: rgba($color-white, 0.15); // A subtle, semi-transparent white line acting as a glass divider
+$color-logo-shadow: #717171; 
+$color-divider: rgba($color-white, 0.15); // Glass divider line
 
 // --- Apple "Liquid Glass" Config ---
-$color-content-bg:  rgba($color-white, 0.5); // Very transparent base to let the CSS blur shine through
+$color-content-bg:  rgba($color-white, 0.5); 
 
-// --- Footer Palette (Sampled from footer-2026-extended.avif) ---
-$color-footer-margins: #1d6166; // Dark teal for the outer edges of the footer
-$color-footer-center:  #499482; // Faded green for the central glow of the footer
+// --- Footer Palette ---
+$color-footer-margins: #1d6166; 
+$color-footer-center:  #499482; 
 
 // --- Shared Border Radii ---
-$radius-sm: 8px;  // Small elements (e.g., partner logos)
-$radius-md: 10px; // Main frosted glass content panel
-$radius-lg: 20px; // Header hanging logo tab
+$radius-sm: 8px;  
+$radius-md: 10px; 
+$radius-lg: 20px; 
 
-// --- Reusable 3D Typography Shadows ---
+// --- Reusable Typography Shadows ---
 $shadow-3d:        1px 2px 2px rgba($color-black, 0.4), 0 4px 10px rgba($color-black, 0.3);
 $shadow-3d-strong: 1px 2px 3px rgba($color-black, 0.6), 0 4px 12px rgba($color-black, 0.4);
 
 
 // ==========================================================================
-// 2. Reusable SCSS Mixins & Placeholders
+// 2. SCSS Architecture: Mixins & Placeholders
 // ==========================================================================
-// Placeholders (%) group common properties without duplicating CSS output.
-// Mixins (@mixin) allow passing variables into reusable code blocks.
 
+// --- Media Query Manager ---
+@mixin respond-to($type, $breakpoint) {
+    @if $type == 'min' {
+        @media screen and (min-width: $breakpoint) { @content; }
+    } @else if $type == 'max' {
+        @media screen and (max-width: $breakpoint) { @content; }
+    }
+}
+
+// --- Component Mixins ---
+@mixin liquid-glass($bg-color) {
+    background-color: $bg-color;
+    border: 1px solid rgba($color-white, 0.4);
+    box-shadow: 0 8px 32px 0 rgba($color-black, 0.15);
+    backdrop-filter: blur(24px) saturate(120%);
+    -webkit-backdrop-filter: blur(24px) saturate(120%);
+}
+
+@mixin interactive-link($base-color) {
+    color: $base-color;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 1px solid rgba($base-color, 0.3);
+    transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+
+    &:hover, &:focus {
+        color: lighten($base-color, 15%);
+        border-bottom-color: rgba($base-color, 0.8);
+    }
+}
+
+// --- Placeholders ---
 %white-box {
     background-color: $color-white;
     border-radius: $radius-sm;
 }
 
-%centered-logo {
+%centered-block {
     display: block;
-    margin-inline: auto; // Modern CSS logical property: replaces margin-left/right auto
+    margin-inline: auto; 
 }
 
 %flex-row-wrap {
     display: flex;
-    flex-wrap: wrap; // Allows child elements to drop to the next line
+    flex-wrap: wrap; 
 }
 
-// 4K Layout Constraint: Centers elements and caps their width
 %layout-cap {
     width: 100%;           
-    max-width: $bp-4k-max; 
+    max-width: $bp-4k;
     margin-inline: auto;   
-}
-
-// Reusable Apple "Liquid Glass" Component
-@mixin liquid-glass($bg-color) {
-    background-color: $bg-color;
-    border: 1px solid rgba($color-white, 0.4); 
-    box-shadow: 0 8px 32px 0 rgba($color-black, 0.15); 
-    backdrop-filter: blur(24px) saturate(120%);
-    -webkit-backdrop-filter: blur(24px) saturate(120%);
 }
 
 
@@ -89,11 +107,9 @@ $shadow-3d-strong: 1px 2px 3px rgba($color-black, 0.6), 0 4px 12px rgba($color-b
 // 3. Global Layout Constraints
 // ==========================================================================
 body {
-    // When the screen exceeds 4K, this dark background fills the extreme left/right empty space.
     background-color: $color-secondary;
 }
 
-// Groups the main structural blocks to apply the 4K fluid limitation cleanly
 .site-header,
 main.page-content,
 .site-footer {
@@ -101,13 +117,12 @@ main.page-content,
 }
 
 .full-width-image {
-    width: 100%; // Ensures large images inside blog posts respect screen bounds
+    width: 100%; 
 }
 
 .wrapper {
-    // Restricts maximum width on ultra-wide screens to prevent eye fatigue
-    @media screen and (min-width: $bp-wide-min) {
-        max-width: calc(#{$bp-wide-min} - 60px);
+    @include respond-to('min', $bp-wide) {
+        max-width: calc(#{$bp-wide} - 60px);
     }
 }
 
@@ -118,20 +133,18 @@ main.page-content,
 .site-header {
     border: none;
     border-bottom: 4px solid $color-divider !important;
-    
-    // Diagonal gradient (145deg) simulating a directional studio light
     background: linear-gradient(145deg, $color-primary 0%, $color-tertiary 50%, $color-secondary 100%);
 
     .site-title {
         display: inline-block;
         padding: 15px 0;
         font-weight: 700;
-        line-height: 1.1; 
+        line-height: 1.1;
         color: $color-white !important;
-        text-shadow: $shadow-3d; 
+        text-shadow: $shadow-3d;
 
         .title-small {
-            display: block; 
+            display: block;
             margin-bottom: 2px;
             font-weight: 400;
             font-size: 0.8em;
@@ -145,28 +158,27 @@ main.page-content,
 
     #site-nav .nav-link {
         color: $color-white !important;
-        text-shadow: $shadow-3d-strong; 
+        text-shadow: $shadow-3d-strong;
 
         &:visited {
-            color: rgba($color-white, 0.8) !important; 
+            color: rgba($color-white, 0.8) !important;
         }
     }
 
-    // Hanging White Logo Tab
     .site-logo-container {
         @extend %white-box;
-        float: right; 
+        float: right;
         width: 140px;
         height: 120px;
-        border-radius: 0 0 $radius-lg $radius-lg; 
-        box-shadow: 0 7px 0 0 $color-logo-shadow; 
+        border-radius: 0 0 $radius-lg $radius-lg;
+        box-shadow: 0 7px 0 0 $color-logo-shadow;
 
-        @media screen and (max-width: $bp-mobile-max) {
-            float: left; // Prevents collision with main title on mobile
+        @include respond-to('max', $bp-mobile) {
+            float: left;
         }
 
         .site-logo {
-            @extend %centered-logo;
+            @extend %centered-block;
             padding: 12px;
         }
     }
@@ -179,7 +191,7 @@ main.page-content,
 main.page-content {
     position: relative;
     z-index: 1;
-    overflow: hidden; // Prevents oversized ::before background from bleeding into footer
+    overflow: hidden; 
 
     background: linear-gradient($color-secondary, $color-footer-margins);
 
@@ -187,48 +199,33 @@ main.page-content {
         content: "";
         display: block;
         position: absolute;
-        inset: 0; 
-        aspect-ratio: 3509 / 2304; 
-        z-index: -1; 
+        inset: 0;
+        aspect-ratio: 3509 / 2304;
+        z-index: -1;
         opacity: 1;
         background: url("{{ site.baseurl }}/assets/images/background-2026-improved.avif") top center / cover no-repeat;
 
-        // Mask smoothly fades the image to transparent at the bottom
         $mask: linear-gradient(to bottom, #000 60%, transparent 100%);
         -webkit-mask: $mask no-repeat center / 100% 100%;
                 mask: $mask no-repeat center / 100% 100%;
     }
 
-    // --- Content Panel ---
     div.wrapper {
         position: relative;
-        z-index: 2; 
+        z-index: 2;
         border-radius: $radius-md;
         padding: 30px;
         margin: 40px auto;
         
-        // Injects the entire glass effect via the mixin defined above
         @include liquid-glass($color-content-bg);
 
-        // --- Article / Inline Links ---
         a {
-            color: $color-link; 
-            font-weight: 600; 
-            text-decoration: none; 
-            border-bottom: 1px solid rgba($color-link, 0.3); 
-            
-            // Explicitly targeting properties avoids heavy hardware calculations
-            transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out; 
-
-            &:hover, &:focus {
-                color: lighten($color-link, 15%); 
-                border-bottom-color: rgba($color-link, 0.8); 
-            }
+            @include interactive-link($color-link);
         }
     }
 
     .post-meta {
-        color: #444; 
+        color: #444;
         font-weight: 500;
     }
 }
@@ -242,72 +239,67 @@ main.page-content {
     padding-bottom: 0;
     border-top: 4px solid $color-divider !important;
 
-    // Overlays the texture image with the gradient as a transparent fallback
-    background: 
+    background:
         url("{{ site.baseurl }}/assets/images/footer-2026-version1.avif") center 0 no-repeat,
         linear-gradient(90deg, $color-footer-margins 0%, $color-footer-center 50%, $color-footer-margins 100%);
     
-    // Auto-expansion logic up to 4K max-width
     background-size: max(100%, 3509px) auto, 100% 100%;
 
     .footer-heading, .footer-col-wrapper, .u-email,
     .organization-text, .sponsors-text, .partners-text {
-        color: $color-white; 
+        color: $color-white;
     }
 
     .text-highlight {
-        color: $color-accent; 
+        color: $color-accent;
         font-weight: bold;
     }
 
     .u-email {
         font-size: 1.2em;
-        &:hover { color: $color-accent; } 
+        &:hover { color: $color-accent; }
     }
 
-    // --- Logo Grid Architecture ---
     .footer-logos {
         @extend %flex-row-wrap;
-        align-items: flex-end; // Aligns bottom edges perfectly
+        align-items: flex-end; 
 
         .organization-text, .sponsors-text, .partners-text {
-            flex: 1 1 100%; 
+            flex: 1 1 100%;
             padding-bottom: 6px;
             font-weight: bold;
         }
 
         .organization-logo-container {
             @extend %white-box;
-            border-radius: 16px 16px $radius-sm $radius-sm; 
-            box-shadow: 0 -6px 0 0 $color-logo-shadow; // Upward-facing drop shadow
+            border-radius: 16px 16px $radius-sm $radius-sm;
+            box-shadow: 0 -6px 0 0 $color-logo-shadow; 
 
             .organization-logo {
-                @extend %centered-logo;
+                @extend %centered-block;
                 width: 150px;
                 padding: 20px;
             }
         }
 
+        // Optimized Partner/Sponsor Grid 
         .sponsors, .partners {
             @extend %flex-row-wrap;
             
-            .sponsors-logos, .partners-logos { 
-                @extend %flex-row-wrap; 
+            .sponsors-logos, .partners-logos {
+                @extend %flex-row-wrap;
                 justify-content: center;
                 background-color: $color-white;
                 border-radius: $radius-sm;
+                padding: 8px; // Padding around the grouped logos
             }
 
-            .sponsors-logo-container, .partner-logo-container {
-                @extend %white-box;
-                padding: 4px;
-                margin: 4px;
-
-                .sponsor-logo, .partner-logo {
-                    display: block;
-                    height: 48px; 
-                    border-radius: $radius-sm;
-                }
+            // Target logos directly instead of requiring extra container divs
+            .sponsor-logo, .partner-logo {
+                display: block;
+                height: 48px;
+                border-radius: 4px; // Slightly smaller inner radius
+                margin: 4px; // Spacing between logos
             }
         }
     }
@@ -319,7 +311,7 @@ main.page-content {
 // ==========================================================================
 .program {
     td:first-child, th:first-child {
-        width: 0; // Tricks the column to collapse...
-        white-space: nowrap; // ...but prevents text wrap, shrinking exactly to content!
+        width: 0; 
+        white-space: nowrap; 
     }
 }
