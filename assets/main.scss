@@ -31,7 +31,7 @@ $color-logo-shadow: #717171; // Base shadow for the white logo containers
 $color-divider: rgba($color-white, 0.15); // A subtle, semi-transparent white line acting as a glass divider
 
 // --- Apple "Liquid Glass" Config ---
-$color-content-bg:  rgba($color-white, 0.25); // Very transparent base to let the CSS blur shine through
+$color-content-bg:  rgba($color-white, 0.5); // Very transparent base to let the CSS blur shine through
 
 // --- Footer Palette (Sampled from footer-2026-extended.avif) ---
 $color-footer-margins: #1d6166; // Dark teal for the outer edges of the footer
@@ -293,7 +293,9 @@ main.page-content {
             
             .sponsors-logos, .partners-logos { 
                 @extend %flex-row-wrap; 
-                justify-content: center; 
+                justify-content: center;
+                background-color: $color-white;
+                border-radius: $radius-sm;
             }
 
             .sponsors-logo-container, .partner-logo-container {
