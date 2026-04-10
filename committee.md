@@ -9,13 +9,10 @@ permalink: /committee/
 - Maria Teresa Costa, Polytechnic University of Setúbal (IPS), Portugal (coordination)
 - Anabela Correia, Polytechnic University of Setúbal (IPS), Portugal
 - Carlos Mata, Polytechnic University of Setúbal (IPS), Portugal
-- Fernando Miguel Seabra, Lisbon Accounting and Business School (ISCAL), Portugal
 - Filipe Severino, Polytechnic University of Setúbal (IPS), Portugal
 - Gabriela Gomes, Polytechnic University of Setúbal (IPS), Portugal
 - Helena Martins, Polytechnic University of Setúbal (IPS), Portugal
-- Júlia Seixas, NOVA University Lisbon (NOVA), Portugal
 - Maria Catarina Paz, Polytechnic University of Setúbal (IPS), Portugal
-- Maria Isabel Sanchez Hernandez, University of Extremadura, Spain
 - Pedro Albuquerque Santos, Polytechnic University of Setúbal (IPS), Portugal
 - Pedro Pardal, Polytechnic University of Setúbal (IPS), Portugal
 - Pedro Mares, Polytechnic University of Setúbal (IPS), Portugal
@@ -39,6 +36,7 @@ permalink: /committee/
 - Duarte Xara Brasil, Polytechnic University of Setúbal (IPS), Portugal
 - Dolores Amalia Gallardo Vázquez, University of Extremadura, Spain
 - Fábio Ferrentini Sampaio, Polytechnic University of Setúbal (IPS), Portugal
+- Fernando Miguel Seabra, Lisbon Accounting and Business School (ISCAL), Portugal
 - Francisco Javier Alcalá García, Spanish National Research Council (CSIC), Spain
 - Helena Caria, Polytechnic University of Setúbal (IPS), Portugal
 - Helena Martins, Polytechnic University of Setúbal (IPS), Portugal
@@ -46,6 +44,7 @@ permalink: /committee/
 - Jarmila Straková, Institute of Technology and Business in České Budějovice (VŠTE)
 - Ihor Hurnyak, Ivan Franko National University of Lviv, Ukraine
 - João Cordeiro, Polytechnic University of Setúbal (IPS), Portugal
+- Júlia Seixas, NOVA University Lisbon (NOVA), Portugal
 - Larisa Ivascu, Polytechnic University of Timisoara (UPT), Romania
 - Leonilde Reis, Polytechnic University of Setúbal (IPS), Portugal
 - Liliana Pitacho, Polytechnic University of Setúbal (IPS), Portugal
@@ -54,6 +53,9 @@ permalink: /committee/
 - Marco Marques, Polytechnic University of Setúbal (IPS), Portugal
 - Maria Catarina Paz, Polytechnic University of Setúbal (IPS), Portugal
 - Maria Fátima Serralha, Polytechnic University of Setúbal (IPS), Portugal
+- Maria Isabel Sanchez Hernandez, University of Extremadura, Spain
+- Maria Lurdes Calisto, Escola Superior de Hotelaria e Turismo do Estoril e Centro de Investigação, Desenvolvimento e Inovação em Turismo, CiTUR Estoril
+- Mário Silva, Escola Superior de Hotelaria e Turismo do Estoril e Centro de Investigação, Desenvolvimento e Inovação em Turismo, CiTUR Estoril
 - Maria Paula Mendes, CERENA/Instituto Superior Técnico, Portugal
 - Martinha Piteira, Polytechnic University of Setúbal (IPS), Portugal
 - Martina Chalupová, College of Polytechnics Jihlava, Czechia
@@ -63,6 +65,7 @@ permalink: /committee/
 - Nuno Teixeira, Polytechnic University of Setúbal (IPS), Portugal
 - Paulo Silveira, Polytechnic University of Setúbal (IPS), Portugal
 - Pedro Pardal, Polytechnic University of Setúbal (IPS), Portugal
+- Miguel Belo, Escola Superior de Hotelaria e Turismo do Estoril e Centro de Investigação, Desenvolvimento e Inovação em Turismo, CiTUR Estoril
 - Petra Pártlová, Institute of Technology and Business in České Budějovice (VŠTE), Czechia
 - Philipp Seibert, Fulda University of Applied Sciences, Germany
 - Ricardo Soares, Polytechnic University of Setúbal (IPS), Portugal
