@@ -16,6 +16,7 @@ permalink: /committee/
 - Pedro Albuquerque Santos, Polytechnic University of Setúbal (IPS), Portugal
 - Pedro Pardal, Polytechnic University of Setúbal (IPS), Portugal
 - Pedro Mares, Polytechnic University of Setúbal (IPS), Portugal
+- Raquel Barreira, Polytechnic University of Setúbal (IPS), Portugal
 - Susana Galvão, Polytechnic University of Setúbal (IPS), Portugal
 - Telma Guerra, Polytechnic University of Setúbal (IPS), Portugal
 
