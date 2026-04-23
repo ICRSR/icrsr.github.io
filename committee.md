@@ -11,7 +11,6 @@ permalink: /committee/
 - Carlos Mata, Polytechnic University of Setúbal (IPS), Portugal
 - Filipe Severino, Polytechnic University of Setúbal (IPS), Portugal
 - Gabriela Gomes, Polytechnic University of Setúbal (IPS), Portugal
-- Helena Martins, Polytechnic University of Setúbal (IPS), Portugal
 - Maria Catarina Paz, Polytechnic University of Setúbal (IPS), Portugal
 - Pedro Albuquerque Santos, Polytechnic University of Setúbal (IPS), Portugal
 - Pedro Pardal, Polytechnic University of Setúbal (IPS), Portugal
