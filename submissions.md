@@ -37,6 +37,17 @@ The [**European Journal of Interdisciplinary Studies (EJIS)**](https://www.ejist
 
 [![SCImago Journal & Country Rank](https://www.scimagojr.com/journal_img.php?id=21101039259)](https://www.scimagojr.com/journalsearch.php?q=21101039259&tip=sid&exact=no)
 
+#### Urban Science - Special Issue: Urban Logistics and Supply Chains
+[**Urban Science**](https://www.mdpi.com/journal/urbansci/special_issues/Y0H8KX856L) (ISSN 2413-8851) is an international, peer-reviewed, open-access journal providing an advanced forum for theoretical and empirical research concerning life in urban areas. Its broad scope covers urban development, planning, resilience, mobility, the urban environment, and sustainable cities.
+
+The journal is currently inviting submissions for a Special Issue on **Urban Logistics and Supply Chains**. This issue focuses on urban logistics as critical infrastructures of the digital economy, emphasizing the intersection between **digitalization**, **urbanization**, and **sustainability**. 
+
+By integrating perspectives from operations management, urban studies, economics, geography, information systems, and public policy, this issue examines how cities, firms, and public authorities respond to rapid societal transformations. 
+
+[**Click here for more information**](https://www.mdpi.com/journal/urbansci/special_issues/Y0H8KX856L){:target="_blank"}
+
+[![SCImago Journal & Country Rank](https://www.scimagojr.com/journal_img.php?id=21101141748)](https://www.scimagojr.com/journalsearch.php?q=21101141748&tip=sid&exact=no)
+
 *(More journals will be announced soon)*
 
 {% comment %}
