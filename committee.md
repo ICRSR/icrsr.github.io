@@ -37,6 +37,8 @@ permalink: /committee/
 - Dolores Amalia Gallardo Vázquez, University of Extremadura, Spain
 - Fábio Ferrentini Sampaio, Polytechnic University of Setúbal (IPS), Portugal
 - Fernando Miguel Seabra, Lisbon Accounting and Business School (ISCAL), Portugal
+- Fernando Santos, Polytechnic University of Setúbal (IPS)/Centro de Investigação Em Qualidade de Vida (CIEQV), Portugal
+- Filipe Severino, Polytechnic University of Setúbal (IPS), Portugal
 - Francisco Javier Alcalá García, Spanish National Research Council (CSIC), Spain
 - Helena Caria, Polytechnic University of Setúbal (IPS), Portugal
 - Helena Martins, Polytechnic University of Setúbal (IPS), Portugal
@@ -64,6 +66,7 @@ permalink: /committee/
 - Nuno Costa, Polytechnic University of Setúbal (IPS), Portugal
 - Nuno Teixeira, Polytechnic University of Setúbal (IPS), Portugal
 - Paulo Silveira, Polytechnic University of Setúbal (IPS), Portugal
+- Pedro Mares, Polytechnic University of Setúbal (IPS), Portugal
 - Pedro Pardal, Polytechnic University of Setúbal (IPS), Portugal
 - Miguel Belo, Escola Superior de Hotelaria e Turismo do Estoril e Centro de Investigação, Desenvolvimento e Inovação em Turismo, CiTUR Estoril
 - Petra Pártlová, Institute of Technology and Business in České Budějovice (VŠTE), Czechia
