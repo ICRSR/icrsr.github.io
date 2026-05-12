@@ -48,6 +48,15 @@ By integrating perspectives from operations management, urban studies, economics
 
 [![SCImago Journal & Country Rank](https://www.scimagojr.com/journal_img.php?id=21101141748)](https://www.scimagojr.com/journalsearch.php?q=21101141748&tip=sid&exact=no)
 
+#### Management Letters/Cuadernos de Gestión
+
+[**Management Letters/Cuadernos de Gestión**](https://ojs.ehu.eus/index.php/CG/user/setLocale/en_US?source=%2Findex.php%2FCG%3Fid%3D20), a journal managed by the **Institute of Applied Business Economics** at the **University of The Basque Country (UPV/EHU)**.
+
+It is ranked as a Q2 journal in the **Economics, Econometrics, and Finance** category in SCOPUS:
+[![SCImago Journal & Country Rank](https://www.scimagojr.com/journal_img.php?id=19400157150)](https://www.scimagojr.com/journalsearch.php?q=19400157150&amp;tip=sid&amp;exact=no)
+
+This journal is also regularly indexed in a variety of reputable databases, including **SCOPUS**, **Emerging Sources Citation Index (ESCI)**, **DOAJ**, **e-revist@s**, **Latindex**, **Redalyc**, **Dialnet**, **Open Science Directory**, and **EBSCO Publishing**, among others.
+
 *(More journals will be announced soon)*
 
 {% comment %}
@@ -60,14 +69,6 @@ All presentations at ICRSR 2025 should use the official template, available here
 <section id="abstracts" markdown="1">
 ### **Scopus** and **Web of Science** indexed journals associated to the conference
 
-#### Management Letters/Cuadernos de Gestión
-
-[**Management Letters/Cuadernos de Gestión**](https://ojs.ehu.eus/index.php/CG/user/setLocale/en_US?source=%2Findex.php%2FCG%3Fid%3D20), a journal managed by the **Institute of Applied Business Economics** at the **University of The Basque Country (UPV/EHU)**.
-
-It is ranked as a Q2 journal in the **Economics, Econometrics, and Finance** category in SCOPUS:
-[![SCImago Journal & Country Rank](https://www.scimagojr.com/journal_img.php?id=19400157150)](https://www.scimagojr.com/journalsearch.php?q=19400157150&amp;tip=sid&amp;exact=no)
-
-This journal is also regularly indexed in a variety of reputable databases, including **SCOPUS**, **Emerging Sources Citation Index (ESCI)**, **DOAJ**, **e-revist@s**, **Latindex**, **Redalyc**, **Dialnet**, **Open Science Directory**, and **EBSCO Publishing**, among others.
 
 #### Tourism Review
 **Tourism Review,** is the oldest and most established journal, with more than 70 years of history in publishing papers, that addresses a wide spectrum of tourism issues. Publisher Emerald Group PublishingLtd. [https://www.emeraldgrouppublishing.com/journal/tr?id=TR](https://www.emeraldgrouppublishing.com/journal/tr?id=TR)
