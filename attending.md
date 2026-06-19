@@ -22,8 +22,7 @@ If you wish to attend the conference dinner, please add an additional **30€** 
 ### Registration Process  
 *(Details about the registration process will be announced soon)*
 
-### Contact  
-For any registration-related issues, please contact us at [ICSRS2026@esce.ips.pt](mailto:ICSRS2026@esce.ips.pt).  
+
 
 {% comment %}
 <!--
@@ -43,6 +42,9 @@ After making the payment, you must upload proof of payment during registration.
 
 -->
 {% endcomment %}
+
+### Contact  
+For any registration-related issues, please contact us at [ICSRS2026@esce.ips.pt](mailto:ICSRS2026@esce.ips.pt).  
 
 ## Travel and Accommodation
 

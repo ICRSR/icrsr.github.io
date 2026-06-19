@@ -36,6 +36,31 @@ With a multidisciplinary approach it is expected that this conference will be at
 
 **Conference sessions will be held in English, but some selected sessions will be held in Portuguese (to be announced in the program).**
 
+<article id="specialsessions" markdown="1">
+
+## Special Sessions
+
+<section id="specialsession-1" markdown="1">
+
+### Resilient tourism territories: governance, innovation and adaptation for a sustainable future
+
+##### *Date to be announced*
+
+This special session aims to explore strategies, policies and innovative solutions that strengthen the resilience of tourism destinations in response to contemporary challenges.
+
+It seeks to promote an integrated perspective of tourism as a complex territorial system in which resilience, competitiveness and quality of life must be addressed in a holistic and interconnected manner.
+
+Tourism destinations are increasingly exposed to a wide range of systemic risks arising from climate change, demographic shifts, health crises, geopolitical instability and rapid technological transformation. In this context, tourism resilience extends beyond the capacity to respond to shocks and crises. It encompasses the ability of territories to anticipate risks, adapt to change, learn from past experiences and transform their development models.
+
+The panel will bring together complementary perspectives from academia, public administration, industry and technology to foster an interdisciplinary discussion on tourism resilience.
+
+You can find more details about the special session by following [this link]({{ 'assets/documents/ICRSR2026_SpecialSession1.pdf' | relative_url }}).
+
+</section>
+
+</article>
+
+
 {% comment %}
 <!-- ## Registration
 Registration is now open. You can find all the details at the [Attending]({{ 'attending' | relative_url }}) page. -->
@@ -112,38 +137,6 @@ Antje holds a PhD in Social Sustainability, an MSc in Environmental Citizenship 
 
 **Fields of activity:** Transformative Sustainability, Sustainability Transitions, Education (learning for sustainability), Governance  
 **Keywords:** Sustainability transitions, Transformative learning, Relational sustainability, Transdisciplinary research, Care and wellbeing
-
-</section>
-
-</article>
-
-<article id="specialsessions" markdown="1">
-
-## Special Sessions
-
-<section id="specialsession-1" markdown="1">
-
-### Collaborative Innovation and Digital Co-creation for Sustainable Tourism Futures
-##### 2/7/2025 @ 13:30
-The transformation of the tourism industry in the face of climate change, digitalization, and shifting societal values requires new paradigms of governance, strategic thinking, and stakeholder coordination. At the core of these challenges lies the imperative for more effective and forward‐looking tourism management. This special session, anchored in the **SHIFT** research project (Sustainability-oriented, Highly interactive, and Innovation-based Framework for Tourism Marketing), highlights how management practices can integrate collaboration, technology, and co‐creation to foster sustainable and resilient tourism ecosystems.
-
-Tourism management must evolve from traditional models towards approaches that embrace systemic complexity, participatory governance, and cross-sector innovation. The papers included in this session address precisely this need by examining the design and implementation of collaborative marketing strategies, stakeholder engagement through co‐creation platforms, and scenario planning as a strategic management tool. In doing so, they provide critical insights into how destination management organizations, policy makers, and tourism enterprises can anticipate global trends and co‐develop inclusive and adaptive responses.
-
-In a context marked by environmental, technological, and social transitions, this session—composed of five presentations (the first introducing the project and the remaining four presenting its core results)—is highly relevant for scholars and practitioners seeking to reimagine tourism management as a discipline that not only responds to change but actively shapes sustainable futures through innovation, interactivity, and stakeholder synergy.
-
-You can find more details about the special session by following [this link]({{ 'assets/documents/ICRSR2025_SpecialSession1.pdf' | relative_url }}).
-
-</section>
-
-<section id="specialsession-2" markdown="1">
-
-### Value Creation in the Socio-Bioeconomy in the Amazon Region: Integrating Tradition, Innovation and Environmental Services
-This session aims to provide experiences and knowledge exchange on value creation for businesses of traditional peoples and communities (TPCs), usually cooperatives, through the sustainable exploration of the socio-bioeconomy in the Amazon region. TPCs are keepers of traditional knowledge and practices and should be valued not only as guardians of the forest but also as disseminators of knowledge that can help mitigate climate change and environmental destruction. In this context, we propose to discuss factors that not only add value to their community businesses but also ensure that this value remains within the territory. To achieve this, we will address three key issues:
-- Alliances for innovation
-- Payment for environmental services  
-- Sustainable productive chains
-
-You can find more details about the special session by following [this link]({{ 'assets/documents/ICRSR2025_SpecialSession2.pdf' | relative_url }}).
 
 </section>
 
