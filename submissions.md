@@ -10,7 +10,7 @@ redirect_from:
 
 |                                       | Date                                                     |
 | ------------------------------------- | -------------------------------------------------------- |
-| Abstract Submission Deadline          | 26 June 2026                                             |
+| Abstract Submission Deadline          | ~26 June 2026~ 20 July 2026                              |
 | Abstract Acceptance Notification      | 26 July 2026                                             |
 | Conference Dates                      | 29-30 October 2026                                       |
 | Post-Conference Full Paper Submission | 30 November 2026                                         |
