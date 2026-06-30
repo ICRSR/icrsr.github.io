@@ -44,6 +44,10 @@ With a multidisciplinary approach it is expected that this conference will be at
 
 ### Resilient tourism territories: governance, innovation and adaptation for a sustainable future
 
+#### Organizers
+- Mário Silva, ESHTE/CITUR
+- Jorge Umbelino, ESHTE/CITUR
+
 ##### *Date to be announced*
 
 This special session aims to explore strategies, policies and innovative solutions that strengthen the resilience of tourism destinations in response to contemporary challenges.
@@ -61,10 +65,9 @@ You can find more details about the special session by following [this link]({{ 
 </article>
 
 
-{% comment %}
-<!-- ## Registration
-Registration is now open. You can find all the details at the [Attending]({{ 'attending' | relative_url }}) page. -->
-{% endcomment %}
+## Registration
+Registration is now open. You can find all the details at the [Attending]({{ 'attending' | relative_url }}) page.
+
 
 {% comment %}
 <!-- ## Submissions

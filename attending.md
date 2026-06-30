@@ -20,15 +20,7 @@ permalink: /attending/
 If you wish to attend the conference dinner, please add an additional **30€** to your registration fee at the time of payment.  
 
 ### Registration Process  
-*(Details about the registration process will be announced soon)*
-
-
-
-{% comment %}
-<!--
-
-### Registration Process  
-To register, please complete the following **[Registration Form](https://inqueritos.ips.pt/index.php?r=survey/index&sid=251266&lang=en&utm_source=conference_website&utm_medium=website&utm_campaign=registration)**.  
+To register, please complete the following **[Registration Form](https://inqueritos.ips.pt/index.php?r=survey/index&sid=495611&lang=en&utm_source=conference_website&utm_medium=website&utm_campaign=registration)**.  
 
 ### Payment Details  
 The registration fee must be paid via wire transfer to the following account:  
@@ -39,9 +31,6 @@ The registration fee must be paid via wire transfer to the following account:
 After making the payment, you must upload proof of payment during registration.  
 
 - **Student Registration**: If you are registering as a student, please also upload a copy of your student ID or an official document from your institution (e.g., a system printout) confirming your student status.  
-
--->
-{% endcomment %}
 
 ### Contact  
 For any registration-related issues, please contact us at [ICSRS2026@esce.ips.pt](mailto:ICSRS2026@esce.ips.pt).  
