@@ -32,7 +32,7 @@ All accepted abstracts will be published in the **Abstracts Book** of the confer
 
 ### **Scopus** and **Web of Science** indexed journals associated to the conference
 
-#### European Journal of Interdisciplinary Studiesopen access 
+#### European Journal of Interdisciplinary Studies
 The [**European Journal of Interdisciplinary Studies (EJIS)**](https://www.ejist.ro/) is the first academic journal dedicated to providing a forum for dialogue for advancing European knowledge within and across multiple social science and humanities disciplines.The EJIS editors envision an area of research without borders, integrating research undertaken in both Western and Eastern Europe. They are specially interested to promote interdisciplinary research in Eastern European countries, to promote the exchange of idea throughout Europe, and to bring together researchers and academics from countries where communist legacies are still present.
 
 [![SCImago Journal & Country Rank](https://www.scimagojr.com/journal_img.php?id=21101039259)](https://www.scimagojr.com/journalsearch.php?q=21101039259&tip=sid&exact=no)
