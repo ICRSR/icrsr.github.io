@@ -36,21 +36,21 @@ With a multidisciplinary approach it is expected that this conference will be at
 
 **Conference sessions will be held in English, but some selected sessions will be held in Portuguese (to be announced in the program).**
 
-<article id="specialsessions" markdown="1">
+<article id="specialsessions-thursday" markdown="1">
 
-## Special Sessions
+## Special Sessions – Thursday, 29 October 2026
 
-<section id="specialsession-1" markdown="1">
+<section id="specialsession-thursday-1" markdown="1">
 
-### Resilient tourism territories: governance, innovation and adaptation for a sustainable future
+#### Special Session 1 – Resilient Tourism Territories: Governance, Innovation and Adaptation for a Sustainable Future
 
 #### Organizers
 - Mário Silva, ESHTE/CITUR
 - Jorge Umbelino, ESHTE/CITUR
 
-##### *Date to be announced*
+##### 11:00–12:15 · Auditorium
 
-This special session aims to explore strategies, policies and innovative solutions that strengthen the resilience of tourism destinations in response to contemporary challenges.
+This session aims to explore strategies, policies and innovative solutions that strengthen the resilience of tourism destinations in response to contemporary challenges.
 
 It seeks to promote an integrated perspective of tourism as a complex territorial system in which resilience, competitiveness and quality of life must be addressed in a holistic and interconnected manner.
 
@@ -62,12 +62,50 @@ You can find more details about the special session by following [this link]({{ 
 
 </section>
 
+<section id="specialsession-thursday-2" markdown="1">
+
+#### Special Session 2 – INnovative and Sustainable iGovernance for High-Value Tourism
+
+##### 12:15–13:30 · Auditorium
+
+This session explores the resilience of tourism destinations, focusing on governance, innovation, climate adaptation, pressure on resources, seasonality, digitalisation, risk management and community engagement.
+
+*More details to be added*
+
+</section>
+
 </article>
 
+<article id="specialsessions-friday" markdown="1">
+
+## Special Sessions – Friday, 30 October 2026
+
+<section id="specialsession-friday-2" markdown="1">
+
+#### Special Session 2 – Resilient Port Ecosystems, AI and Sustainable Blue Regions
+
+##### 13:15–14:30 · Auditorium
+
+*More details to be added*
+
+</section>
+
+<section id="specialsession-friday-3" markdown="1">
+
+#### Special Session 3 – Circular Models for Resilient Territories
+
+##### 15:00–16:15 · Casa Baía
+
+Session dedicated to the presentation of circular models, linking circular economy, territorial sustainability, sustainable tourism, waste management, climate adaptation and regional development.
+
+*More details to be added*
+
+</section>
+
+</article>
 
 ## Registration
 Registration is now open. You can find all the details at the [Attending]({{ 'attending' | relative_url }}) page.
-
 
 {% comment %}
 <!-- ## Submissions
