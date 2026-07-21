@@ -81,7 +81,7 @@ All submitted abstracts will undergo a double-blind peer-review process. Reviewe
 
 For each abstract, reviewers should provide:
 
-- A recommendation: Accept, Accept with Minor Revisions, Accept with Major Revisions, or Reject;
+- A recommendation: **Accept**, **Accept with Minor Revisions**, **Accept with Major Revisions**, or **Reject**;
 - Constructive comments for the authors, highlighting strengths and areas for improvement;
 - Confidential comments to the Scientific Committee, if necessary.
 
