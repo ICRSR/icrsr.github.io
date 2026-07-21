@@ -17,7 +17,7 @@ redirect_from:
 | Full Paper Acceptance Notification    | 31 January 2027                                          |
 
 
-## Instructions
+## Instructions for Authors
 
 <section id="abstracts" markdown="1">
 
@@ -65,7 +65,31 @@ Finisterra is indexed on the following scientific platforms: **Clarivate / Web o
 
 [![SCImago Journal & Country Rank](https://www.scimagojr.com/journal_img.php?id=28168)](https://www.scimagojr.com/journalsearch.php?q=28168&tip=sid&exact=no)
 
-*(More journals will be announced soon)*
+</section>
+
+<section id="reviewers" markdown="1">
+
+## Instructions for Reviewers
+
+All submitted abstracts will undergo a double-blind peer-review process. Reviewers are kindly requested to evaluate each abstract according to the following criteria:
+
+- Relevance to the themes and scope of the 3rd International Conference on Resilience and Sustainable Regions (ICRSR 2026);
+- Originality and contribution to knowledge and practice;
+- Scientific quality and methodological soundness;
+- Clarity of objectives, methods, results, and conclusions;
+- Overall organization, coherence, and quality of writing.
+
+For each abstract, reviewers should provide:
+
+- A recommendation: Accept, Accept with Minor Revisions, Accept with Major Revisions, or Reject;
+- Constructive comments for the authors, highlighting strengths and areas for improvement;
+- Confidential comments to the Scientific Committee, if necessary.
+
+Reviewers are asked to ensure that their assessments are objective, respectful, and based solely on the academic merit of the submission. Any potential conflict of interest should be reported to the Conference Organizing Committee before proceeding with the review.
+
+The review process aims to ensure the scientific quality of the conference and to support authors in improving their work for presentation and potential subsequent journal publication.
+
+</section>
 
 {% comment %}
 <!--
