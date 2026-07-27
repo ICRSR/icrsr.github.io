@@ -14,7 +14,7 @@ permalink: /attending/
 | Late Registration (Students)       | **30€**  |  
 
 - **Early Registration Deadline**: 15 September 2026  
-- **Late Registration Deadline**: 5 October 2026  
+- **Late Registration Deadline**: 29 September 2026  
 
 ### Conference Dinner  
 If you wish to attend the conference dinner, please add an additional **30€** to your registration fee at the time of payment.  
