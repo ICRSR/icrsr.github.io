@@ -22,13 +22,13 @@ redirect_from:
 <section id="abstracts" markdown="1">
 
 <!-- ### [Call for Abstracts]({{ 'news/2024/10/21/call-for-abstracts.html' | relative_url }}) -->
-The abstracts should be submitted using the following template: [**Abstract Template**]({{ 'assets/documents/ExtendedAbstract.docx' | relative_url }}){:target="_blank"}. Please follow the instructions presented in the template document and fill it accordingly with your own content.
+**Abstract submission is now closed.** The deadline was 20 July 2026 and the authors have already been notified of the outcome. The accepted abstracts are listed in the [conference Program]({{ 'program' | relative_url }}).
 
-You should submit your abstract using the following form: [**Abstract Submission Form ICRSR 2026**](https://forms.gle/EVbEtMgVP1sKkTSx9)
+Abstracts were submitted using the following template: [**Abstract Template**]({{ 'assets/documents/ExtendedAbstract.docx' | relative_url }}){:target="_blank"}.
 
 For any question related with submissions you can contact **[ICSRS2026@esce.ips.pt](mailto:ICSRS2026@esce.ips.pt)**.
 
-All accepted abstracts will be published in the **Abstracts Book** of the conference. You will later be able to submit a full paper for publishing in a **Scopus** and **Web of Science** indexed journals associated to the conference.
+All accepted abstracts will be published in the **Abstracts Book** of the conference. You will later be able to submit a full paper for publishing in the **Scopus** and **Web of Science** indexed journals associated to the conference.
 
 ### **Scopus** and **Web of Science** indexed journals associated to the conference
 
@@ -57,11 +57,11 @@ It is ranked as a Q2 journal in the **Economics, Econometrics, and Finance** cat
 
 This journal is also regularly indexed in a variety of reputable databases, including **SCOPUS**, **Emerging Sources Citation Index (ESCI)**, **DOAJ**, **e-revist@s**, **Latindex**, **Redalyc**, **Dialnet**, **Open Science Directory**, and **EBSCO Publishing**, among others.
 
-##### Finisterra
+#### Finisterra
 
 [**Finisterra - Portuguese Journal of Geography**](https://ceg.igot.ulisboa.pt/en/finisterra) publishes original research in various areas of human and physical geography including environmental resources and hazards, local and regional planning, territory planning, local and regional development, and geographical information systems, among others. The Publisher is **Universidade de Lisboa**.
 
-Finisterra is indexed on the following scientific platforms: **Clarivate / Web of Science (Emerging Sources Citation Index – ESCI)**; **SciELO Citation Index**; **SCOPUS**; **ERIH PLUS (European Benchmark Index for Humanities and Social Sciences)**; **WebQualis (Capes)**; **SCImago**; **SciELO – Scientific Electronic Library**; **EBSCO (Academic Search Complete)**; **DOAJ (Directory of Open Access Journals)**; **Dialnet**; **Latindex (Regional Online Information System for Scientific Journals from Latin America, the Caribbean, Spain and Portugal)**; **REDIB (Ibero-American Network of Innovation and Scientific Knowledge)**; **Sherpa/ROMEO (newspaper database)**. Databases, including **SCOPUS**, **Emerging Sources Citation Index (ESCI)**, **DOAJ**, **e-revist@s**, **Latindex**, **Redalyc**, **Dialnet**, **Open Science Directory**, and **EBSCO Publishing**, among others.
+Finisterra is indexed on the following scientific platforms: **Clarivate / Web of Science (Emerging Sources Citation Index – ESCI)**; **SciELO Citation Index**; **SCOPUS**; **ERIH PLUS (European Benchmark Index for Humanities and Social Sciences)**; **WebQualis (Capes)**; **SCImago**; **SciELO – Scientific Electronic Library**; **EBSCO (Academic Search Complete)**; **DOAJ (Directory of Open Access Journals)**; **Dialnet**; **Latindex (Regional Online Information System for Scientific Journals from Latin America, the Caribbean, Spain and Portugal)**; **REDIB (Ibero-American Network of Innovation and Scientific Knowledge)**; **Sherpa/ROMEO (newspaper database)**.
 
 [![SCImago Journal & Country Rank](https://www.scimagojr.com/journal_img.php?id=28168)](https://www.scimagojr.com/journalsearch.php?q=28168&tip=sid&exact=no)
 

@@ -29,10 +29,13 @@ With a multidisciplinary approach it is expected that this conference will be at
 - Regional Development and Sustainability
 - Finance, Investments and Funding
 - Society, Education, People and Behaviour
-- Sectoral studies on Tourism, Agriculture, among others
-- Sustainability in construction and buildings
-- Artificial Intelligence in Environmental Sustainability studies
+- Sectoral Studies on Tourism, Agriculture, among Others
+- Sustainability in Construction and Buildings
+- Artificial Intelligence in Environmental Sustainability Studies
 - ESG Reporting and Organizational Sustainability Accountability
+- Tourism Experience, Well-being and Quality of Life in Destinations
+- Innovation, Digitalisation and Smart Solutions in Tourism and Hospitality
+- Hospitality Management, Consumer Behaviour and Sustainable Practices
 
 **Conference sessions will be held in English, but some selected sessions will be held in Portuguese (to be announced in the program).**
 
@@ -139,68 +142,4 @@ Abstracts submitted to the ICRSR 2023 will be reviewed by the scientific committ
 Authors of accepted and registed abstracts are also encouraged to submit a full paper to be reviewed by the scientific committees of the conference. The selected full papers will be published in the [Proceedings](https://www.mdpi.com/journal/proceedings) journal by MDPI.
 
 [More details]({{ 'submissions/#fullpapers' | relative_url }}) -->
-{% endcomment %}
-
-{% comment %}
-<!-- <article id="keynotes" markdown="1">
-
-## Keynotes
-
-<section id="keynote-1" markdown="1">
-
-### Climate Modelling and AI for a Resilient Earth in the Context of Climate Change
-#### Speaker: Pedro Matos Soares
-##### 2/7/2025 @ 10:30
-- Assistant Professor at the [Department of Geographical Engineering, Geophysics and Energy, Faculty of Sciences, University of Lisbon](https://ciencias.ulisboa.pt/en/degge).
-- Principal Researcher at [Instituto Dom Luiz (IDL), Faculty of Sciences, University of Lisbon](https://idl.ciencias.ulisboa.pt/).
-- <i class="fa-solid fa-building-columns"></i> [idlcc.fc.ul.pt/people.php?id=32](https://idlcc.fc.ul.pt/people.php?id=32)
-- <i class="fa-solid fa-envelope"></i> [pmsoares@fc.ul.pt](mailto:pmsoares@fc.ul.pt)
-
-<img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-pedro-matos-soares.jpg" | relative_url }}" alt="Hannes Raffaseder Portrait">
-
-Pedro Matos Soares is an Assistant Professor in the Department of Geographical Engineering, Geophysics and Energy and Principal Researcher at the Instituto Dom Luiz (IDL), both at the Faculty of Sciences of the University of Lisbon. His PhD in Physics focused on turbulence and clouds in atmospheric models.
-
-Over the last 3 decades he has focused his research efforts on climate modeling, climate change, and energy and sustainability, leading from 2018 to 2022, the IDL research group on Climate change, atmosphere-land-ocean processes and extremes.
-
-He was an active member in 13 international (PI of 1) and 13 national (PI of 5) projects and coordinates the Portuguese CORDEX team endorsed by WRCP. He was the scientific coordinator of the EEA grants project “National Roadmap for Adaptation 2100 – Assessment of the vulnerability of the Portuguese territory to climate change in the 21st century (RNA 2100)”, and led the “Regional Strategy for Adaptation to Climate Change in the Alentejo” and the “Municipal Climate Action Plan of Barcelos”.
-
-Recently, he was appointed to the Portuguese Council for Climate Action, and is a member of the Scientific Committee of the PhD Program in Climate Change and Sustainable Development Policies and of the Scientific Commitee of the Portuguese Council for Health and Environment. In the context of climate change and its impacts, it has strong collaboration with institutions such as the Lisbon City Council (Lisbon-Enova), the Health authorities, the Portuguese Environment Agency, E-REDES, CCDRs, and many others.
-
-He has published more than 130 scientific articles in refereed international journals and carried out hundreds of international communications and outreach presentations; and, is a science communicator with a constant presence in the media. In 2020 he received the University of Lisbon/Caixa Geral Depósitos award for scientific production in the last 5 years in Earth Sciences, and in 2022 the Prize from the Faculty of Sciences of the University of Lisbon in Earth Sciences.
-
-</section>
-
-<section id="keynote-2" markdown="1">
-
-### Resilience as Relationship: Rethinking Sustainability in Times of Systemic Change
-##### 2/7/2025 @ 11:45
-
-In an era shaped by overlapping crises (ecological, geopolitical, economic, and emotional) resilience has become a guiding term in policy and sustainability discourse. Yet mainstream interpretations often reduce resilience to coping or bouncing back, overlooking its deeper relational, ethical, and systemic dimensions. This keynote explores resilience not as a fixed trait or outcome, but as a relational capacity: the ability to sustain care, connection, and creativity under pressure. Drawing on research from the SHARED GREEN DEAL project and practice-based insights from The CareLab, the talk reimagines resilience as a transformative force rooted in learning, mutuality, and systemic alignment. Framing resilience through a relational lens opens space to enrich the implementation of the Green Deal—connecting inner and outer change, grounding policy in lived realities, and cultivating regenerative potential in both people and systems.
-
-#### Speaker: Antje Disterheft
-- Researcher at Institute of Social Sciences (ICS), University of Lisbon
-- <i class="fa-solid fa-building-columns"></i> [https://www.ics.ulisboa.pt/en/pessoa/antje-disterheft](https://www.ics.ulisboa.pt/en/pessoa/antje-disterheft)
-- <i class="fa-solid fa-envelope"></i> [antje.disterheft@ics.ulisboa.pt](mailto:antje.disterheft@ics.ulisboa.pt)
-
-<img class="keynote-speaker" src="{{ "/assets/images/keynote-speaker-antje-disterheft.jpg" | relative_url }}" alt="Antje Disterheft Portrait">
-
-**Antje Disterheft** is a researcher at the Institute of Social Sciences (ICS), University of Lisbon, where she works on the Horizon Europe project [SHARED GREEN DEAL](https://sharedgreendeal.eu/). She contributes to the analysis of transdisciplinary social experiments across six Green Deal priority areas and to the development of training resources on behavioural, cultural, and social change.
-
-She is part of the **SHIFT – Environment, Territory and Society** research group and a member of the editorial team of the group’s blog ([**Ambiente, Território e Sociedade**](https://ambienteterritoriosociedade-ics.org/)).
-
-Her research explores relational and transdisciplinary approaches to sustainability, with a focus on the interplay between inner and outer dimensions of transformation. Her work spans fields such as sustainability transitions, transformative learning, ecological economics, and governance.
-
-Antje teaches at bachelor, master, and PhD levels, and is also an invited professor at Universidade Aberta. Her pedagogical approach is rooted in mutual learning, co-creation, and embodied educational practices. She frequently experiments with participatory and reflective tools to support deeper engagement with sustainability challenges.
-
-She is a co-founding member of the Portuguese network Rede Campus Sustentável, where she serves on the Executive Commission and contributes to working groups, annual events, and the network’s newsletter. Before joining ICS, she was a postdoctoral researcher at CENSE – NOVA University Lisbon, where she founded [The CareLab for People and Planet](http://www.the-care-lab.org), a practice-based initiative on care, sustainability, and systemic change.
-
-Antje holds a PhD in Social Sustainability, an MSc in Environmental Citizenship and Participation, and a BA in Social Work.
-
-**Fields of activity:** Transformative Sustainability, Sustainability Transitions, Education (learning for sustainability), Governance  
-**Keywords:** Sustainability transitions, Transformative learning, Relational sustainability, Transdisciplinary research, Care and wellbeing
-
-</section>
-
-</article>
--->
 {% endcomment %}

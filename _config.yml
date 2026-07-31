@@ -25,7 +25,7 @@ email: ICSRS2026@esce.ips.pt
 #description: >- # this means to ignore newlines until "baseurl:"
 #  1st International Conference on Resilience and Sustainable Regions
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://icrsr.ips.pt" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -55,6 +55,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - archive
+  - assets/images/archive
 
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
