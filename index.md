@@ -80,23 +80,43 @@ This session explores the resilience of tourism destinations, focusing on govern
 
 ## Special Sessions – Friday, 30 October 2026
 
-<section id="specialsession-friday-2" markdown="1">
+<section id="specialsession-friday-3" markdown="1">
 
-#### Special Session 2 – Resilient Port Ecosystems, AI and Sustainable Blue Regions
+#### Special Session 3 – Connected Minds Projects
 
-##### 13:15–14:30 · Auditorium
+##### 09:00–10:30 · Casa da Baía
 
 *More details to be added*
 
 </section>
 
-<section id="specialsession-friday-3" markdown="1">
+<section id="specialsession-friday-4" markdown="1">
 
-#### Special Session 3 – Circular Models for Resilient Territories
+#### Special Session 4 – Sustainability and Circular Models
 
-##### 15:00–16:15 · Casa Baía
+##### 10:30–12:30 · Casa da Baía
 
 Session dedicated to the presentation of circular models, linking circular economy, territorial sustainability, sustainable tourism, waste management, climate adaptation and regional development.
+
+*More details to be added*
+
+</section>
+
+<section id="specialsession-friday-5" markdown="1">
+
+#### Special Session 5 – EUDRES CoE
+
+##### 13:15–14:15 · Auditorium
+
+*More details to be added*
+
+</section>
+
+<section id="specialsession-friday-6" markdown="1">
+
+#### Special Session 6 – ESG and Financing Report for Resilient and Sustainable Regions / ESG e Relato Financeiro para Regiões Resilientes e Sustentáveis
+
+##### 16:00–17:00 · Auditorium
 
 *More details to be added*
 

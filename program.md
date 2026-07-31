@@ -9,12 +9,13 @@ permalink: /program/
 ### Thursday, 29 October 2026
 
 * **08:45-09:15** Registration (IPS/ESCE)
-* **09:15-09:45** Opening session (Auditorium)
-* **09:45-10:30** Keynote lecture - Invited speaker: Resilient and Sustainable Regions in the Context of Green, Digital and Social Transitions (Auditorium)
-* **10:30-11:00** Coffee break
+* **09:15-09:45** Opening session - Teresa Costa (Conference Chair) and Pedro Pardal (ESCE Dean) (Auditorium)
+* **09:45-10:15** Keynote lecture - Invited speaker: Resilient and Sustainable Regions in the Context of Green, Digital and Social Transitions (Auditorium)
+* **10:15-10:40** Pro-President - Raquel Barreira: Building Research Excellence Together: the E³UDRES² Applied Research Centers initiative
+* **10:40-11:00** Coffee break
 * **11:00-12:15** [Special Session 1 - Resilient Tourism Territories: Governance, Innovation and Adaptation for a Sustainable Future (Auditorium)](/#specialsession-thursday-1)
 * **12:15-13:30** [Special Session 2 - INnovative and Sustainable iGovernance for High-Value Tourism (Auditorium)](/#specialsession-thursday-2)
-* **12:15-13:30 – [Parallel Sessions - Slot 1](#parallel-sessions-1)**
+* **12:15-13:30 – [Parallel Sessions - Slot 1](#parallel-sessions-1)** (Rooms A, B, C)
   * [Session 1 – Ports, sustainable logistics, artificial intelligence and decision support](#session-1) (Room A)
   * [Session 2 – Tourism, events, digital marketing and destination resilience](#session-2) (Room B)
   * [Session 3 – Circular economy, territorial sustainability and climate adaptation](#session-3) (Room C)
@@ -27,26 +28,30 @@ permalink: /program/
 
 ### Friday, 30 October 2026
 
-* **09:00-10:15 – [Parallel Sessions - Slot 2](#parallel-sessions-2)**
+* **09:00-10:15 – [Parallel Sessions - Slot 2](#parallel-sessions-2)** (Rooms A, B, C)
   * [Session 4 – Society, education, behaviour and human sustainability](#session-4) (Room A)
   * [Session 5 – Finance, SMEs, assets and sectoral economic resilience](#session-5) (Room B)
   * [Session 6 – Environment, pollution, environmental health and bioremediation](#session-6) (Room C)
+* **09:00-10:30** [Special Session 3 - Connected Minds Projects (Casa da Baía)](/#specialsession-friday-3)
 * **10:15-10:45** Coffee break
-* **10:45-12:00 – [Parallel Sessions - Slot 3](#parallel-sessions-3)**
+* **10:45-12:00 – [Parallel Sessions - Slot 3](#parallel-sessions-3)** (Rooms A, B, C)
   * [Session 7 – Bioengineering, biomolecules and analytical methods](#session-7) (Room A)
-  * [Session 8 – Presentations to be confirmed / late submissions](#session-8) (Room B)
-  * [Scientific meetings / networking / editorial committee](#session-9) (Room C)
+  * [Session 8 – Cognition, learning and human-centred sustainability](#session-8) (Room B)
+  * [Session 9 – Digital transformation, marketing and sustainable tourism](#session-9) (Room C)
+* **10:30-12:30** [Special Session 4 - Sustainability and Circular Models (Casa da Baía)](/#specialsession-friday-4)
 * **12:00-13:15** Lunch
-* **13:15-14:30** [Special Session 2 - Resilient Port Ecosystems, AI and Sustainable Blue Regions (Auditorium)](/#specialsession-thursday-2)
-* **14:30-15:00** Coffee break
-* **15:00-16:15** [Special Session 3 - Circular Models for Resilient Territories (Casa Baía)](/#specialsession-friday-3)
-* **16:15-16:45** Conference synthesis / scientific reporting (Auditorium)
-* **16:45-17:15** Closing session (Auditorium)
-* **17:15** End of the conference
+* **13:15-14:15** [Special Session 5 - EUDRES CoE (Auditorium)](/#specialsession-friday-5)
+* **14:15-15:30 – [Parallel Sessions - Slot 4](#parallel-sessions-4)** (Rooms A, B, C, D)
+  * [Session 10 – Circular construction, materials and urban transformation](#session-10) (Room A)
+  * [Session 11 – Circular bioeconomy, agriculture and regional food systems](#session-11) (Room B)
+  * [Session 12 – Entrepreneurship, regional development and financial resilience](#session-12) (Room C)
+  * [Session 13 – Water, climate resilience and environmental biotechnology](#session-13) (Room D)
+* **15:30-16:00** Coffee break
+* **16:00-17:00** [Special Session 6 - ESG and Financing Report for Resilient and Sustainable Regions / ESG e Relato Financeiro para Regiões Resilientes e Sustentáveis (Auditorium)](/#specialsession-friday-6)
+* **17:00** Closing session (Auditorium)
 
-{% comment %}
-<!--
 ---
+
 ## Detailed Sessions
 
 <div class="parallel-sessions" id="parallel-sessions-1" markdown="1">
@@ -56,68 +61,40 @@ permalink: /program/
 <div class="session" id="session-1" markdown="1">
 
 #### **Parallel Session 1 – Ports, sustainable logistics, artificial intelligence and decision support** (Room A)
-* **TOWARDS AN INTEGRATED ASSESSMENT FRAMEWORK FOR UAV ADOPTION IN SUSTAINABLE PORT LOGISTICS**
-  * Gilvan Lima
-  * Tiago Pinho
-  * Marcela Castro
-  * Ana Mendes
-  * Inês Ferreira
-* **Towards Resilient and Sustainable Port Regions: Assessing UAV Adoption Through an Integrated Efficiency and Sustainability Framework**
-  * Gilvan Lima
-  * Ana de Jesus Mendes
-  * Marcela Castro
-  * Tiago Pinho
-* **ARTIFICIAL INTELLIGENCE AS AN ENABLER OF RESILIENT AND SUSTAINABLE PORT ECOSYSTEMS: INSIGHTS FROM A BIBLIOMETRIC REVIEW**
-  * Maria Rosilene Sabino
-  * Ana de Jesus Mendes
-  * Marcela Castro
-  * Tiago Pinho
-* **MULTI-ATTRIBUTE DECISION-MAKING: WEIGHTING CRITERIA ANALYSIS**
-  * Nuno R. Costa
-  * João M. Lourenço
+* **Towards an Integrated Assessment Framework for UAV Adoption in Sustainable Port Logistics**<br>
+  Gilvan Lima; Tiago Pinho; Marcela Castro; Ana Mendes; Inês Ferreira
+* **Towards Resilient and Sustainable Port Regions: Assessing UAV Adoption Through an Integrated Efficiency and Sustainability Framework**<br>
+  Gilvan Lima; Ana de Jesus Mendes; Marcela Castro; Tiago Pinho
+* **Artificial Intelligence as an Enabler of Resilient and Sustainable Port Ecosystems: Insights from a Bibliometric Review**<br>
+  Maria Rosilene Sabino; Ana de Jesus Mendes; Marcela Castro; Tiago Pinho
+* **Multi-Attribute Decision-Making: Weighting Criteria Analysis**<br>
+  Nuno R. Costa; João M. Lourenço
 </div>
 
 <div class="session" id="session-2" markdown="1">
 
 #### **Parallel Session 2 – Tourism, events, digital marketing and destination resilience** (Room B)
-* **Event-level coordination practices in tourism events: A qualitative study of operational routines among event organisers**
-  * Filipe Segurado Severino
-  * Teresa Costa
-  * Célia M. Q. Ramos
-* **HOW TOURISTS NARRATE RESILIENCE: A QUALITATIVE EXPLORATION OF DESTINATION EXPERIENCES**
-  * Soufiane Benhaida
-  * Rositsa Röntynen
-  * Larbi Safaa
-* **MARKETING DIGITAL COMO ELEMENTO DIFERENCIADOR NA CAPTAÇÃO E FIDELIZAÇÃO DE CLIENTES EM EMPRESAS DO SETOR TURÍSTICO**
-  * Yolanda José
-  * Teresa Costa
-  * Filipe Severino
-* **DIGITAL MARKETING, COMPETITIVENESS AND CUSTOMER RELATIONSHIPS IN TOURISM COMPANIES**
-  * Yolanda José
-  * Teresa Costa
-  * Filipe Segurado Severino
+* **Event-Level Coordination Practices in Tourism Events: A Qualitative Study of Operational Routines Among Event Organisers**<br>
+  Filipe Segurado Severino; Teresa Costa; Célia M. Q. Ramos
+* **How Tourists Narrate Resilience: A Qualitative Exploration of Destination Experiences**<br>
+  Soufiane Benhaida; Rositsa Röntynen; Larbi Safaa
+* **Digital Marketing, Competitiveness and Customer Relationships in Tourism Companies**<br>
+  Yolanda José; Teresa Costa; Filipe Segurado Severino
+* **Pet-Friendly Tourism as a Pathway Towards Resilient and Sustainable Destinations: A Four-Pillar Framework**<br>
+  Laura Cruz; Filipe Segurado Severino
 </div>
 
 <div class="session" id="session-3" markdown="1">
 
 #### **Parallel Session 3 – Circular economy, territorial sustainability and climate adaptation** (Room C)
-* **EMERGING ORGANISATIONAL PATHWAYS FOR OPERATIONALISING DOUGHNUT ECONOMICS: INSIGHTS FROM A BIBLIOMETRIC AND QUALITATIVE ANALYSIS**
-  * Sandrina B. Moreira
-* **EXPLORING THE DETERMINANTS OF CIRCULAR PRACTICES IN LEISURE BY HOUSEHOLDS USING THE THEORY OF PLANNED BEHAVIOR: A QUALITATIVE DIRECTED CONTENT ANALYSIS**
-  * Chathrika Kawmadi Lokuliyana
-  * Aija van der Steina
-* **SOLID WASTE MANAGEMENT IN COASTAL TOURIST DESTINATIONS: THE CASE OF THE GUARDIAS DO SADO AND ITS CONTRIBUTIONS TO THE CIRCULAR ECONOMY AND SUSTAINABLE TOURISM**
-  * Luísa Carvalho
-  * Pedro Pardal
-  * Silvio Roberto Stefani
-  * Josiane Rodrigues dos Santos
-  * Ronaldo José Seramim
-  * Célia Kozak
-  * Juliana Terluk Kuchla
-* **RESILIÊNCIA À SECA EM MOÇAMBIQUE: UMA PERSPETIVA A PARTIR DE SOLUÇÕES BASEADAS NA NATUREZA**
-  * Felizardo Masseko
-  * José Mendes
-  * Vasco Mantas
+* **Emerging Organisational Pathways for Operationalising Doughnut Economics: Insights from a Bibliometric and Qualitative Analysis**<br>
+  Sandrina B. Moreira
+* **Exploring the Determinants of Circular Practices in Leisure by Households Using the Theory of Planned Behavior: A Qualitative Directed Content Analysis**<br>
+  Chathrika Kawmadi Lokuliyana; Aija van der Steina
+* **Solid Waste Management in Coastal Tourist Destinations: The Case of the Guardiãs do Sado and Its Contributions to the Circular Economy and Sustainable Tourism**<br>
+  Luísa Carvalho; Pedro Pardal; Silvio Roberto Stefani; Josiane Rodrigues dos Santos; Ronaldo José Seramim; Célia Kozak; Juliana Terluk Kuchla
+* **Resiliência à Seca em Moçambique: Uma Perspetiva a Partir de Soluções Baseadas na Natureza**<br>
+  Felizardo Masseko; José Mendes; Vasco Manta
 </div>
 
 </div>
@@ -129,73 +106,40 @@ permalink: /program/
 <div class="session" id="session-4" markdown="1">
 
 #### **Parallel Session 4 – Society, education, behaviour and human sustainability** (Room A)
-* **Agent-Based Modeling in Science Education and Research: Exploring Its Role in Understanding Resilient and Sustainable Systems**
-  * Fábio Ferrentini Sampaio
-* **FAMILY-BASED PHYSICAL ACTIVITY AS A DRIVER OF SOCIAL RESILIENCE AND HUMAN SUSTAINABILITY: A HUMAN ECOLOGY PERSPECTIVE**
-  * Susana Garradas
-  * Carolina A. Cabo
-  * Mário C. Espada
-  * José A. Parraça
-* **MODEL FOR EVALUATING FACTORS THAT INFLUENCE PARTICIPATION IN PHYSICAL ACTIVITY PROGRAMS**
-  * Carla Ramires
-  * Paula V. Martins
-  * Sílvia C. Fernandes
-  * Jack Shakespeare
-  * Eloy Mazon
-* **NETWORK DYSFUNCTION AND THE REPRODUCTION OF STRUCTURAL HOLES: JAPAN'S COMMUNITY-REACTIVATING COOPERATOR SQUAD IN MIYAGI**
-  * Haoyu Yao
+* **Agent-Based Modeling in Science Education and Research: Exploring Its Role in Understanding Resilient and Sustainable Systems**<br>
+  Fábio Ferrentini Sampaio
+* **Family-Based Physical Activity as a Driver of Social Resilience and Human Sustainability: a Human Ecology Perspective**<br>
+  Susana Garradas; Carolina A. Cabo; Mário C. Espada; José A. Parraça
+* **Model for Evaluation Factors That Influence Participation in Physical Activity Programs**<br>
+  Carla Ramires; Paula V. Martins; Sílvia C. Fernandes; Jack Shakespeare; Eloy Mazon
+* **Dysfunction and the Reproduction of Structural Hole: Japan's Community-Reactivating Cooperator Squad in Miyagi**<br>
+  Haoyu Yao
 </div>
 
 <div class="session" id="session-5" markdown="1">
 
 #### **Parallel Session 5 – Finance, SMEs, assets and sectoral economic resilience** (Room B)
-* **PUBLIC INCENTIVES, STRUCTURAL HETEROGENEITY AND SME FINANCIAL PERFORMANCE: EVIDENCE FROM PORTUGUESE SMES (2014-2023)**
-  * Carlos Faustino
-  * Carlos Borralho
-  * Maria Basílio
-  * André Carvalho
-* **The profitability trap: Firm resilience in the European accommodation industry**
-  * Carina Ramos Jesus
-  * Luís Miguel Serra Coelho
-  * Célia Maria Quitério Ramos
-* **REGENERATIVE ASSET INTELLIGENCE AS A FRAMEWORK FOR RESILIENT RESIDENTIAL ASSETS IN PORTUGAL**
-  * Eduardo Amaral
-* **Presentation to be confirmed**
-  * To be confirmed
+* **Public Incentives, Structural Heterogeneity and SME Financial Performance: Evidence from Portuguese SMEs (2014–2023)**<br>
+  Carlos Faustino; Carlos Borralho; Maria Basílio; André Carvalho
+* **The Profitability Trap: Firm Resilience in the European Accommodation Industry**<br>
+  Carina Ramos Jesus; Luís Miguel Serra Coelho; Célia Maria Quitério Ramos
+* **Regenerative Asset Intelligence as a Framework for Resilient Residential Assets in Portugal**<br>
+  Eduardo Amaral
+* **Determinants of the Performance of the Iberian Banking Sector (Portugal and Spain)**<br>
+  Celina Sousa; Maria Basílio
 </div>
 
 <div class="session" id="session-6" markdown="1">
 
 #### **Parallel Session 6 – Environment, pollution, environmental health and bioremediation** (Room C)
-* **WHEN NANOPLASTICS MEET TOXIC METALS: CONSEQUENCES FOR BIOACCUMULATION AND ANTIOXIDANT RESPONSES IN LETTUCE**
-  * Susana Piçarra
-  * Lara Araújo
-  * Hugo F. Silva
-  * Nelson Silva
-  * José Coelho
-  * Cristina Oliveira
-  * Manuel Matos
-  * Ana Maria Barreiros
-* **OXIDATIVE POTENTIAL OF FINE PARTICULATE MATTER IN SLEEP ENVIRONMENTS: ASSESSING HUMAN EXPOSURE IN LISBON DWELLINGS**
-  * Sara Gonçalves
-  * Sergio Mendez
-  * António Ferreira
-  * Cristina M. Oliveira
-  * Estela Vicente
-  * Célia Alves
-  * Susana Marta Almeida
-  * Joana Lage
-  * Carla Gamelas
-  * Nuno Canha
-* **ISOLATION OF ENDEMIC BACTERIA ISOLATED FROM MINING SITES IN SONORA FOR BIOREMEDIATION OF LEAD CONTAMINATION**
-  * Jennifer Peña Peralta
-  * Jonathan de la Vega Olivas
-* **DEVELOPMENT OF A COLORIMETRIC METHOD TO QUANTIFY Cr(VI) ON CULTURED MEDIA FOR BIOREMEDIATION APPLICATIONS**
-  * Susana María Arreola Vega
-  * Guadalupe Lopez Aviles
-  * Francisco Javier Almendariz Tapia
-  * Leticia Garcia Rico
-  * Jonathan de la Vega Olivas
+* **When Nanoplastics Meet Toxic Metals: Consequences for Bioaccumulation and Antioxidant Responses in Lettuce**<br>
+  Susana Piçarra; Lara Araújo; Hugo F. Silva; Nelson Silva; José Coelho; Cristina Oliveira; Manuel Matos; Ana Maria Barreiros
+* **Oxidative Potential of Fine Particulate Matter in Sleep Environments: Assessing Human Exposure in Lisbon Dwellings**<br>
+  Sara Gonçalves; Sergio Mendez; António Ferreira; Cristina M. Oliveira; Estela Vicente; Célia Alves; Susana Marta Almeida; Joana Lage; Carla Gamelas; Nuno Canha
+* **Isolation of Endemic Bacteria Isolated from Mining Sites in Sonora for Bioremediation of Lead Contamination**<br>
+  Jennifer Peña Peralta; Jonathan de la Vega Olivas
+* **Development of a Colorimetric Method to Quantify Cr(VI) on Cultured Media for Bioremediation Applications**<br>
+  Susana María Arreola Vega; Guadalupe Lopez Aviles; Francisco Javier Almendariz Tapia; Leticia Garcia Rico; Jonathan de la Vega Olivas
 </div>
 
 </div>
@@ -207,40 +151,96 @@ permalink: /program/
 <div class="session" id="session-7" markdown="1">
 
 #### **Parallel Session 7 – Bioengineering, biomolecules and analytical methods** (Room A)
-* **ANALYSIS OF THE USE OF DISACCHARIDES FOR THE FORMULATION OF NUCLEIC ACID STABILIZING SOLUTIONS TO ELIMINATE COLD CHAIN DEPENDENCY**
-  * Dainery Ramos Capote
-  * Guadalupe Lopez Aviles
-  * Francisco Javier Almendariz Tapia
-  * Patricia Guerrero German
-  * Ana Gabriela Gonçalves Neves Gomes
-  * Jonathan de la Vega Olivas
-* **QUANTIFICATION OF CORTISOL IN SWEAT BY ELECTROCHEMICAL IMPEDANCE**
-  * German Javier Rivera Pacheco
-  * Perla Patricia Alday Lara
-  * Edgardo Uriel León Salguero
-  * Jesús Porcayo Calderon
-  * Jonathan de la Vega Olivas
-* **OCCURRENCE AND CHARACTERIZATIOS OF PIGMENTS IN THE SEA STAR Astropecten aranciacus (ECHINODERMATA: ASTEROIDEA)**
-  * David Leitão-Silva
-  * Jorge Lobo-Arteaga
-  * Sonia A. P. Santos
-  * Pedro M. Costa
-* **Presentation to be confirmed**
-  * To be confirmed
+* **Analysis of the Use of Disaccharides for the Formulation of Nucleic Acid Stabilizing Solutions to Eliminate Cold Chain Dependency**<br>
+  Dainery Ramos Capote; Guadalupe Lopez Aviles; Francisco Javier Almendariz Tapia; Patricia Guerrero German; Ana Gabriela Gonçalves Neves Gomes; Jonathan de la Vega Olivas
+* **Quantification of Cortisol in Sweat by Electrochemical Impedance**<br>
+  German Javier Rivera Pacheco; Perla Patricia Alday Lara; Edgardo Uriel León Salguero; Jesús Porcayo Calderon; Jonathan de la Vega Olivas
+* **Occurrence and Characterization of Pigments in the Sea Star Astropecten aranciacus (Echinodermata: Asteroidea)**<br>
+  David Leitão-Silva; Jorge Lobo-Arteaga; Sonia A. P. Santos; Pedro M. Costa
+* **A 96-Well Microplate Approach for Screening Microalgal Growth Responses to Wine Polyphenols**<br>
+  Wilson Júnior; Gabriela Gomes; Carla Amarelo Santos
 </div>
 
 <div class="session" id="session-8" markdown="1">
 
-#### **Parallel Session 8 – Presentations to be confirmed / late submissions** (Room B)
-* Schedule pending further updates
+#### **Parallel Session 8 – Cognition, learning and human-centred sustainability** (Room B)
+* **Visualizing the Dualism of Psyche in the Deep Cognition**<br>
+  Svitlana Manzhara
+* **Knowledge, Attitudes and Consumption of Fermented Foods Among Portuguese Adults: A Cross-Sectional Study**<br>
+  Ana Maria Pires; Ana Cláudia Sousa
+* **Improving Indoor Comfort Conditions in Educational Spaces**<br>
+  Daniela-Roxana Tămaș-Gavrea; Raluca Iștoan; Simona Emanuela Stanca; Alina-Iulia Verdeș
+* **From Data to Lived Experience: Transformative Learning Methodology**<br>
+  Sandrina B. Moreira; Lurdes Pedro; Aldina Soares; Cláudia Coelho; Célia Quintas; José Rebelo
 </div>
 
 <div class="session" id="session-9" markdown="1">
 
-#### **Scientific meetings / networking / editorial committee** (Room C)
-* Schedule to be defined
+#### **Parallel Session 9 – Digital transformation, marketing and sustainable tourism** (Room C)
+* **A Quantitative Study of the Adoption of Artificial Intelligence in Colombia's Coffee Industry**<br>
+  Glyn Atwal; Aniket Sengupta; Douglas Bryson
+* **Marketing Strategies and Sustainability: A PRISMA-Based Bibliometric and Systematic Literature Review**<br>
+  Albérico Rosário; Paula Lopes; Filipe Rosário
+* **Digital Transformation, Marketing, and Sustainable Development: A Bibliometric Review and Future Research Agenda**<br>
+  Albérico Travassos Rosário; Carla Viana
 </div>
 
 </div>
--->
-{% endcomment %}
+
+<div class="parallel-sessions" id="parallel-sessions-4" markdown="1">
+
+### Parallel Sessions – Slot 4
+
+<div class="session" id="session-10" markdown="1">
+
+#### **Parallel Session 10 – Circular construction, materials and urban transformation** (Room A)
+* **From Assembly to Disassembly: Circular Pathways in Modular Housing**<br>
+  Kenza Belkhiri
+* **Towards a Resilient Tomorrow: Upcycling Textile Waste in the Building Materials Sector**<br>
+  Raluca Iștoan; Daniela-Roxana Tămaș-Gavrea; Ana-Alexandra Deak; Karina-Sabina Sbiera
+* **Adaptive Transformation of Historical Canals and Quay Walls in Java, Indonesia**<br>
+  Bjorn Hettema; Bram Entrop; Chely Novia Bramiana
+* **Urban Regeneration and Transportation Infrastructure Redesign in Upstate New York**<br>
+  Carlos Balsas
+</div>
+
+<div class="session" id="session-11" markdown="1">
+
+#### **Parallel Session 11 – Circular bioeconomy, agriculture and regional food systems** (Room B)
+* **From Waste to Resource: Farmers' Perspectives on Developing Circular Wool Value Chains in Romania**<br>
+  Corina Sosdean; Emanoil Linul
+* **Towards a One Health-Based Resilience Framework for Regional Food Systems: A Pesticide Use Case from Lower Saxony, Germany**<br>
+  Hannah Schöneberg; Melanie Speck; Julia Heinz; Kirsten Reichardt; Robin Becker; Tim Stelzner; Stefan Stiene; Martin Atzmueller; Antje Risius
+* **Microalgae-Based Fertilisers for Low-Impact Agriculture**<br>
+  Valter Mateus; Ana Gabriela Gomes; Carla Amarelo Santos; Ana Cláudia de Sousa Coelho
+* **Polyphenol Extraction and Purification from Winery By-Products Collected After Red Wine Fermentation**<br>
+  Clementina Bernardo Mendes; Carla A. Santos; Ana Gabriela Gomes
+</div>
+
+<div class="session" id="session-12" markdown="1">
+
+#### **Parallel Session 12 – Entrepreneurship, regional development and financial resilience** (Room C)
+* **From Necessity to Action: Rethinking Regional Development for a Sustainable Future**<br>
+  Carmina S. Nunes; Susana Garrido
+* **Artificial Intelligence in Entrepreneurship Education: Competencies, Challenges, and Trends from a Delphi Panel of Entrepreneurs in a IPS StartUp Ecosystem**<br>
+  Hortense Santos; Luísa Carvalho; Josiane Rodrigues dos Santos; Silvio Roberto Stefani; Ronaldo José Seramim
+* **Gross e Net Ceiling: variáveis que convertem a Capacidade Financeira Bruta em Capacidade Financeira Líquida**<br>
+  José Carlos Correia; Jorge Robalo; Cândido Peres
+* **Building Local Entrepreneurial Ecosystems for Regional Resilience: Evidence from an Integrated Development Initiative in Portugal**<br>
+  Pedro Mares; Teresa Costa; Filipe Severino
+</div>
+
+<div class="session" id="session-13" markdown="1">
+
+#### **Parallel Session 13 – Water, climate resilience and environmental biotechnology** (Room D)
+* **Wastewater-Based Epidemiology: the Challenge of Thermal-Driven Viral RNA Instability**<br>
+  Denise Barros; Afonso Marques Morais; Gabriela Gomes; Ana Cláudia Coelho; Helena Caria; Marta Campos Justino
+* **Selection and Characterization of Nature-Based Solutions for Climate Resilience in Mediterranean Agro-Silvo-Pastoral Ecosystems**<br>
+  Vittorio de Oliveira Pavan; Maria Paula Mendes
+* **Towards Resilient Water Treatment Using Bioremediation and Biomass-Based Approaches**<br>
+  Gonçalo Soares; Kiné Deme; Thyphaine Maerten; Camille Menard; Gabriela Gomes; Ana Cláudia Coelho; Carla Amarelo Santos; Maria de Fátima Serralha; Susana Piçarra
+* **Mountain Oases in Transformation: A Dynamic Assessment of Water Resilience**<br>
+  Bouchra Kouissi; Julien Burte; Younes Bekkar; Hela Gasmi; Khadija Jaafary; Eduardo Sávio Passos Rodrigues Martins; Jader de Oliveira Santos; Nassreddine Maatala
+</div>
+
+</div>
