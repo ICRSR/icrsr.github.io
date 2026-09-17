@@ -30,22 +30,22 @@ permalink: /program/
 
 * **09:00-10:15 – [Parallel Sessions - Slot 2](#parallel-sessions-2)** (Rooms A, B, C)
   * [Session 4 – Society, education, behaviour and human sustainability](#session-4) (Room A)
-  * [Session 5 – Finance, SMEs, assets and sectoral economic resilience](#session-5) (Room B)
+  * [Session 5 – Finance, SMEs, assets and sectoral economic resilience](#session-5) (Room B - Hybrid)
   * [Session 6 – Environment, pollution, environmental health and bioremediation](#session-6) (Room C)
 * **09:00-10:30** [Special Session 3 - Connected Minds Projects (Casa da Baía)](/#specialsession-friday-3)
 * **10:15-10:45** Coffee break
 * **10:45-12:00 – [Parallel Sessions - Slot 3](#parallel-sessions-3)** (Rooms A, B, C)
   * [Session 7 – Bioengineering, biomolecules and analytical methods](#session-7) (Room A)
-  * [Session 8 – Cognition, learning and human-centred sustainability](#session-8) (Room B)
+  * [Session 8 – Cognition, learning and human-centred sustainability](#session-8) (Room B - Hybrid)
   * [Session 9 – Digital transformation, marketing and sustainable tourism](#session-9) (Room C)
 * **10:30-12:30** [Special Session 4 - Sustainability and Circular Models (Casa da Baía)](/#specialsession-friday-4)
 * **12:00-13:15** Lunch
 * **13:15-14:15** [Special Session 5 - EUDRES CoE (Auditorium)](/#specialsession-friday-5)
 * **14:15-15:30 – [Parallel Sessions - Slot 4](#parallel-sessions-4)** (Rooms A, B, C, D)
-  * [Session 10 – Circular construction, materials and urban transformation](#session-10) (Room A)
+  * [Session 10 – Circular construction, materials and urban transformation](#session-10) (Room A - Hybrid)
   * [Session 11 – Circular bioeconomy, agriculture and regional food systems](#session-11) (Room B)
   * [Session 12 – Entrepreneurship, regional development and financial resilience](#session-12) (Room C)
-  * [Session 13 – Water, climate resilience and environmental biotechnology](#session-13) (Room D)
+  * [Session 13 – Water, climate resilience and environmental biotechnology](#session-13) (Room D - Hybrid)
 * **15:30-16:00** Coffee break
 * **16:00-17:00** [Special Session 6 - ESG and Financing Report for Resilient and Sustainable Regions / ESG e Relato Financeiro para Regiões Resilientes e Sustentáveis (Auditorium)](/#specialsession-friday-6)
 * **17:00** Closing session (Auditorium)
@@ -95,6 +95,8 @@ permalink: /program/
   Luísa Carvalho; Pedro Pardal; Silvio Roberto Stefani; Josiane Rodrigues dos Santos; Ronaldo José Seramim; Célia Kozak; Juliana Terluk Kuchla
 * **Resiliência à Seca em Moçambique: Uma Perspetiva a Partir de Soluções Baseadas na Natureza**<br>
   Felizardo Masseko; José Mendes; Vasco Manta
+* **Selection and Characterization of Nature-Based Solutions for Climate Resilience in Mediterranean Agro-Silvo-Pastoral Ecosystems**<br>
+  Vittorio de Oliveira Pavan; Maria Paula Mendes
 </div>
 
 </div>
@@ -118,7 +120,7 @@ permalink: /program/
 
 <div class="session" id="session-5" markdown="1">
 
-#### **Parallel Session 5 – Finance, SMEs, assets and sectoral economic resilience** (Room B)
+#### **Parallel Session 5 – Finance, SMEs, assets and sectoral economic resilience** (Room B - Hybrid)
 * **Public Incentives, Structural Heterogeneity and SME Financial Performance: Evidence from Portuguese SMEs (2014–2023)**<br>
   Carlos Faustino; Carlos Borralho; Maria Basílio; André Carvalho
 * **The Profitability Trap: Firm Resilience in the European Accommodation Industry**<br>
@@ -163,7 +165,7 @@ permalink: /program/
 
 <div class="session" id="session-8" markdown="1">
 
-#### **Parallel Session 8 – Cognition, learning and human-centred sustainability** (Room B)
+#### **Parallel Session 8 – Cognition, learning and human-centred sustainability** (Room B - Hybrid)
 * **Visualizing the Dualism of Psyche in the Deep Cognition**<br>
   Svitlana Manzhara
 * **Knowledge, Attitudes and Consumption of Fermented Foods Among Portuguese Adults: A Cross-Sectional Study**<br>
@@ -193,7 +195,7 @@ permalink: /program/
 
 <div class="session" id="session-10" markdown="1">
 
-#### **Parallel Session 10 – Circular construction, materials and urban transformation** (Room A)
+#### **Parallel Session 10 – Circular construction, materials and urban transformation** (Room A - Hybrid)
 * **From Assembly to Disassembly: Circular Pathways in Modular Housing**<br>
   Kenza Belkhiri
 * **Towards a Resilient Tomorrow: Upcycling Textile Waste in the Building Materials Sector**<br>
@@ -232,15 +234,17 @@ permalink: /program/
 
 <div class="session" id="session-13" markdown="1">
 
-#### **Parallel Session 13 – Water, climate resilience and environmental biotechnology** (Room D)
+#### **Parallel Session 13 – Water, climate resilience and environmental biotechnology** (Room D - Hybrid)
 * **Wastewater-Based Epidemiology: the Challenge of Thermal-Driven Viral RNA Instability**<br>
   Denise Barros; Afonso Marques Morais; Gabriela Gomes; Ana Cláudia Coelho; Helena Caria; Marta Campos Justino
-* **Selection and Characterization of Nature-Based Solutions for Climate Resilience in Mediterranean Agro-Silvo-Pastoral Ecosystems**<br>
-  Vittorio de Oliveira Pavan; Maria Paula Mendes
 * **Towards Resilient Water Treatment Using Bioremediation and Biomass-Based Approaches**<br>
   Gonçalo Soares; Kiné Deme; Thyphaine Maerten; Camille Menard; Gabriela Gomes; Ana Cláudia Coelho; Carla Amarelo Santos; Maria de Fátima Serralha; Susana Piçarra
 * **Mountain Oases in Transformation: A Dynamic Assessment of Water Resilience**<br>
   Bouchra Kouissi; Julien Burte; Younes Bekkar; Hela Gasmi; Khadija Jaafary; Eduardo Sávio Passos Rodrigues Martins; Jader de Oliveira Santos; Nassreddine Maatala
+* **Project MOD-SALA: Salinity Modelling and Simulation of a Coastal Groundwater-dependent Ecosystem in the Classroom**<br>
+  Maria Catarina Paz; Nelson Carriço; Raquel Barreira; Miguel Esteves; Fábio Ferrentini Sampaio
+* **Source of Stones on Walls of Santiago Fortress in Sesimbra: Part 3**<br>
+  Marco Ludovico-Marques; Maria Catarina Paz
 </div>
 
 </div>
