@@ -9,7 +9,7 @@ permalink: /program/
 ### Thursday, 29 October 2026
 
 * **08:45-09:15** Registration (IPS/ESCE)
-* **09:15-09:45** Opening session - Teresa Costa (Conference Chair) and Pedro Pardal (ESCE Dean) (Auditorium)
+* **09:15-09:45** Opening session - Luísa Carvalho (Vice-Rector), Teresa Costa (Conference Chair) and Pedro Pardal (ESCE Dean) (Auditorium)
 * **09:45-10:15** Keynote lecture - Invited speaker: Resilient and Sustainable Regions in the Context of Green, Digital and Social Transitions (Auditorium)
 * **10:15-10:40** Pro-President - Raquel Barreira: Building Research Excellence Together: the E³UDRES² Applied Research Centers initiative
 * **10:40-11:00** Coffee break
