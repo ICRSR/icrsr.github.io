@@ -23,6 +23,8 @@ permalink: /program/
 * **14:30-15:00** Transfer to the boarding point
 * **15:00-17:00** Boat trip (Setúbal/Sado)
 * **17:00** End of Day 1 activities
+* **19:30** Academic Tuna Performance
+* **Conference Dinner** at [Taberna Grande](https://maps.app.goo.gl/xzhQkuuX4zayELz79)
 
 ---
 
