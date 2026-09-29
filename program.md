@@ -50,7 +50,8 @@ permalink: /program/
   * [Session 13 – Water, climate resilience and environmental biotechnology](#session-13) (Room D - Hybrid)
 * **15:30-16:00** Coffee break
 * **16:00-17:00** [Special Session 6 - ESG and Financing Report for Resilient and Sustainable Regions / ESG e Relato Financeiro para Regiões Resilientes e Sustentáveis (Auditorium)](/#specialsession-friday-6)
-* **17:00** Closing session (Auditorium)
+* **17:00** PhD Students sessions (USP) (Online)
+* **18:30** Close session (Online)
 
 ---
 
@@ -131,6 +132,8 @@ permalink: /program/
   Eduardo Amaral
 * **Determinants of the Performance of the Iberian Banking Sector (Portugal and Spain)**<br>
   Celina Sousa; Maria Basílio
+* **Financial Sustainability in Local Government: An Analysis of Medium-Sized Municipalities Under the New Financial**<br>
+  Fernando Sardinha; Pedro Pardal; Sandra Nunes; Boguslawa Sardinha
 </div>
 
 <div class="session" id="session-6" markdown="1">
