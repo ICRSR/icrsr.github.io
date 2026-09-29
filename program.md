@@ -201,7 +201,7 @@ permalink: /program/
 * **From Assembly to Disassembly: Circular Pathways in Modular Housing**<br>
   Kenza Belkhiri
 * **Towards a Resilient Tomorrow: Upcycling Textile Waste in the Building Materials Sector**<br>
-  Raluca Iștoan; Daniela-Roxana Tămaș-Gavrea; Ana-Alexandra Deak; Karina-Sabina Sbiera
+  Raluca Iștoan; Daniela-Roxana Tămaș-Gavrea; Ofelia-Cornelia Corbu; Ana-Alexandra Deak; Karina-Sabina Sbiera
 * **Adaptive Transformation of Historical Canals and Quay Walls in Java, Indonesia**<br>
   Bjorn Hettema; Bram Entrop; Chely Novia Bramiana
 * **Urban Regeneration and Transportation Infrastructure Redesign in Upstate New York**<br>
