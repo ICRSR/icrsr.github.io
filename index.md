@@ -51,7 +51,7 @@ With a multidisciplinary approach it is expected that this conference will be at
 - Mário Silva, ESHTE/CITUR
 - Jorge Umbelino, ESHTE/CITUR
 
-##### 11:00–12:15 · Auditorium
+##### 11:00–11:45 · Auditorium
 
 This session aims to explore strategies, policies and innovative solutions that strengthen the resilience of tourism destinations in response to contemporary challenges.
 
@@ -69,7 +69,7 @@ You can find more details about the special session by following [this link]({{ 
 
 #### Special Session 2 – INnovative and Sustainable iGovernance for High-Value Tourism
 
-##### 12:15–13:30 · Auditorium
+##### 11:45–12:30 · Auditorium
 
 This session explores the resilience of tourism destinations, focusing on governance, innovation, climate adaptation, pressure on resources, seasonality, digitalisation, risk management and community engagement.
 

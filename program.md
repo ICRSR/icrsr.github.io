@@ -8,17 +8,17 @@ permalink: /program/
 
 ### Thursday, 29 October 2026
 
-* **08:45-09:15** Registration (IPS/ESCE)
+* **09:00-09:15** Registration (IPS/ESCE)
 * **09:15-09:45** Opening session - Luísa Carvalho (Vice-Rector), Teresa Costa (Conference Chair) and Pedro Pardal (ESCE Dean) (Auditorium)
-* **09:45-10:15** Keynote lecture - Invited speaker: Resilient and Sustainable Regions in the Context of Green, Digital and Social Transitions (Auditorium)
-* **10:15-10:40** Pro-President - Raquel Barreira: Building Research Excellence Together: the E³UDRES² Applied Research Centers initiative
-* **10:40-11:00** Coffee break
-* **11:00-12:15** [Special Session 1 - Resilient Tourism Territories: Governance, Innovation and Adaptation for a Sustainable Future (Auditorium)](/#specialsession-thursday-1)
-* **12:15-13:30** [Special Session 2 - INnovative and Sustainable iGovernance for High-Value Tourism (Auditorium)](/#specialsession-thursday-2)
+* **09:45-10:15** Pro-Rector - Raquel Barreira: Building Research Excellence Together: the E³UDRES² Applied Research Centers initiative
+* **10:15-10:30** Coffee break
+* **10:30-11:00** Keynote lecture - Invited speaker: Resilient and Sustainable Regions in the Context of Green, Digital and Social Transitions (Auditorium)
+* **11:00-11:45** [Special Session 1 - Resilient Tourism Territories: Governance, Innovation and Adaptation for a Sustainable Future (Auditorium)](/#specialsession-thursday-1)
+* **11:45-12:30** [Special Session 2 - INnovative and Sustainable iGovernance for High-Value Tourism (Auditorium)](/#specialsession-thursday-2)
 * **12:15-13:30 – [Parallel Sessions - Slot 1](#parallel-sessions-1)** (Rooms A, B, C)
-  * [Session 1 – Ports, sustainable logistics, artificial intelligence and decision support](#session-1) (Room A)
-  * [Session 2 – Tourism, events, digital marketing and destination resilience](#session-2) (Room B)
-  * [Session 3 – Circular economy, territorial sustainability and climate adaptation](#session-3) (Room C)
+  * [Session 1 – Ports, sustainable logistics, artificial intelligence and decision support](#session-1) (Room A) (Chairs: Ana Mendes and Marcela Castro)
+  * [Session 2 – Tourism, events, digital marketing and destination resilience](#session-2) (Room B) (Chairs: Anabela Correia and Filipe Severino)
+  * [Session 3 – Circular economy, territorial sustainability and climate adaptation](#session-3) (Room C) (Chairs: Boguslawa Sardinha and Pedro Pardal)
 * **13:30-14:30** Light lunch/networking
 * **14:30-15:00** Transfer to the boarding point
 * **15:00-17:00** Boat trip (Setúbal/Sado)
@@ -31,23 +31,23 @@ permalink: /program/
 ### Friday, 30 October 2026
 
 * **09:00-10:15 – [Parallel Sessions - Slot 2](#parallel-sessions-2)** (Rooms A, B, C)
-  * [Session 4 – Society, education, behaviour and human sustainability](#session-4) (Room A)
-  * [Session 5 – Finance, SMEs, assets and sectoral economic resilience](#session-5) (Room B - Hybrid)
-  * [Session 6 – Environment, pollution, environmental health and bioremediation](#session-6) (Room C)
+  * [Session 4 – Society, education, behaviour and human sustainability](#session-4) (Room A) (Chairs: Fábio Sampaio and Susana Garradas)
+  * [Session 5 – Finance, SMEs, assets and sectoral economic resilience](#session-5) (Room B - Hybrid) (Chairs: Célia Ramos and Filipe Severino)
+  * [Session 6 – Environment, pollution, environmental health and bioremediation](#session-6) (Room C) (Chairs: Susana Piçarra and Helena Caria)
 * **09:00-10:30** [Special Session 3 - Connected Minds Projects (Casa da Baía)](/#specialsession-friday-3)
 * **10:15-10:45** Coffee break
 * **10:45-12:00 – [Parallel Sessions - Slot 3](#parallel-sessions-3)** (Rooms A, B, C)
-  * [Session 7 – Bioengineering, biomolecules and analytical methods](#session-7) (Room A)
-  * [Session 8 – Cognition, learning and human-centred sustainability](#session-8) (Room B - Hybrid)
-  * [Session 9 – Digital transformation, marketing and sustainable tourism](#session-9) (Room C)
+  * [Session 7 – Bioengineering, biomolecules and analytical methods](#session-7) (Room A) (Chairs: Gabriela Gomes and Telma Santos)
+  * [Session 8 – Cognition, learning and human-centred sustainability](#session-8) (Room B - Hybrid) (Chairs: Sandrina Moreira and Cláudia Coelho)
+  * [Session 9 – Digital transformation, marketing and sustainable tourism](#session-9) (Room C) (Chairs: Filipe Severino and Carla Viana)
 * **10:30-12:30** [Special Session 4 - Sustainability and Circular Models (Casa da Baía)](/#specialsession-friday-4)
 * **12:00-13:15** Lunch
 * **13:15-14:15** [Special Session 5 - EUDRES CoE (Auditorium)](/#specialsession-friday-5)
 * **14:15-15:30 – [Parallel Sessions - Slot 4](#parallel-sessions-4)** (Rooms A, B, C, D)
-  * [Session 10 – Circular construction, materials and urban transformation](#session-10) (Room A - Hybrid)
-  * [Session 11 – Circular bioeconomy, agriculture and regional food systems](#session-11) (Room B)
-  * [Session 12 – Entrepreneurship, regional development and financial resilience](#session-12) (Room C)
-  * [Session 13 – Water, climate resilience and environmental biotechnology](#session-13) (Room D - Hybrid)
+  * [Session 10 – Circular construction, materials and urban transformation](#session-10) (Room A - Hybrid) (Chairs: Helena Martins and Filipe Severino)
+  * [Session 11 – Circular bioeconomy, agriculture and regional food systems](#session-11) (Room B) (Chairs: Carla Santos and Cláudia Coelho)
+  * [Session 12 – Entrepreneurship, regional development and financial resilience](#session-12) (Room C) (Chairs: Teresa Costa and Carmina Nunes)
+  * [Session 13 – Water, climate resilience and environmental biotechnology](#session-13) (Room D - Hybrid) (Chairs: Catarina Paz and Pedro Albuquerque)
 * **15:30-16:00** Coffee break
 * **16:00-17:00** [Special Session 6 - ESG and Financing Report for Resilient and Sustainable Regions / ESG e Relato Financeiro para Regiões Resilientes e Sustentáveis (Auditorium)](/#specialsession-friday-6)
 * **17:00** PhD Students sessions (USP) (Online)
@@ -64,6 +64,9 @@ permalink: /program/
 <div class="session" id="session-1" markdown="1">
 
 #### **Parallel Session 1 – Ports, sustainable logistics, artificial intelligence and decision support** (Room A)
+
+**Chairs:** Ana Mendes and Marcela Castro
+
 * **Towards an Integrated Assessment Framework for UAV Adoption in Sustainable Port Logistics**<br>
   Gilvan Lima; Tiago Pinho; Marcela Castro; Ana Mendes; Inês Ferreira
 * **Towards Resilient and Sustainable Port Regions: Assessing UAV Adoption Through an Integrated Efficiency and Sustainability Framework**<br>
@@ -77,6 +80,9 @@ permalink: /program/
 <div class="session" id="session-2" markdown="1">
 
 #### **Parallel Session 2 – Tourism, events, digital marketing and destination resilience** (Room B)
+
+**Chairs:** Anabela Correia and Filipe Severino
+
 * **Event-Level Coordination Practices in Tourism Events: A Qualitative Study of Operational Routines Among Event Organisers**<br>
   Filipe Segurado Severino; Teresa Costa; Célia M. Q. Ramos
 * **How Tourists Narrate Resilience: A Qualitative Exploration of Destination Experiences**<br>
@@ -90,6 +96,9 @@ permalink: /program/
 <div class="session" id="session-3" markdown="1">
 
 #### **Parallel Session 3 – Circular economy, territorial sustainability and climate adaptation** (Room C)
+
+**Chairs:** Boguslawa Sardinha and Pedro Pardal
+
 * **Emerging Organisational Pathways for Operationalising Doughnut Economics: Insights from a Bibliometric and Qualitative Analysis**<br>
   Sandrina B. Moreira
 * **Exploring the Determinants of Circular Practices in Leisure by Households Using the Theory of Planned Behavior: A Qualitative Directed Content Analysis**<br>
@@ -111,6 +120,9 @@ permalink: /program/
 <div class="session" id="session-4" markdown="1">
 
 #### **Parallel Session 4 – Society, education, behaviour and human sustainability** (Room A)
+
+**Chairs:** Fábio Sampaio and Susana Garradas
+
 * **Agent-Based Modeling in Science Education and Research: Exploring Its Role in Understanding Resilient and Sustainable Systems**<br>
   Fábio Ferrentini Sampaio
 * **Family-Based Physical Activity as a Driver of Social Resilience and Human Sustainability: a Human Ecology Perspective**<br>
@@ -124,6 +136,9 @@ permalink: /program/
 <div class="session" id="session-5" markdown="1">
 
 #### **Parallel Session 5 – Finance, SMEs, assets and sectoral economic resilience** (Room B - Hybrid)
+
+**Chairs:** Célia Ramos and Filipe Severino
+
 * **Public Incentives, Structural Heterogeneity and SME Financial Performance: Evidence from Portuguese SMEs (2014–2023)**<br>
   Carlos Faustino; Carlos Borralho; Maria Basílio; André Carvalho
 * **The Profitability Trap: Firm Resilience in the European Accommodation Industry**<br>
@@ -139,6 +154,9 @@ permalink: /program/
 <div class="session" id="session-6" markdown="1">
 
 #### **Parallel Session 6 – Environment, pollution, environmental health and bioremediation** (Room C)
+
+**Chairs:** Susana Piçarra and Helena Caria
+
 * **When Nanoplastics Meet Toxic Metals: Consequences for Bioaccumulation and Antioxidant Responses in Lettuce**<br>
   Susana Piçarra; Lara Araújo; Hugo F. Silva; Nelson Silva; José Coelho; Cristina Oliveira; Manuel Matos; Ana Maria Barreiros
 * **Oxidative Potential of Fine Particulate Matter in Sleep Environments: Assessing Human Exposure in Lisbon Dwellings**<br>
@@ -158,6 +176,9 @@ permalink: /program/
 <div class="session" id="session-7" markdown="1">
 
 #### **Parallel Session 7 – Bioengineering, biomolecules and analytical methods** (Room A)
+
+**Chairs:** Gabriela Gomes and Telma Santos
+
 * **Analysis of the Use of Disaccharides for the Formulation of Nucleic Acid Stabilizing Solutions to Eliminate Cold Chain Dependency**<br>
   Dainery Ramos Capote; Guadalupe Lopez Aviles; Francisco Javier Almendariz Tapia; Patricia Guerrero German; Ana Gabriela Gonçalves Neves Gomes; Jonathan de la Vega Olivas
 * **Quantification of Cortisol in Sweat by Electrochemical Impedance**<br>
@@ -171,6 +192,9 @@ permalink: /program/
 <div class="session" id="session-8" markdown="1">
 
 #### **Parallel Session 8 – Cognition, learning and human-centred sustainability** (Room B - Hybrid)
+
+**Chairs:** Sandrina Moreira and Cláudia Coelho
+
 * **Visualizing the Dualism of Psyche in the Deep Cognition**<br>
   Svitlana Manzhara
 * **Knowledge, Attitudes and Consumption of Fermented Foods Among Portuguese Adults: A Cross-Sectional Study**<br>
@@ -184,6 +208,9 @@ permalink: /program/
 <div class="session" id="session-9" markdown="1">
 
 #### **Parallel Session 9 – Digital transformation, marketing and sustainable tourism** (Room C)
+
+**Chairs:** Filipe Severino and Carla Viana
+
 * **A Quantitative Study of the Adoption of Artificial Intelligence in Colombia's Coffee Industry**<br>
   Glyn Atwal; Aniket Sengupta; Douglas Bryson
 * **Marketing Strategies and Sustainability: A PRISMA-Based Bibliometric and Systematic Literature Review**<br>
@@ -201,6 +228,9 @@ permalink: /program/
 <div class="session" id="session-10" markdown="1">
 
 #### **Parallel Session 10 – Circular construction, materials and urban transformation** (Room A - Hybrid)
+
+**Chairs:** Helena Martins and Filipe Severino
+
 * **From Assembly to Disassembly: Circular Pathways in Modular Housing**<br>
   Kenza Belkhiri
 * **Towards a Resilient Tomorrow: Upcycling Textile Waste in the Building Materials Sector**<br>
@@ -214,6 +244,9 @@ permalink: /program/
 <div class="session" id="session-11" markdown="1">
 
 #### **Parallel Session 11 – Circular bioeconomy, agriculture and regional food systems** (Room B)
+
+**Chairs:** Carla Santos and Cláudia Coelho
+
 * **From Waste to Resource: Farmers' Perspectives on Developing Circular Wool Value Chains in Romania**<br>
   Corina Sosdean; Emanoil Linul
 * **Towards a One Health-Based Resilience Framework for Regional Food Systems: A Pesticide Use Case from Lower Saxony, Germany**<br>
@@ -227,6 +260,9 @@ permalink: /program/
 <div class="session" id="session-12" markdown="1">
 
 #### **Parallel Session 12 – Entrepreneurship, regional development and financial resilience** (Room C)
+
+**Chairs:** Teresa Costa and Carmina Nunes
+
 * **From Necessity to Action: Rethinking Regional Development for a Sustainable Future**<br>
   Carmina S. Nunes; Susana Garrido
 * **Artificial Intelligence in Entrepreneurship Education: Competencies, Challenges, and Trends from a Delphi Panel of Entrepreneurs in a IPS StartUp Ecosystem**<br>
@@ -240,6 +276,9 @@ permalink: /program/
 <div class="session" id="session-13" markdown="1">
 
 #### **Parallel Session 13 – Water, climate resilience and environmental biotechnology** (Room D - Hybrid)
+
+**Chairs:** Catarina Paz and Pedro Albuquerque
+
 * **Wastewater-Based Epidemiology: the Challenge of Thermal-Driven Viral RNA Instability**<br>
   Denise Barros; Afonso Marques Morais; Gabriela Gomes; Ana Cláudia Coelho; Helena Caria; Marta Campos Justino
 * **Towards Resilient Water Treatment Using Bioremediation and Biomass-Based Approaches**<br>
