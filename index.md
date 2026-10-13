@@ -47,7 +47,7 @@ With a multidisciplinary approach it is expected that this conference will be at
 
 #### Special Session 1 – Resilient Tourism Territories: Governance, Innovation and Adaptation for a Sustainable Future
 
-#### Organizers
+#### Chairs
 - Mário Silva, ESHTE/CITUR
 - Jorge Umbelino, ESHTE/CITUR
 
@@ -68,6 +68,10 @@ You can find more details about the special session by following [this link]({{ 
 <section id="specialsession-thursday-2" markdown="1">
 
 #### Special Session 2 – INnovative and Sustainable iGovernance for High-Value Tourism
+
+#### Chairs
+- Teresa Costa, ESCE/CIEQV/CITUR
+- Lurdes Calisto, ESHTE/CITUR
 
 ##### 11:45–12:30 · Auditorium
 
@@ -107,9 +111,12 @@ Session dedicated to the presentation of circular models, linking circular econo
 
 <section id="specialsession-friday-5" markdown="1">
 
-#### Special Session 5 – EUDRES CoE
+#### Special Session 5 – A Closer Look at the E³UDRES² Applied Research Centers of Excellence: Meet three of our Research Centres
 
-##### 13:15–14:15 · Auditorium
+#### Chair
+- Raquel Barreira
+
+##### 13:30–14:15 · Auditorium
 
 *More details to be added*
 

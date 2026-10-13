@@ -13,8 +13,8 @@ permalink: /program/
 * **09:45-10:15** Pro-Rector - Raquel Barreira: Building Research Excellence Together: the E³UDRES² Applied Research Centers initiative
 * **10:15-10:30** Coffee break
 * **10:30-11:00** Keynote lecture - Invited speaker: Resilient and Sustainable Regions in the Context of Green, Digital and Social Transitions (Auditorium)
-* **11:00-11:45** [Special Session 1 - Resilient Tourism Territories: Governance, Innovation and Adaptation for a Sustainable Future (Auditorium)](/#specialsession-thursday-1)
-* **11:45-12:30** [Special Session 2 - INnovative and Sustainable iGovernance for High-Value Tourism (Auditorium)](/#specialsession-thursday-2)
+* **11:00-11:45** [Special Session 1 - Resilient Tourism Territories: Governance, Innovation and Adaptation for a Sustainable Future (Auditorium)](/#specialsession-thursday-1) (Chairs: Mário Silva and Jorge Umbelino)
+* **11:45-12:30** [Special Session 2 - INnovative and Sustainable iGovernance for High-Value Tourism (Auditorium)](/#specialsession-thursday-2) (Chairs: Teresa Costa and Lurdes Calisto)
 * **12:15-13:30 – [Parallel Sessions - Slot 1](#parallel-sessions-1)** (Rooms A, B, C)
   * [Session 1 – Ports, sustainable logistics, artificial intelligence and decision support](#session-1) (Room A) (Chairs: Ana Mendes and Marcela Castro)
   * [Session 2 – Tourism, events, digital marketing and destination resilience](#session-2) (Room B) (Chairs: Anabela Correia and Filipe Severino)
@@ -41,8 +41,8 @@ permalink: /program/
   * [Session 8 – Cognition, learning and human-centred sustainability](#session-8) (Room B - Hybrid) (Chairs: Sandrina Moreira and Cláudia Coelho)
   * [Session 9 – Digital transformation, marketing and sustainable tourism](#session-9) (Room C) (Chairs: Filipe Severino and Carla Viana)
 * **10:30-12:30** [Special Session 4 - Sustainability and Circular Models (Casa da Baía)](/#specialsession-friday-4)
-* **12:00-13:15** Lunch
-* **13:15-14:15** [Special Session 5 - EUDRES CoE (Auditorium)](/#specialsession-friday-5)
+* **12:00-13:30** Lunch
+* **13:30-14:15** [Special Session 5 - A Closer Look at the E³UDRES² Applied Research Centers of Excellence: Meet three of our Research Centres (Auditorium)](/#specialsession-friday-5) (Chair: Raquel Barreira)
 * **14:15-15:30 – [Parallel Sessions - Slot 4](#parallel-sessions-4)** (Rooms A, B, C, D)
   * [Session 10 – Circular construction, materials and urban transformation](#session-10) (Room A - Hybrid) (Chairs: Helena Martins and Filipe Severino)
   * [Session 11 – Circular bioeconomy, agriculture and regional food systems](#session-11) (Room B) (Chairs: Carla Santos and Cláudia Coelho)
