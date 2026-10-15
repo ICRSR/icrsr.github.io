@@ -91,7 +91,7 @@ This session explores the resilience of tourism destinations, focusing on govern
 
 #### Special Session 3 – Connected Minds Projects
 
-##### 09:00–10:30 · Casa da Baía
+##### 09:30–12:00 · Pedagogical Lab
 
 *More details to be added*
 
@@ -101,7 +101,7 @@ This session explores the resilience of tourism destinations, focusing on govern
 
 #### Special Session 4 – Sustainability and Circular Models
 
-##### 10:30–12:30 · Casa da Baía
+##### 12:00–13:30 · Auditorium
 
 Session dedicated to the presentation of circular models, linking circular economy, territorial sustainability, sustainable tourism, waste management, climate adaptation and regional development.
 
