@@ -107,8 +107,6 @@ permalink: /program/
 
 **Chairs:** Boguslawa Sardinha and Pedro Pardal
 
-* **Emerging Organisational Pathways for Operationalising Doughnut Economics: Insights from a Bibliometric and Qualitative Analysis**<br>
-  Sandrina B. Moreira
 * **Exploring the Determinants of Circular Practices in Leisure by Households Using the Theory of Planned Behavior: A Qualitative Directed Content Analysis**<br>
   Chathrika Kawmadi Lokuliyana; Aija van der Steina
 * **Solid Waste Management in Coastal Tourist Destinations: The Case of the Guardiãs do Sado and Its Contributions to the Circular Economy and Sustainable Tourism**<br>
@@ -211,6 +209,8 @@ permalink: /program/
   Daniela-Roxana Tămaș-Gavrea; Raluca Iștoan; Simona Emanuela Stanca; Alina-Iulia Verdeș
 * **From Data to Lived Experience: Transformative Learning Methodology**<br>
   Sandrina B. Moreira; Lurdes Pedro; Aldina Soares; Cláudia Coelho; Célia Quintas; José Rebelo
+* **Emerging Organisational Pathways for Operationalising Doughnut Economics: Insights from a Bibliometric and Qualitative Analysis**<br>
+  Sandrina B. Moreira
 </div>
 
 <div class="session" id="session-9" markdown="1">
