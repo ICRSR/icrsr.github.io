@@ -16,7 +16,7 @@ permalink: /program/
 
 ### Thursday, 29 October 2026
 
-* **09:00-09:15** Registration (IPS/ESCE)
+* **09:00-09:15** Registration (UNIPS/ESCE)
 * **09:15-09:45** Opening session - Luísa Carvalho (Vice-Rector), Teresa Costa (Conference Chair) and Pedro Pardal (ESCE Dean) (Auditorium)
 * **09:45-10:15** Pro-Rector - Raquel Barreira: Building Research Excellence Together: the E³UDRES² Applied Research Centers initiative
 * **10:15-10:30** Coffee break

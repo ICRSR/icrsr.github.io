@@ -39,7 +39,7 @@ For any registration-related issues, please contact us at [ICSRS2026@esce.ips.pt
 
 Setúbal is part of the Lisbon Metropolitan Area and benefits from excellent transport connections by road, rail, and sea/river. [Driving](https://maps.app.goo.gl/xraAUFkh67go7bwU6) from Lisbon International Airport takes around 40 minutes, and there are several public transport options—such as bus and train services—to reach Setúbal.
 
-Additionally, you can reach the Polytechnic University of Setúbal (IPS) from Setúbal’s main public transport hub (*Interface de Transportes de Setúbal*) by [bus](https://maps.app.goo.gl/ZyFmRK9xQbGcdnDp6) or [train](https://maps.app.goo.gl/fVdyZ9VMggVYEKi7A). By car, the drive takes between 10 and 15 minutes.
+Additionally, you can reach the Polytechnic University of Setúbal (UNIPS) from Setúbal’s main public transport hub (*Interface de Transportes de Setúbal*) by [bus](https://maps.app.goo.gl/ZyFmRK9xQbGcdnDp6) or [train](https://maps.app.goo.gl/fVdyZ9VMggVYEKi7A). By car, the drive takes between 10 and 15 minutes.
 
 Besides regular taxis, you can also use popular ridesharing services such as [Uber](https://www.uber.com/) and [Bolt](https://bolt.eu/).
 
@@ -72,9 +72,9 @@ Take the **Metro** (red line) from the airport to one of the stations in Lisbon 
 
 *NOTE*: Be sure to board a train that terminates in Setúbal, as some **Fertagus** trains stop before reaching the final destination.
 
-### Traveling from Setúbal City Center to the Setúbal Campus of the Polytechnic University of Setúbal (IPS) by Public Transport
+### Traveling from Setúbal City Center to the Setúbal Campus of the Polytechnic University of Setúbal (UNIPS) by Public Transport
 
-<img id="campus-map" class="full-width-image" src="{{ "/assets/images/ips-campus-setubal-map.svg" | relative_url }}" alt="IPS Setúbal Campus map">
+<img id="campus-map" class="full-width-image" src="{{ "/assets/images/ips-campus-setubal-map.svg" | relative_url }}" alt="UNIPS Setúbal Campus map">
 
 #### Option 1
 Take the **Carris Metropolitana** buses [**4402**](https://www.carrismetropolitana.pt/lines/4402) or [**4437**](https://www.carrismetropolitana.pt/lines/4437) from stop **P3** at Setúbal’s main bus station (*Interface de Transportes de Setúbal*). The bus stop near the campus is called **Alto Estefanilha (IPS)**. You can also check all available lines that stop there here: [Available Bus Lines](https://www.carrismetropolitana.pt/stops/160044).
