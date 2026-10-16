@@ -42,13 +42,13 @@ permalink: /program/
   * [Session 4 – Society, education, behaviour and human sustainability](#session-4) (Room A) (Chairs: Fábio Sampaio and Susana Garradas)
   * [Session 5 – Finance, SMEs, assets and sectoral economic resilience](#session-5) (Room B - Hybrid) (Chairs: Célia Ramos and Filipe Severino)
   * [Session 6 – Environment, pollution, environmental health and bioremediation](#session-6) (Room C) (Chairs: Susana Piçarra and Helena Caria)
-* **09:30-12:00** [Special Session 3 - Connected Minds Projects (Pedagogical Lab)](/#specialsession-friday-3)
+* **09:30-12:00** [Special Session 3 - Sustainability and Circular Models (Auditorium)](/#specialsession-friday-3)
 * **10:15-10:45** Coffee break
 * **10:45-12:00 – [Parallel Sessions - Slot 3](#parallel-sessions-3)** (Rooms A, B, C)
   * [Session 7 – Bioengineering, biomolecules and analytical methods](#session-7) (Room A) (Chairs: Gabriela Gomes and Telma Santos)
   * [Session 8 – Cognition, learning and human-centred sustainability](#session-8) (Room B - Hybrid) (Chairs: Sandrina Moreira and Cláudia Coelho)
   * [Session 9 – Digital transformation, marketing and sustainable tourism](#session-9) (Room C) (Chairs: Filipe Severino and Carla Viana)
-* **12:00-13:30** [Special Session 4 - Sustainability and Circular Models (Auditorium)](/#specialsession-friday-4)
+* **12:00-13:00** [Special Session 4 - Connected Minds Projects (Pedagogical Lab)](/#specialsession-friday-4)
 * **12:00-13:30** Lunch
 * **13:30-14:15** [Special Session 5 - A Closer Look at the E³UDRES² Applied Research Centers of Excellence: Meet three of our Research Centres (Auditorium)](/#specialsession-friday-5) (Chair: Raquel Barreira)
 * **14:15-15:30 – [Parallel Sessions - Slot 4](#parallel-sessions-4)** (Rooms A, B, C, D)

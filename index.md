@@ -89,9 +89,11 @@ This session explores the resilience of tourism destinations, focusing on govern
 
 <section id="specialsession-friday-3" markdown="1">
 
-#### Special Session 3 – Connected Minds Projects
+#### Special Session 3 – Sustainability and Circular Models
 
-##### 09:30–12:00 · Pedagogical Lab
+##### 09:30–12:00 · Auditorium
+
+Session dedicated to the presentation of circular models, linking circular economy, territorial sustainability, sustainable tourism, waste management, climate adaptation and regional development.
 
 *More details to be added*
 
@@ -99,11 +101,9 @@ This session explores the resilience of tourism destinations, focusing on govern
 
 <section id="specialsession-friday-4" markdown="1">
 
-#### Special Session 4 – Sustainability and Circular Models
+#### Special Session 4 – Connected Minds Projects
 
-##### 12:00–13:30 · Auditorium
-
-Session dedicated to the presentation of circular models, linking circular economy, territorial sustainability, sustainable tourism, waste management, climate adaptation and regional development.
+##### 12:00–13:00 · Pedagogical Lab
 
 *More details to be added*
 
