@@ -40,26 +40,26 @@ permalink: /program/
 
 * **09:00-10:15 – [Parallel Sessions - Slot 2](#parallel-sessions-2)** (Rooms A, B, C)
   * [Session 4 – Society, education, behaviour and human sustainability](#session-4) (Room A) (Chairs: Fábio Sampaio and Susana Garradas)
-  * [Session 5 – Finance, SMEs, assets and sectoral economic resilience](#session-5) (Room B - Hybrid) (Chairs: Célia Ramos and Filipe Severino)
+  * [Session 5 – Finance, SMEs, assets and sectoral economic resilience](#session-5) (Room B - Hybrid - [Join online](https://teams.microsoft.com/meet/363209790359572?p=bsBQt98My5gkdSj9Xy)) (Chairs: Célia Ramos and Filipe Severino)
   * [Session 6 – Environment, pollution, environmental health and bioremediation](#session-6) (Room C) (Chairs: Susana Piçarra and Helena Caria)
 * **09:30-12:00** [Special Session 3 - Sustainability and Circular Models (Auditorium)](/#specialsession-friday-3)
 * **10:15-10:45** Coffee break
 * **10:45-12:00 – [Parallel Sessions - Slot 3](#parallel-sessions-3)** (Rooms A, B, C)
   * [Session 7 – Bioengineering, biomolecules and analytical methods](#session-7) (Room A) (Chairs: Gabriela Gomes and Telma Santos)
-  * [Session 8 – Cognition, learning and human-centred sustainability](#session-8) (Room B - Hybrid) (Chairs: Sandrina Moreira and Cláudia Coelho)
+  * [Session 8 – Cognition, learning and human-centred sustainability](#session-8) (Room B - Hybrid - [Join online](https://teams.microsoft.com/meet/32297215170196?p=22pT0jRXuOFoTmSPnL)) (Chairs: Sandrina Moreira and Cláudia Coelho)
   * [Session 9 – Digital transformation, marketing and sustainable tourism](#session-9) (Room C) (Chairs: Filipe Severino and Carla Viana)
 * **12:00-13:00** [Special Session 4 - Connected Minds Projects (Pedagogical Lab)](/#specialsession-friday-4)
 * **12:00-13:30** Lunch
 * **13:30-14:15** [Special Session 5 - A Closer Look at the E³UDRES² Applied Research Centers of Excellence: Meet three of our Research Centres (Auditorium)](/#specialsession-friday-5) (Chair: Raquel Barreira)
 * **14:15-15:30 – [Parallel Sessions - Slot 4](#parallel-sessions-4)** (Rooms A, B, C, D)
-  * [Session 10 – Circular construction, materials and urban transformation](#session-10) (Room A - Hybrid) (Chairs: Helena Martins and Filipe Severino)
+  * [Session 10 – Circular construction, materials and urban transformation](#session-10) (Room A - Hybrid - [Join online](https://teams.microsoft.com/meet/336877159643598?p=pppSgJRE5YGugxFUUD)) (Chairs: Helena Martins and Filipe Severino)
   * [Session 11 – Circular bioeconomy, agriculture and regional food systems](#session-11) (Room B) (Chairs: Carla Santos and Cláudia Coelho)
   * [Session 12 – Entrepreneurship, regional development and financial resilience](#session-12) (Room C) (Chairs: Teresa Costa and Carmina Nunes)
-  * [Session 13 – Water, climate resilience and environmental biotechnology](#session-13) (Room D - Hybrid) (Chairs: Catarina Paz and Pedro Albuquerque)
+  * [Session 13 – Water, climate resilience and environmental biotechnology](#session-13) (Room D - Hybrid - [Join online](https://teams.microsoft.com/meet/373514116947726?p=7PHwmY2UbHGA1NFWPR)) (Chairs: Catarina Paz and Pedro Albuquerque)
 * **15:30-16:00** Coffee break
 * **16:00-17:00** [Special Session 6 - ESG and Financing Report for Resilient and Sustainable Regions / ESG e Relato Financeiro para Regiões Resilientes e Sustentáveis (Auditorium)](/#specialsession-friday-6)
 * **17:00** PhD Students sessions (USP) (Online)
-* **18:30** Close session (Online)
+* **18:30** Close session
 
 ---
 
@@ -143,7 +143,8 @@ permalink: /program/
 
 #### **Parallel Session 5 – Finance, SMEs, assets and sectoral economic resilience** (Room B - Hybrid)
 
-**Chairs:** Célia Ramos and Filipe Severino
+**Chairs:** Célia Ramos and Filipe Severino<br>
+**Online:** [Join via Microsoft Teams](https://teams.microsoft.com/meet/363209790359572?p=bsBQt98My5gkdSj9Xy)
 
 * **Public Incentives, Structural Heterogeneity and SME Financial Performance: Evidence from Portuguese SMEs (2014–2023)**<br>
   Carlos Faustino; Carlos Borralho; Maria Basílio; André Carvalho
@@ -199,7 +200,8 @@ permalink: /program/
 
 #### **Parallel Session 8 – Cognition, learning and human-centred sustainability** (Room B - Hybrid)
 
-**Chairs:** Sandrina Moreira and Cláudia Coelho
+**Chairs:** Sandrina Moreira and Cláudia Coelho<br>
+**Online:** [Join via Microsoft Teams](https://teams.microsoft.com/meet/32297215170196?p=22pT0jRXuOFoTmSPnL)
 
 * **Visualizing the Dualism of Psyche in the Deep Cognition**<br>
   Svitlana Manzhara
@@ -237,7 +239,8 @@ permalink: /program/
 
 #### **Parallel Session 10 – Circular construction, materials and urban transformation** (Room A - Hybrid)
 
-**Chairs:** Helena Martins and Filipe Severino
+**Chairs:** Helena Martins and Filipe Severino<br>
+**Online:** [Join via Microsoft Teams](https://teams.microsoft.com/meet/336877159643598?p=pppSgJRE5YGugxFUUD)
 
 * **From Assembly to Disassembly: Circular Pathways in Modular Housing**<br>
   Kenza Belkhiri
@@ -285,7 +288,8 @@ permalink: /program/
 
 #### **Parallel Session 13 – Water, climate resilience and environmental biotechnology** (Room D - Hybrid)
 
-**Chairs:** Catarina Paz and Pedro Albuquerque
+**Chairs:** Catarina Paz and Pedro Albuquerque<br>
+**Online:** [Join via Microsoft Teams](https://teams.microsoft.com/meet/373514116947726?p=7PHwmY2UbHGA1NFWPR)
 
 * **Wastewater-Based Epidemiology: the Challenge of Thermal-Driven Viral RNA Instability**<br>
   Denise Barros; Afonso Marques Morais; Gabriela Gomes; Ana Cláudia Coelho; Helena Caria; Marta Campos Justino
