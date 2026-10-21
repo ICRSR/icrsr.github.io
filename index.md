@@ -59,7 +59,12 @@ It seeks to promote an integrated perspective of tourism as a complex territoria
 
 Tourism destinations are increasingly exposed to a wide range of systemic risks arising from climate change, demographic shifts, health crises, geopolitical instability and rapid technological transformation. In this context, tourism resilience extends beyond the capacity to respond to shocks and crises. It encompasses the ability of territories to anticipate risks, adapt to change, learn from past experiences and transform their development models.
 
-The panel will bring together complementary perspectives from academia, public administration, industry and technology to foster an interdisciplinary discussion on tourism resilience.
+The roundtable will bring together complementary perspectives from academia, public administration, industry and technology to foster an interdisciplinary discussion on tourism resilience.
+
+#### Speakers
+- António Marques Vidal, APECATE – President of the Portuguese Association of Congress, Tourism Entertainment and Event Companies
+- Francisco Silva, ESHTE/CITUR – Assistant Professor at ESHTE, researcher at CEG/IGOT–Universidade de Lisboa and CITUR, PhD in Geography with a specialisation in Urban and Regional Planning
+- Carlos Albuquerque, ICNF – Regional Director LVT; Head of the Classified Areas Division of Lisboa e Vale do Tejo
 
 You can find more details about the special session by following [this link]({{ 'assets/documents/ICRSR2026_SpecialSession1.pdf' | relative_url }}).
 
