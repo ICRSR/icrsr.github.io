@@ -137,7 +137,18 @@ Session dedicated to the presentation of circular models, linking circular econo
 
 ##### 13:30–14:15 · Auditorium
 
-*More details to be added*
+This session focuses on three of the pilot research centres created under the E³UDRES² initiative: [CIRCULATE](https://eudres.eu/research-center-circulate), [OHARCE](https://eudres.eu/research-center-oharce) and [Aquatech](https://eudres.eu/research-center-aquatech).
+
+It follows up the talk "Building Research Excellence Together: the E³UDRES² Applied Research Centers initiative", presented on 29 October, and shows the concept of these centres in practice. Each of the three prospective E³UDRES² Applied Research Centers of Excellence will present itself, its activities and its future plans, inviting other interested researchers to join.
+
+The session starts with a short recap of the initiative by Raquel Barreira, followed by brief presentations from the three centres (about 10 minutes each) and time for Q&A.
+
+#### Speakers
+- Corina Sosdean, Politehnica University of Timisoara – Assistant Professor, PhD in Civil and Mechanical Engineering, currently leading the prospective E³UDRES² Applied Research Center of Excellence "CIRCULATE – Center for Circular Materials, Innovation and Education"
+- Antje Risius, Fulda University of Applied Sciences – Professor of Sustainable Nutrition and Distribution, PhD in Agriculture Economics, member of the prospective E³UDRES² Applied Research Center of Excellence "OHARCE – One Health Applied Research Center of Excellence for Regional Wellbeing and Sustainability"
+- Ricardo Salgado, Polytechnic University of Setúbal – Assistant Professor, PhD in Chemical and Biochemical Engineering, currently leading the prospective E³UDRES² Applied Research Center of Excellence "Aquatic Biotechnology, Environment & Energy Technologies"
+
+You can find more details about the special session by following [this link]({{ 'assets/documents/ICRSR2026_SpecialSession5.pdf' | relative_url }}).
 
 </section>
 
