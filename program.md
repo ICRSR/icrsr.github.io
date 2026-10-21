@@ -41,11 +41,11 @@ permalink: /program/
 * **09:00-10:15 – [Parallel Sessions - Slot 2](#parallel-sessions-2)** (Rooms A, B, C)
   * [Session 4 – Society, education, behaviour and human sustainability](#session-4) (Room A) (Chairs: Fábio Sampaio and Susana Garradas)
   * [Session 5 – Finance, SMEs, assets and sectoral economic resilience](#session-5) (Room B - Hybrid - [Join online](https://teams.microsoft.com/meet/363209790359572?p=bsBQt98My5gkdSj9Xy)) (Chairs: Célia Ramos and Filipe Severino)
-  * [Session 6 – Environment, pollution, environmental health and bioremediation](#session-6) (Room C) (Chairs: Susana Piçarra and Helena Caria)
+  * [Session 6 – Environment, pollution, environmental health and bioremediation](#session-6) (Room C - Hybrid - [Join online](https://teams.microsoft.com/meet/3408258554565766?p=nFRgswam601JHzE1dj)) (Chairs: Susana Piçarra and Helena Caria)
 * **09:30-12:00** [Special Session 3 - Sustainability and Circular Models (Auditorium)](/#specialsession-friday-3)
 * **10:15-10:45** Coffee break
 * **10:45-12:00 – [Parallel Sessions - Slot 3](#parallel-sessions-3)** (Rooms A, B, C)
-  * [Session 7 – Bioengineering, biomolecules and analytical methods](#session-7) (Room A) (Chairs: Gabriela Gomes and Telma Santos)
+  * [Session 7 – Bioengineering, biomolecules and analytical methods](#session-7) (Room A - Hybrid - [Join online](https://teams.microsoft.com/meet/382632341235912?p=INRNJQuaZSiWPdauVm)) (Chairs: Gabriela Gomes and Telma Santos)
   * [Session 8 – Cognition, learning and human-centred sustainability](#session-8) (Room B - Hybrid - [Join online](https://teams.microsoft.com/meet/32297215170196?p=22pT0jRXuOFoTmSPnL)) (Chairs: Sandrina Moreira and Cláudia Coelho)
   * [Session 9 – Digital transformation, marketing and sustainable tourism](#session-9) (Room C) (Chairs: Filipe Severino and Carla Viana)
 * **12:00-13:00** [Special Session 4 - Connected Minds Projects (Pedagogical Lab)](/#specialsession-friday-4)
@@ -160,9 +160,10 @@ permalink: /program/
 
 <div class="session" id="session-6" markdown="1">
 
-#### **Parallel Session 6 – Environment, pollution, environmental health and bioremediation** (Room C)
+#### **Parallel Session 6 – Environment, pollution, environmental health and bioremediation** (Room C - Hybrid)
 
-**Chairs:** Susana Piçarra and Helena Caria
+**Chairs:** Susana Piçarra and Helena Caria<br>
+**Online:** [Join via Microsoft Teams](https://teams.microsoft.com/meet/3408258554565766?p=nFRgswam601JHzE1dj)
 
 * **When Nanoplastics Meet Toxic Metals: Consequences for Bioaccumulation and Antioxidant Responses in Lettuce**<br>
   Susana Piçarra; Lara Araújo; Hugo F. Silva; Nelson Silva; José Coelho; Cristina Oliveira; Manuel Matos; Ana Maria Barreiros
@@ -182,9 +183,10 @@ permalink: /program/
 
 <div class="session" id="session-7" markdown="1">
 
-#### **Parallel Session 7 – Bioengineering, biomolecules and analytical methods** (Room A)
+#### **Parallel Session 7 – Bioengineering, biomolecules and analytical methods** (Room A - Hybrid)
 
-**Chairs:** Gabriela Gomes and Telma Santos
+**Chairs:** Gabriela Gomes and Telma Santos<br>
+**Online:** [Join via Microsoft Teams](https://teams.microsoft.com/meet/382632341235912?p=INRNJQuaZSiWPdauVm)
 
 * **Analysis of the Use of Disaccharides for the Formulation of Nucleic Acid Stabilizing Solutions to Eliminate Cold Chain Dependency**<br>
   Dainery Ramos Capote; Guadalupe Lopez Aviles; Francisco Javier Almendariz Tapia; Patricia Guerrero German; Ana Gabriela Gonçalves Neves Gomes; Jonathan de la Vega Olivas
