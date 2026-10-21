@@ -49,7 +49,7 @@ permalink: /program/
   * [Session 8 – Cognition, learning and human-centred sustainability](#session-8) (Room B - Hybrid - [Join online](https://teams.microsoft.com/meet/32297215170196?p=22pT0jRXuOFoTmSPnL)) (Chairs: Sandrina Moreira and Cláudia Coelho)
   * [Session 9 – Digital transformation, marketing and sustainable tourism](#session-9) (Room C) (Chairs: Filipe Severino and Carla Viana)
 * **12:00-13:00** [Special Session 4 - Connected Minds Projects (Pedagogical Lab)](/#specialsession-friday-4)
-* **13:00-14:00** Lunch
+* **12:30-14:00** Lunch
 * **13:30-14:15** [Special Session 5 - A Closer Look at the E³UDRES² Applied Research Centers of Excellence: Meet three of our Research Centres (Auditorium)](/#specialsession-friday-5) (Chair: Raquel Barreira)
 * **14:15-15:30 – [Parallel Sessions - Slot 4](#parallel-sessions-4)** (Rooms A, B, C, D)
   * [Session 10 – Circular construction, materials and urban transformation](#session-10) (Room A - Hybrid - [Join online](https://teams.microsoft.com/meet/336877159643598?p=pppSgJRE5YGugxFUUD)) (Chairs: Helena Martins and Filipe Severino)
