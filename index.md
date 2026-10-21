@@ -96,6 +96,13 @@ This session explores the resilience of tourism destinations, focusing on govern
 
 #### Special Session 3 – Sustainability and Circular Models
 
+#### Chair
+- Teresa Costa
+
+#### Moderators
+- Pedro Mares
+- Filipe Severino
+
 ##### 09:30–12:00 · Auditorium
 
 Session dedicated to the presentation of circular models, linking circular economy, territorial sustainability, sustainable tourism, waste management, climate adaptation and regional development.
@@ -107,6 +114,13 @@ Session dedicated to the presentation of circular models, linking circular econo
 <section id="specialsession-friday-4" markdown="1">
 
 #### Special Session 4 – Connected Minds Projects
+
+#### Chair
+- Teresa Costa
+
+#### Moderators
+- Pedro Mares
+- Filipe Severino
 
 ##### 12:00–13:00 · Pedagogical Lab
 
