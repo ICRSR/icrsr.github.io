@@ -57,7 +57,7 @@ permalink: /program/
   * [Session 12 – Entrepreneurship, regional development and financial resilience](#session-12) (Room C) (Chairs: Teresa Costa and Carmina Nunes)
   * [Session 13 – Water, climate resilience and environmental biotechnology](#session-13) (Room D - Hybrid - [Join online](https://teams.microsoft.com/meet/373514116947726?p=7PHwmY2UbHGA1NFWPR)) (Chairs: Catarina Paz and Pedro Albuquerque)
 * **15:30-16:00** Coffee break
-* **16:00-17:00** [Special Session 6 - ESG and Financing Report for Resilient and Sustainable Regions / ESG e Relato Financeiro para Regiões Resilientes e Sustentáveis (Auditorium)](/#specialsession-friday-6)
+* **16:00-17:00** [Special Session 6 - ESG and Financial Reporting for Resilient and Sustainable Regions / ESG e Relato Financeiro para Regiões Resilientes e Sustentáveis (Auditorium)](/#specialsession-friday-6) (Moderators: Pedro Pardal and Carlos Mata)
 * **17:00-18:30** PhD Students Session (USP): Entrepreneurship and Innovation (Online - [Join online](https://teams.microsoft.com/meet/3489627258745193?p=wvGOCsQNfRciOwnkes))
 * **18:30** Closing Session (Online - [Join online](https://teams.microsoft.com/meet/3489627258745193?p=wvGOCsQNfRciOwnkes))
 

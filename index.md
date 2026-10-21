@@ -154,11 +154,20 @@ You can find more details about the special session by following [this link]({{ 
 
 <section id="specialsession-friday-6" markdown="1">
 
-#### Special Session 6 – ESG and Financing Report for Resilient and Sustainable Regions / ESG e Relato Financeiro para Regiões Resilientes e Sustentáveis
+#### Special Session 6 – ESG and Financial Reporting for Resilient and Sustainable Regions / ESG e Relato Financeiro para Regiões Resilientes e Sustentáveis
+
+#### Moderators
+- Pedro Pardal, ESCE Dean
+- Carlos Mata, Vice-Rector
 
 ##### 16:00–17:00 · Auditorium
 
-*More details to be added*
+#### Speakers
+- Paula Guimarães, The Navigator Company – Sustainability Director
+- Raquel Baptista Prazeres, PwC – Sustainability and Climate Change Manager
+- Anabela Santos, Ordem dos Contabilistas Certificados (OCC) – Advisor
+
+The session will also have the institutional representation of the Ordem dos Contabilistas Certificados (OCC) by its Vice-President of the Board, Jorge Barbosa.
 
 </section>
 
