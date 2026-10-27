@@ -8,7 +8,7 @@ permalink: /program/
 
 ### Wednesday, 28 October 2026
 
-* **09:00-16:00** Pre-conference meeting of the OHARCE – **CLOSED SESSION** to the members of the prospective E³UDRES² Applied Research Centre of Excellence [OHARCE](https://eudres.eu/research-center-oharce) (Room: Meeting Room C1.24)
+* **09:00-16:00** Pre-conference meeting of the OHARCE – **CLOSED SESSION** to the members of the prospective E³UDRES² Applied Research Centre of Excellence [OHARCE](https://eudres.eu/research-center-oharce) (Room: A2.07)
 
 ---
 
