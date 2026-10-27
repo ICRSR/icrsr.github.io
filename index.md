@@ -163,9 +163,9 @@ You can find more details about the special session by following [this link]({{ 
 ##### 16:00–17:00 · Auditorium
 
 #### Speakers
-- Paula Guimarães, The Navigator Company – Sustainability Director
-- Raquel Baptista Prazeres, PwC – Sustainability and Climate Change Manager
 - Anabela Santos, Ordem dos Contabilistas Certificados (OCC) – Advisor
+- Raquel Baptista Prazeres, PwC – Sustainability and Climate Change Manager
+- Paula Guimarães, The Navigator Company – Sustainability Director
 
 The session will also have the institutional representation of the Ordem dos Contabilistas Certificados (OCC) by its Vice-President of the Board, Jorge Barbosa.
 
