@@ -25,7 +25,7 @@ permalink: /program/
 * **11:45-12:30** [Special Session 2 - Resilient Tourism Territories: Governance, Innovation and Adaptation for a Sustainable Future (Auditorium)](/#specialsession-thursday-2) (Chairs: Mário Silva and Jorge Umbelino)
 * **12:15-13:30 – [Parallel Sessions - Slot 1](#parallel-sessions-1)** (Rooms A, B, C)
   * [Session 1 – Ports, sustainable logistics, artificial intelligence and decision support](#session-1) (Room A) (Chairs: Ana Mendes and Marcela Castro)
-  * [Session 2 – Tourism, events, digital marketing and destination resilience](#session-2) (Room B) (Chairs: Anabela Correia and Filipe Severino)
+  * [Session 2 – Tourism, events, digital marketing and destination resilience](#session-2) (Room B - Hybrid - [Join online](https://teams.microsoft.com/meet/3944780536361764?p=UiZmrYSWtM0f21Xmff)) (Chairs: Anabela Correia and Filipe Severino)
   * [Session 3 – Circular economy, territorial sustainability and climate adaptation](#session-3) (Room C) (Chairs: Boguslawa Sardinha and Pedro Pardal)
 * **13:30-14:30** Light lunch/networking
 * **14:30-15:00** Transfer to the boarding point
@@ -87,9 +87,10 @@ permalink: /program/
 
 <div class="session" id="session-2" markdown="1">
 
-#### **Parallel Session 2 – Tourism, events, digital marketing and destination resilience** (Room B)
+#### **Parallel Session 2 – Tourism, events, digital marketing and destination resilience** (Room B - Hybrid)
 
-**Chairs:** Anabela Correia and Filipe Severino
+**Chairs:** Anabela Correia and Filipe Severino<br>
+**Online:** [Join via Microsoft Teams](https://teams.microsoft.com/meet/3944780536361764?p=UiZmrYSWtM0f21Xmff)
 
 * **Event-Level Coordination Practices in Tourism Events: A Qualitative Study of Operational Routines Among Event Organisers**<br>
   Filipe Segurado Severino; Teresa Costa; Célia M. Q. Ramos
