@@ -21,8 +21,8 @@ permalink: /program/
 * **09:45-10:15** Pro-Rector - Raquel Barreira: Building Research Excellence Together: the E³UDRES² Applied Research Centers initiative
 * **10:15-10:30** Coffee break
 * **10:30-11:00** Keynote lecture - Invited speaker: Resilient and Sustainable Regions in the Context of Green, Digital and Social Transitions (Auditorium)
-* **11:00-11:45** [Special Session 1 - Resilient Tourism Territories: Governance, Innovation and Adaptation for a Sustainable Future (Auditorium)](/#specialsession-thursday-1) (Chairs: Mário Silva and Jorge Umbelino)
-* **11:45-12:30** [Special Session 2 - INnovative and Sustainable iGovernance for High-Value Tourism (Auditorium)](/#specialsession-thursday-2) (Chairs: Teresa Costa and Lurdes Calisto)
+* **11:00-11:45** [Special Session 1 - INnovative and Sustainable iGovernance for High-Value Tourism (Auditorium)](/#specialsession-thursday-1) (Chairs: Teresa Costa and Lurdes Calisto)
+* **11:45-12:30** [Special Session 2 - Resilient Tourism Territories: Governance, Innovation and Adaptation for a Sustainable Future (Auditorium)](/#specialsession-thursday-2) (Chairs: Mário Silva and Jorge Umbelino)
 * **12:15-13:30 – [Parallel Sessions - Slot 1](#parallel-sessions-1)** (Rooms A, B, C)
   * [Session 1 – Ports, sustainable logistics, artificial intelligence and decision support](#session-1) (Room A) (Chairs: Ana Mendes and Marcela Castro)
   * [Session 2 – Tourism, events, digital marketing and destination resilience](#session-2) (Room B) (Chairs: Anabela Correia and Filipe Severino)
