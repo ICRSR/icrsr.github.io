@@ -45,13 +45,29 @@ With a multidisciplinary approach it is expected that this conference will be at
 
 <section id="specialsession-thursday-1" markdown="1">
 
-#### Special Session 1 – Resilient Tourism Territories: Governance, Innovation and Adaptation for a Sustainable Future
+#### Special Session 1 – INnovative and Sustainable iGovernance for High-Value Tourism
+
+#### Chairs
+- Teresa Costa, ESCE/CIEQV/CITUR
+- Lurdes Calisto, ESHTE/CITUR
+
+##### 11:00–11:45 · Auditorium
+
+This session explores the resilience of tourism destinations, focusing on governance, innovation, climate adaptation, pressure on resources, seasonality, digitalisation, risk management and community engagement.
+
+*More details to be added*
+
+</section>
+
+<section id="specialsession-thursday-2" markdown="1">
+
+#### Special Session 2 – Resilient Tourism Territories: Governance, Innovation and Adaptation for a Sustainable Future
 
 #### Chairs
 - Mário Silva, ESHTE/CITUR
 - Jorge Umbelino, ESHTE/CITUR
 
-##### 11:00–11:45 · Auditorium
+##### 11:45–12:30 · Auditorium
 
 This session aims to explore strategies, policies and innovative solutions that strengthen the resilience of tourism destinations in response to contemporary challenges.
 
@@ -67,22 +83,6 @@ The roundtable will bring together complementary perspectives from academia, pub
 - Carlos Albuquerque, ICNF – Regional Director LVT; Head of the Classified Areas Division of Lisboa e Vale do Tejo
 
 You can find more details about the special session by following [this link]({{ 'assets/documents/ICRSR2026_SpecialSession1.pdf' | relative_url }}).
-
-</section>
-
-<section id="specialsession-thursday-2" markdown="1">
-
-#### Special Session 2 – INnovative and Sustainable iGovernance for High-Value Tourism
-
-#### Chairs
-- Teresa Costa, ESCE/CIEQV/CITUR
-- Lurdes Calisto, ESHTE/CITUR
-
-##### 11:45–12:30 · Auditorium
-
-This session explores the resilience of tourism destinations, focusing on governance, innovation, climate adaptation, pressure on resources, seasonality, digitalisation, risk management and community engagement.
-
-*More details to be added*
 
 </section>
 
@@ -163,9 +163,9 @@ You can find more details about the special session by following [this link]({{ 
 ##### 16:00–17:00 · Auditorium
 
 #### Speakers
-- Paula Guimarães, The Navigator Company – Sustainability Director
-- Raquel Baptista Prazeres, PwC – Sustainability and Climate Change Manager
 - Anabela Santos, Ordem dos Contabilistas Certificados (OCC) – Advisor
+- Raquel Baptista Prazeres, PwC – Sustainability and Climate Change Manager
+- Paula Guimarães, The Navigator Company – Sustainability Director
 
 The session will also have the institutional representation of the Ordem dos Contabilistas Certificados (OCC) by its Vice-President of the Board, Jorge Barbosa.
 
