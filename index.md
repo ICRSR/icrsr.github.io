@@ -39,6 +39,8 @@ With a multidisciplinary approach it is expected that this conference will be at
 
 **Conference sessions will be held in English, but some selected sessions will be held in Portuguese (to be announced in the program).**
 
+**See the [full conference program]({{ 'program' | relative_url }}).**
+
 <article id="specialsessions-thursday" markdown="1">
 
 ## Special Sessions – Thursday, 29 October 2026
