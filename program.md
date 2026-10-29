@@ -26,7 +26,7 @@ permalink: /program/
 * **12:15-13:30 – [Parallel Sessions - Slot 1](#parallel-sessions-1)** (Rooms A, B, C)
   * [Session 1 – Ports, sustainable logistics, artificial intelligence and decision support](#session-1) (Room A) (Chairs: Ana Mendes and Marcela Castro)
   * [Session 2 – Tourism, events, digital marketing and destination resilience](#session-2) (Room B - Hybrid - [Join online](https://teams.microsoft.com/meet/3944780536361764?p=UiZmrYSWtM0f21Xmff)) (Chairs: Anabela Correia and Filipe Severino)
-  * [Session 3 – Circular economy, territorial sustainability and climate adaptation](#session-3) (Room C) (Chairs: Boguslawa Sardinha and Pedro Pardal)
+  * [Session 3 – Circular economy, territorial sustainability and climate adaptation](#session-3) (Room C - Hybrid - [Join online](https://teams.microsoft.com/meet/3996273935778843?p=BUj75hjK2kcQFjstGd)) (Chairs: Boguslawa Sardinha and Pedro Pardal)
 * **13:30-14:30** Light lunch/networking
 * **14:30-15:00** Transfer to the boarding point
 * **15:00-17:00** Boat trip (Setúbal/Sado)
@@ -104,9 +104,10 @@ permalink: /program/
 
 <div class="session" id="session-3" markdown="1">
 
-#### **Parallel Session 3 – Circular economy, territorial sustainability and climate adaptation** (Room C)
+#### **Parallel Session 3 – Circular economy, territorial sustainability and climate adaptation** (Room C - Hybrid)
 
-**Chairs:** Boguslawa Sardinha and Pedro Pardal
+**Chairs:** Boguslawa Sardinha and Pedro Pardal<br>
+**Online:** [Join via Microsoft Teams](https://teams.microsoft.com/meet/3996273935778843?p=BUj75hjK2kcQFjstGd)
 
 * **Exploring the Determinants of Circular Practices in Leisure by Households Using the Theory of Planned Behavior: A Qualitative Directed Content Analysis**<br>
   Chathrika Kawmadi Lokuliyana; Aija van der Steina
