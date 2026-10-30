@@ -156,7 +156,7 @@ permalink: /program/
   Eduardo Amaral
 * **Determinants of the Performance of the Iberian Banking Sector (Portugal and Spain)**<br>
   Celina Sousa; Maria Basílio
-* **Financial Sustainability in Local Government: An Analysis of Medium-Sized Municipalities Under the New Financial**<br>
+* **Financial Sustainability in Local Government: An Analysis of Medium-Sized Municipalities**<br>
   Fernando Sardinha; Pedro Pardal; Sandra Nunes; Boguslawa Sardinha
 </div>
 
