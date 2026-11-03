@@ -211,8 +211,8 @@ permalink: /program/
   Svitlana Manzhara
 * **Knowledge, Attitudes and Consumption of Fermented Foods Among Portuguese Adults: A Cross-Sectional Study**<br>
   Ana Maria Pires; Ana Cláudia Sousa
-* **Improving Indoor Comfort Conditions in Educational Spaces**<br>
-  Daniela-Roxana Tămaș-Gavrea; Raluca Iștoan; Simona Emanuela Stanca; Alina-Iulia Verdeș
+* **Experimental Assessment of the Acoustic Performance of Residential Outdoor Surfaces for Human Comfort**<br>
+  Raluca Iștoan; Daniela-Roxana Tămaș-Gavrea; Ancuta Elena Tiuc
 * **From Data to Lived Experience: Transformative Learning Methodology**<br>
   Sandrina B. Moreira; Lurdes Pedro; Aldina Soares; Cláudia Coelho; Célia Quintas; José Rebelo
 * **Emerging Organisational Pathways for Operationalising Doughnut Economics: Insights from a Bibliometric and Qualitative Analysis**<br>
